@@ -1,0 +1,18 @@
+{
+  "slug": "lady-valeria-011",
+  "name": "Lady Valeria",
+  "epithet": "The Gilded Guardian",
+  "faction": "Drexl's Forces",
+  "status": "Fallen",
+  "tags": [
+    "Knight",
+    "Warrior",
+    "Royalty"
+  ],
+  "bio": [
+    "A paragon of grace and unshakable resolve, Lady Valeria was once the brightest light in Valkorath's darkest hour. As a master swordswoman and devout guardian of the old ways, her silver blade sang with divine energy, cleaving through corruption with righteous purpose. Known for her unyielding sense of justice and her deep connection to the sacred forces of light, Valeria fought not for glory, but to protect those who could not protect themselves.",
+    "In the final battle against Lord Drexl, it was Valeria's soul—fierce, pure, and resolute—that fused with Sir Tyrus and Sir Aldric, forming the Ascended Triumvirate. Though her body perished, her spirit lives on within Tyrus, guiding his hand with her strength and compassion. To the people of Valkorath, she is a symbol of selfless courage; to Tyrus, she is an eternal flame within."
+  ],
+  "art": "art/lady-valeria-011.jpg",
+  "source_page": 11
+}

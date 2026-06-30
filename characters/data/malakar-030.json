@@ -1,0 +1,18 @@
+{
+  "slug": "malakar-030",
+  "name": "Malakar",
+  "epithet": "The Twisted Vanguard",
+  "faction": "Unaligned",
+  "status": "Corrupted",
+  "tags": [
+    "Warrior",
+    "Undead"
+  ],
+  "bio": [
+    "Reborn through dark ritual and sinister ambition, Malakar now inhabits the resurrected body of Taron, once a noble warrior and trusted companion. This corrupted union of lich and hero, known as the Twisted Vanguard, merges Taron's martial prowess with Malakar's malevolent sorcery.",
+    "In this new form, Malakar's presence is imposing yet deeply unsettling: Taron's once-heroic visage is warped by veins of shadow and decay, glowing with an eerie, unnatural aura. The combination of Malakar's sinister intellect and Taron's physical might makes him an unparalleled threat on the battlefield.",
+    "Malakar's corruption of Taron's body is not just physical but psychological, twisting the warrior's spirit and virtues into weapons of despair and chaos, forever tainting the legacy of the warrior who once stood against the darkness."
+  ],
+  "art": "art/malakar-030.jpg",
+  "source_page": 30
+}

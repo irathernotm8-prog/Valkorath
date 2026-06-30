@@ -1,0 +1,17 @@
+{
+  "slug": "tyrus-090",
+  "name": "Tyrus",
+  "epithet": "The Last Hero Standing",
+  "faction": "Drexl's Forces",
+  "status": "Active",
+  "tags": [
+    "Knight"
+  ],
+  "bio": [
+    "Once the beacon of hope for Valkorath, Sir Tyrus was a living legend clad in radiant golden armor, remembered for defeating Drexl during his first rise. But when Drexl returned, more powerful than ever, Tyrus knew he could not sit idly by. Despite his age and the fading strength of his immortal gift, he rode out alone—unwavering in duty, bound by honor.",
+    "In his final stand, Tyrus confronted Drexl in the heart of the capital, drawing upon the last remnants of his soul-bound power—shared with the fallen Aldric and Valeria. Though his body was weary, his spirit burned bright. He fought not to win, but to remind Valkorath what courage looked like in the face of overwhelming darkness.",
+    "But Drexl was no longer the enemy Tyrus had once defeated. With terrifying ease, Drexl shattered the legend—breaking Tyrus' armor and tossing his body before the people of Valkorath as a warning. Even in defeat, Tyrus' sacrifice stirred something deeper in the realm—a call to arms, a whisper that heroes do not die in vain."
+  ],
+  "art": "art/tyrus-090.jpg",
+  "source_page": 90
+}

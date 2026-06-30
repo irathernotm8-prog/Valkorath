@@ -1,0 +1,18 @@
+{
+  "slug": "sir-garran-006",
+  "name": "Sir Garran",
+  "epithet": "Veteran of the Iron Oath",
+  "faction": "Order of the Iron Oath",
+  "status": "Active",
+  "tags": [
+    "Knight",
+    "Warrior"
+  ],
+  "bio": [
+    "Sir Garran is a hardened and battle-worn knight of the Order of the Iron Oath, one of the most disciplined and loyal factions in Valkorath. Born into a lineage of knights, Garran was raised with a strict sense of duty, honor, and loyalty to the Order. His early years were spent training relentlessly, and by the time he was old enough to wield a sword, he had already surpassed many of his peers.",
+    "Each conflict left its mark, and over the years, his once-gleaming armor became a testament to his countless battles. His shield is now faded, scarred from blows meant to break his spirit, and his sword bears the wear of time.",
+    "Despite his weathered appearance, Sir Garran remains steadfast in his duty. His loyalty to the Order is unwavering, but he has grown wiser and more skeptical of the politics that drive many of the conflicts. Though still a fierce warrior, Garran no longer fights for glory or titles—he fights to protect what little good remains in Valkorath."
+  ],
+  "art": "art/sir-garran-006.jpg",
+  "source_page": 6
+}

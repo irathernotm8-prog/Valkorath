@@ -1,0 +1,16 @@
+{
+  "slug": "seren-058",
+  "name": "Seren",
+  "epithet": "The Wandering Healer",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "Warrior",
+    "Healer"
+  ],
+  "bio": [
+    "A fearless elven warrior and once village elder, Seren was revered for her wisdom and selfless heart. She saved Thorne at great personal cost, forging a bond of deep respect between them. Seren's death haunted those who loved her—especially her nephew Alexis. Though gone, her legacy lives on through the moral compass she left behind. She remains a symbol of honor and the sacrifices made for peace."
+  ],
+  "art": "art/seren-058.jpg",
+  "source_page": 58
+}

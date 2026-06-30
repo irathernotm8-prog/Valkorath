@@ -1,0 +1,17 @@
+{
+  "slug": "patchwork-086",
+  "name": "Patchwork",
+  "epithet": "The Rogue Soldier",
+  "faction": "Valkorath Crown",
+  "status": "Active",
+  "tags": [
+    "Assassin",
+    "Royalty"
+  ],
+  "bio": [
+    "Patchwork was a nightmarish companion summoned by King Ganador during the Challenge of Rights. Clad in mismatched armor, tubes, and a rusted gasmask that never left his face, he was known for his cruel intelligence and unmatched skill in chemical warfare.",
+    "Once a brilliant alchemist driven mad by his own creations, Patchwork abandoned humanity and rebuilt himself in pieces—metal plates, synthetic lungs, and endless toxins stored in vials across his belt. He reveled in torture not out of malice, but from a warped curiosity. Though defeated, whispers of his volatile brews and deranged genius linger in the darker corners of the realm."
+  ],
+  "art": "art/patchwork-086.jpg",
+  "source_page": 86
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "valerius-100",
+  "name": "Valerius",
+  "epithet": "The First King",
+  "faction": "Valkorath Crown",
+  "status": "Active",
+  "tags": [
+    "Royalty"
+  ],
+  "bio": [
+    "Valerius the First was more than a ruler—he was the bedrock upon which all of Valkorath was built. It was his blood pact with the realm itself that established the magical tether between royalty and balance.",
+    "When he appeared to Reign during the Challenge of Rights, he was no longer a man, but a half-dead specter, a flicker of power bound between life and legacy.",
+    "With a voice like wind through old halls and eyes that had seen centuries, he chose Reign to inherit not the throne—but the truth. His final act was to pass his power on, declaring the era of kings over, and the age of guardians just beginning."
+  ],
+  "art": "art/valerius-100.jpg",
+  "source_page": 100
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "maxim-110",
+  "name": "Maxim",
+  "epithet": "The Old Advisor",
+  "faction": "Drexl's Forces",
+  "status": "Active",
+  "tags": [
+    "Knight",
+    "Mage",
+    "Warrior"
+  ],
+  "bio": [
+    "Though slain before the Challenge, Maxim, mentor to many and guardian of balance, returned through Solas' summoning—his soul untouched by the darkness that claimed so many others. He stood as the embodiment of wisdom, discipline, and light. With holy chains and radiant magic, Maxim held the line against darkness time and again, notably pinning the elder Drexl long enough for Queen Calypso to strike. Even in death, he fought like a knight who had never laid down his sword. When he gave his life a second time—shielding Valerius III—he did so not as a warrior, but as a father to the realm."
+  ],
+  "art": "art/maxim-110.jpg",
+  "source_page": 110
+}

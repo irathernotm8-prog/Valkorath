@@ -1,0 +1,17 @@
+{
+  "slug": "malakar-029",
+  "name": "Malakar",
+  "epithet": "The Withered Lich",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "Mage",
+    "Undead"
+  ],
+  "bio": [
+    "Once a powerful and feared sorcerer, Malakar transcended the limits of mortality to become a lich—a being sustained by dark, forbidden magic. Known for his mastery over decay, death, and curses, Malakar's presence alone is enough to drain the warmth and life from his surroundings.",
+    "He is calculating, ruthless, and harbors a deep-seated disdain for the equilibrium that governs Valkorath. His form, skeletal and twisted, concealed by tattered robes and spectral armor, is both a testament to his unnatural longevity and a grim reminder of his relentless pursuit of ultimate power. Malakar's ambitions extend beyond mere conquest; he seeks to dismantle the very fabric of reality, plunging the world into unchecked chaos"
+  ],
+  "art": "art/malakar-029.jpg",
+  "source_page": 29
+}

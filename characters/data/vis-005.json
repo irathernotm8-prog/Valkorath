@@ -1,0 +1,19 @@
+{
+  "slug": "vis-005",
+  "name": "Vis",
+  "epithet": "The Guardian Witch",
+  "faction": "Last Bastion",
+  "status": "Fallen",
+  "tags": [
+    "Mage",
+    "Warrior",
+    "Assassin"
+  ],
+  "bio": [
+    "Vis is a cunning and fiercely loyal warrior hailing from the mystic Eastern Marshlands. Once a rogue assassin and master of venomous magic, she grew into a formidable leader after the fall of her homeland. Initially guarded and driven by survival, Vis found a sense of purpose among the heroes of the Last Bastion, forging deep bonds with Reign and the others who fought for Valkorath's future.",
+    "With her enchanted serpent companion, Venin, and mastery over trap-based and poison-infused spells, Vis became one of the Bastion's deadliest and most tactical fighters. Her abilities reached a terrifying peak during the battle in the King's Chamber, when she unleashed the Histroph Devourer Spell, transforming Venin into a colossal, magical serpent of destruction.",
+    "Haunted by loss—especially the death of her comrade Taron—and hardened by war, Vis balances her sharp pragmatism with deep emotional intuition. As the war against chaos escalates, she stands not just as a warrior, but as a symbol of adaptability, vengeance, and unexpected grace."
+  ],
+  "art": "art/vis-005.jpg",
+  "source_page": 5
+}

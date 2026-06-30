@@ -1,0 +1,15 @@
+{
+  "slug": "lordran-071",
+  "name": "Lordran",
+  "epithet": "Shield of Valebrokk",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "Unclassified"
+  ],
+  "bio": [
+    "Lordran is the steadfast and honorable middle brother of the fractured Fjord Clan lineage. Unlike his siblings, Clay and Bjorn, Lordran possesses no enchanted gifts, no mechanical enhancements—only his unwavering moral compass and unshakable sense of duty. He serves as a bridge between chaos and order, often thrust into the role of peacemaker whether he wants it or not. While others fight for glory or cunning, Lordran's strength lies in leadership, humility, and his willingness to carry burdens that others cast aside. Though overlooked in battle, it is often Lordran who ensures the battle ends at all."
+  ],
+  "art": "art/lordran-071.jpg",
+  "source_page": 71
+}

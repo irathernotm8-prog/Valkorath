@@ -1,0 +1,16 @@
+{
+  "slug": "vorthar-026",
+  "name": "Vorthar",
+  "epithet": "The Crimson Lancer",
+  "faction": "Drexl's Forces",
+  "status": "Corrupted",
+  "tags": [
+    "Warrior"
+  ],
+  "bio": [
+    "Once one of Drexl's most formidable and loyal lieutenants, Vorthar was a brutal warrior-magister who wielded corrupted elemental lance with devastating precision. Towering in stature and clad in armor scorched by countless battles, he led Drexl's vanguard during the early campaigns to unify Valkorath through fear and strength.",
+    "Vorthar's downfall came at the hands of Malakar, who ambushed and overwhelmed him during an early encounter."
+  ],
+  "art": "art/vorthar-026.jpg",
+  "source_page": 26
+}

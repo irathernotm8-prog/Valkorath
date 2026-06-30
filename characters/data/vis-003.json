@@ -1,0 +1,18 @@
+{
+  "slug": "vis-003",
+  "name": "Vis",
+  "epithet": "The Poison Witch",
+  "faction": "Eastern Marshlands",
+  "status": "Active",
+  "tags": [
+    "Mage",
+    "Healer"
+  ],
+  "bio": [
+    "Vis was born in the shadowy outskirts of the Eastern Marshlands, a region known for its toxic swamps and deadly creatures. From a young age, she was fascinated by the flora and fauna that thrived in such harsh conditions. While others feared the marsh's venomous plants and creatures, Vis saw them as a source of power and began studying their properties.",
+    "Her natural talent for alchemy and magic led her to specialize in poison-based spells and potions, mastering the art of paralysis, sleep, and toxins. Despite her dangerous abilities, Vis is kind-hearted, known for healing the sick and defending the weak. She uses her powers only against those who threaten the peace of Valkorath, offering a gentle hand to those in need. Her poison-coated dagger, though lethal, is rarely drawn, and her spells are more often used to disable rather than destroy.",
+    "Vis's closest companion is her snake familiar, Venin, a creature she rescued from the deadly swamps. Venin shares a magical bond with her, often assisting in her spells or providing protection. Many fear Vis due to her appearance and her association with poison, but those who know her understand that her heart is pure, even if her powers are not."
+  ],
+  "art": "art/vis-003.jpg",
+  "source_page": 3
+}

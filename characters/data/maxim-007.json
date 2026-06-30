@@ -1,0 +1,19 @@
+{
+  "slug": "maxim-007",
+  "name": "Maxim",
+  "epithet": "Leader of the Hidden Holy Order",
+  "faction": "Hidden Holy Order",
+  "status": "Fallen",
+  "tags": [
+    "Mage",
+    "Royalty"
+  ],
+  "bio": [
+    "Maxim is a powerful, enigmatic mage who once led the Hidden Holy Order and served as the chief advisor to King Valerius. Clad in flowing white and gold robes, he carries a radiant staff and is known for his immense wisdom and mastery of divine and arcane magic. For centuries, Maxim was the unseen hand guiding the fate of Valkorath—his unnaturally long life preserved by the imprisoned light aspect, Liora, whom he kept beneath the capital.",
+    "Though revered by many, Maxim's legacy is conflicted. He believed maintaining a delicate imbalance between light and dark would ensure stability in the realm. This led him to make morally grey choices, including imprisoning Liora and concealing truths about Drexl's fall. Despite this, he was deeply committed to protecting Valkorath.",
+    "In the battle of Tiadel, Maxim fought valiantly against Drexl, revealing his full might for the first time in generations. Ultimately, he fell in battle—his death marking both the end of the old order and the beginning of a new age.",
+    "Maxim's name endures as both a savior and a symbol of the cost of unchecked control. His son, Aegen, now carries the burden of his legacy."
+  ],
+  "art": "art/maxim-007.jpg",
+  "source_page": 7
+}

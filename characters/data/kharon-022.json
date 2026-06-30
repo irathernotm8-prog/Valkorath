@@ -1,0 +1,17 @@
+{
+  "slug": "kharon-022",
+  "name": "Kharon",
+  "epithet": "The Iron Knight",
+  "faction": "Order of the Iron Oath",
+  "status": "Active",
+  "tags": [
+    "Knight",
+    "Warrior"
+  ],
+  "bio": [
+    "In the ancient lands of Valkorath, where brutal wars and mystical forces shape the destiny of the world, Kharon was once a proud knight of the sacred Order of the Iron Oath. The Order, sworn to protect the High Kingdom of Valkorath, was known for its unmatched prowess in battle, its warriors bound by an unbreakable code of honor, loyalty, and sacrifice. Kharon, born in a small village on the outskirts of the kingdom, was taken into the Order as a young boy after his village was destroyed in one of the endless wars that ravaged the realm.",
+    "Kharon's appearance is a chaotic mix of different styles and materials, giving him the impression of a lone warrior who has had to scrape together his gear from diverse sources. The abrupt transitions between the different design elements contribute to a disjointed look that still retains a sense of purpose. His posture is sturdy, and though he is well-built, his size is now more moderate compared to earlier versions—giving him a practical and more worn appearance rather than a towering, invincible giant."
+  ],
+  "art": "art/kharon-022.jpg",
+  "source_page": 22
+}

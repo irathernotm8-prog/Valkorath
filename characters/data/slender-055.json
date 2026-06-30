@@ -1,0 +1,18 @@
+{
+  "slug": "slender-055",
+  "name": "Slender",
+  "epithet": "The Chainbound Rogue",
+  "faction": "Shattered Vale",
+  "status": "Active",
+  "tags": [
+    "Warrior",
+    "Assassin"
+  ],
+  "bio": [
+    "Slender is a dark enforcer of the Shattered Vale, known across Valkorath as the Chain-Wielder, a title earned through his mastery of a long, cursed chain crackling with shadow energy. Lean, sharp-eyed, and oozing malice, Slender is a figure of fear and reputation—especially in the lawless parts of the realm. Once a feared hunter who operated in the shadows under Drexl's reign, Slender remained in the Vale after the empire fractured, becoming a local legend among outlaws and outcasts.",
+    "He is bitter, cunning, and driven by a warped sense of justice. When Reign returned to the Vale, Slender immediately challenged him, not just with blades—but with words. He spoke scornfully of Reign's brother, Solas the Silver Tongue, honoring him while mocking Reign's inability to live up to that legacy. In battle, Slender proved ruthless, using his cursed chain to knock Reign off his feet and overwhelm him with relentless, calculated strikes. But when Reign struck back with raw fury, Slender goaded him even in defeat—challenging Reign's control and identity.",
+    "Slender isn't just a fighter; he's a provoker, a tempter, and a keeper of old grudges. Though Reign walked away from their fight, Slender's haunting final words—“Didn't have it in you, did you?”—suggest he may yet return, waiting for another chance to pull Reign deeper into darkness."
+  ],
+  "art": "art/slender-055.jpg",
+  "source_page": 55
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "lumbar-066",
+  "name": "Lumbar",
+  "epithet": "The Emerald Grovekeeper",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "Druid"
+  ],
+  "bio": [
+    "A towering druid of ancient blood, Lumbar is said to have been born beneath the World Tree and never once left the forest until summoned to battle. With moss growing from his shoulders and a beard woven with ivy, he embodies the patience and ferocity of nature. Though slow to speak, his words carry the wisdom of centuries. During Valkorath's darkest days, he allied with Kaelor to repel the corruption spreading through the Eastern wilds. While others wield swords, Lumbar commands the forest itself—calling trees to move, stones to rise, and winds to protect those who respect the old ways."
+  ],
+  "art": "art/lumbar-066.jpg",
+  "source_page": 66
+}

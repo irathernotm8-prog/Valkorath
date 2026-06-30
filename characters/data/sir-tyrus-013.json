@@ -1,0 +1,17 @@
+{
+  "slug": "sir-tyrus-013",
+  "name": "Sir Tyrus",
+  "epithet": "The Gilded Champion",
+  "faction": "Drexl's Forces",
+  "status": "Fallen",
+  "tags": [
+    "Knight",
+    "Royalty"
+  ],
+  "bio": [
+    "In the decisive battle against Lord Drexl, Sir Tyrus underwent a profound transformation, merging his soul with those of his companions, Sir Aldric and Lady Valeria, becoming the Gilded Champion. In this transcendent form, Tyrus embodied the strength, courage, and wisdom of all three warriors. His golden armor blazed with divine energy, radiating an otherworldly light, and his power surged beyond mortal limits.",
+    "As the Gilded Champion, Tyrus struck down Drexl, bringing temporary peace to Valkorath—but at the cost of forever intertwining his destiny with the souls of his fallen comrades. Though this form granted him unmatched strength, it also left him forever haunted, a constant reminder of sacrifice and loss."
+  ],
+  "art": "art/sir-tyrus-013.jpg",
+  "source_page": 13
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "liora-036",
+  "name": "Liora",
+  "epithet": "The Light Aspect",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "Warrior",
+    "Healer"
+  ],
+  "bio": [
+    "Liora is the radiant half of Aetheris, the being of balance who guards the Sanctum of Aetheris. When Aetheris is pushed toward the light, they shift into Liora, the radiant warrior whose presence embodies hope, healing, and the unwavering resolve of Valkorath's light."
+  ],
+  "art": "art/liora-036.jpg",
+  "source_page": 36
+}

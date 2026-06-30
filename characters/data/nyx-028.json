@@ -1,0 +1,17 @@
+{
+  "slug": "nyx-028",
+  "name": "Nyx",
+  "epithet": "The Shadowfang",
+  "faction": "Drexl's Forces",
+  "status": "Active",
+  "tags": [
+    "Mage",
+    "Assassin"
+  ],
+  "bio": [
+    "Nyx is a deadly rogue and former elite assassin who once served Drexl before turning to darker forces. Wielding twin enchanted daggers and draped in black and violet cloth, Nyxis moves like a wraith in the dark, striking before his enemies even know he's near. Thought dead after a failed mission, he re-emerged under Zornath's banner, empowered by cursed magic and a thirst for chaos.",
+    "A taunter by nature and cruel by design, Nyx views combat as a game—and his enemies as pieces to dismantle. Despite his treachery and ego, his skills make him one of the most feared blades in Valkorath's shadows."
+  ],
+  "art": "art/nyx-028.jpg",
+  "source_page": 28
+}

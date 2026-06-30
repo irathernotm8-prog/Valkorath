@@ -1,0 +1,18 @@
+{
+  "slug": "sir-thorne-valecross-056",
+  "name": "Sir Thorne Valecross",
+  "epithet": "The Stoic Protector",
+  "faction": "Valkorath Crown",
+  "status": "Fallen",
+  "tags": [
+    "Knight",
+    "Mage",
+    "Warrior"
+  ],
+  "bio": [
+    "Once a decorated knight of the royal army, Sir Thorne Valecross now stands as a battle-scarred veteran bearing the weight of loss, betrayal, and fading ideals. Adorned in weathered armor etched with glowing white runes, Thorne channels protective magic that allows him to fight long past his prime. He is calm, measured, and quietly hopeful, though grief lingers in his eyes—especially for Seren, the elven warrior who saved his life and whom he could never truly protect.",
+    "Thorne serves as both shield and mentor, particularly to younger warriors like Alaric, seeking to ensure that a better world rises from the ashes of the old. His resolve remains unshaken even as betrayal, like Alaric's defection and the death of Seren, pierce deeper than any blade. To the Resistance and the people of Valkorath, he is a symbol of endurance: not because he is unbreakable, but because he continues, despite being broken."
+  ],
+  "art": "art/sir-thorne-valecross-056.jpg",
+  "source_page": 56
+}

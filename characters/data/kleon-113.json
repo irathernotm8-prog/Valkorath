@@ -1,0 +1,20 @@
+{
+  "slug": "kleon-113",
+  "name": "Kleon",
+  "epithet": "The King Out of Time",
+  "faction": "Drexl's Forces",
+  "status": "Active",
+  "tags": [
+    "Knight",
+    "Warrior",
+    "Royalty"
+  ],
+  "bio": [
+    "Kleon was born of Sir Hythm, the monk-king who rejected power, and became the most paradoxical figure in the royal line—a scholar of time, a warrior of immense discipline, and the father of Queen Calypso. From a young age, Kleon saw time differently—not as a line, but a sea of choices, echoes, and collisions. He was a philosopher-king, obsessed with protecting Valkorath not just in the present, but across all timelines.",
+    "Crowned during a brief era of peace, Kleon sought knowledge above conquest. But that peace ended when a temporal invader named Gothar emerged—an ancient being who devoured timelines and rewrote fate with every swing of his blade. To stop him, Kleon ventured into the time stream itself, armed with the Sundial Blade, a weapon forged by bending time through runic crystal.",
+    "Neither he nor Gothar ever returned.",
+    "Kleon became legend, then myth—his fate unknown, his legacy obscured. Some believe he still wanders forgotten loops of history, protecting Valkorath from temporal threats that no one remembers. Others say his sacrifice sealed away horrors that would have ended the world long before Drexl rose."
+  ],
+  "art": "art/kleon-113.jpg",
+  "source_page": 113
+}

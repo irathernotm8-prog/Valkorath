@@ -1,0 +1,16 @@
+{
+  "slug": "zarok-016",
+  "name": "Zarok",
+  "epithet": "Speed of the Orc",
+  "faction": "Last Bastion",
+  "status": "Active",
+  "tags": [
+    "Beast/Creature"
+  ],
+  "bio": [
+    "Zarok is Grull's cunning and sharp-tongued companion—small in stature but large in personality. A goblin with a mind for strategy and sabotage, Zarok rides on Grull's shoulder in battle, often serving as both a scout and advisor. His wit and sarcasm are only matched by his keen intellect and surprising battlefield creativity.",
+    "Once a misfit with no place to call home, Zarok found purpose alongside Grull and later, with the heroes of the Last Bastion. Though he rarely shows it, Zarok is fiercely loyal to those he considers friends and is often the first to volunteer for dangerous reconnaissance missions. His dynamic with Grull provides both humor and heart, making the duo one of the most memorable alliances in Valkorath."
+  ],
+  "art": "art/zarok-016.jpg",
+  "source_page": 16
+}

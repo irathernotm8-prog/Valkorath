@@ -1,0 +1,16 @@
+{
+  "slug": "sir-tyrus-010",
+  "name": "Sir Tyrus",
+  "epithet": "The Lone Holy Knight",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "Knight"
+  ],
+  "bio": [
+    "Sir Tyrus stands as one of Valkorath's greatest living heroes, a knight whose valor and sacrifice have etched his name into legend. Clad in golden armor, Tyrus remains a symbol of hope and courage for the people, though privately burdened by the memories of those he lost.",
+    "Over centuries of conflict, his once-bright spirit has grown weary, overshadowed by the weight of his legacy. Despite this inner turmoil, he continues to defend the kingdom tirelessly, driven by duty and the honor of those who fell beside him. To Valkorath's citizens, he remains an unwavering beacon of strength; within himself, he carries the quiet grief of a hero who survived when others did not."
+  ],
+  "art": "art/sir-tyrus-010.jpg",
+  "source_page": 10
+}

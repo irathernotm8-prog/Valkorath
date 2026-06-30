@@ -1,0 +1,17 @@
+{
+  "slug": "landis-093",
+  "name": "Landis",
+  "epithet": "The Embered King",
+  "faction": "Valkorath Crown",
+  "status": "Active",
+  "tags": [
+    "Mage",
+    "Royalty"
+  ],
+  "bio": [
+    "Landis, son of Valerius II, was once a bright, kind-hearted prince—thoughtful and deeply attuned to elemental magic. But the tragedies of betrayal, war, and the loss of his most loyal companion, Helmut, broke something within him.",
+    "By the time of the Challenge of Rights, Landis was a flickering ember of the boy he once was, his body ravaged by grief and flames that never ceased to burn. Even in his weakened state, his presence was haunting. Though he appeared frail, his heart beat with the fire of generations—and when called upon, that fire returned in full force."
+  ],
+  "art": "art/landis-093.jpg",
+  "source_page": 93
+}

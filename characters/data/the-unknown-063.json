@@ -1,0 +1,19 @@
+{
+  "slug": "the-unknown-063",
+  "name": "The Unknown",
+  "epithet": "Beyond Time",
+  "faction": "Drexl's Forces",
+  "status": "Active",
+  "tags": [
+    "Mage",
+    "Warrior",
+    "Royalty"
+  ],
+  "bio": [
+    "The Unknown is not a warrior, nor a king, nor a creature of clear intent. He is skeletal in form, with hollow eyes that seem to look through time itself. Appearing in moments of great cosmic imbalance--never interfering, never speaking--The Unknown exists outside the known laws of Valkorath. Some claim he is a remnant of a fallen deity, others believe he is the embodiment of consequence itself.",
+    "Though he never raises a blade, his presence is felt as deeply as any spell. When he appears, the air chills, and fate itself seems to hold its breath. Drexl feared him. Death acknowledged him. And even the timewalker dared not challenge him.",
+    "His purpose remains a mystery. But to those who have seen him and lived--there is no forgetting the feeling that he is not observing you... but remembering you."
+  ],
+  "art": "art/the-unknown-063.jpg",
+  "source_page": 63
+}

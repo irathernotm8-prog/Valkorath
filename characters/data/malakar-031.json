@@ -1,0 +1,17 @@
+{
+  "slug": "malakar-031",
+  "name": "Malakar",
+  "epithet": "The Twisted Machine",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "Mage",
+    "Undead"
+  ],
+  "bio": [
+    "After seizing the power of Corthos, the Clockwork Sentinel, Malakar evolved into a terrifying synthesis of arcane darkness and mechanical precision. Now known as the Twisted Machine, Malakar's skeletal frame is reinforced by intricate, rune-inscribed gears, cogs, and metallic plating, pulsing with dark energies. His movements, once merely sinister, are now precise and calculated, each step and gesture echoing with mechanical resonance.",
+    "This fusion grants Malakar dominion not only over necromantic and decay magic but also command of time-altering and mechanical manipulation abilities. Coldly logical yet cruelly inventive, Malakar's newfound form embodies both relentless efficiency and unending malevolence—making him a harbinger of chaos who threatens to rewrite the very rules governing life, death, and time itself."
+  ],
+  "art": "art/malakar-031.jpg",
+  "source_page": 31
+}

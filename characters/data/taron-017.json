@@ -1,0 +1,19 @@
+{
+  "slug": "taron-017",
+  "name": "Taron",
+  "epithet": "The Ghostly Vanguard",
+  "faction": "Last Bastion",
+  "status": "Corrupted",
+  "tags": [
+    "Mage",
+    "Warrior",
+    "Undead"
+  ],
+  "bio": [
+    "Resurrected by Lina's powerful magic, Taron walked the realm of the living as a spectral warrior, his glowing blue skin and pulsing runes serving as constant reminders of his ethereal state. His long straight white hair, coupled with his blue and black armor adorned with white fur around the collar, gives him an imposing and otherworldly appearance. The blue spirit eagle that accompanies him is not just a symbol of his rebirth but an extension of his spectral might, aiding him in battle.",
+    "Taron was a noble spirit warrior with a deeply rooted sense of duty and sacrifice. Once Lina's steadfast companion and a beacon of hope among the heroes, he was known for his honorable heart and spectral combat abilities, granted to him through ancient rituals. He fell many moons ago, only to be later corrupted by Malakar and turned into a grim avatar of darkness.",
+    "Even in corruption, a fragment of Taron's spirit remained, which ultimately allowed him to break free momentarily—long enough to inspire those who still fought for good. His legacy lingers in Lina's heart and in the motivations of the Last Bastion's warriors. Taron is remembered as a symbol of valor and tragic loss."
+  ],
+  "art": "art/taron-017.jpg",
+  "source_page": 17
+}

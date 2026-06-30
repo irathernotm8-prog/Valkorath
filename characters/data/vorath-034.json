@@ -1,0 +1,17 @@
+{
+  "slug": "vorath-034",
+  "name": "Vorath",
+  "epithet": "The Purified Evil",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "Mage"
+  ],
+  "bio": [
+    "When Vorath consumed the soul of Priest David, something unexpected occurred. David's pure essence, infused with light and holy magic, began to alter Vorath's form. His hulking, sinewy body became slightly slimmer, and a strange purple hue overtook his once crimson flesh.",
+    "The dark magic inside Vorath reacted to David's soul, mutating him further, causing tendrils to sprout from his back, capable of extending and retracting at will. These new tendrils became deadly weapons in battle, but when not engaged in combat, they retreat into his body.",
+    "After the transformation, Vorath's once insatiable thirst for torture seemed to fade. Outside of battle, he appears lost and sad, as if David's essence had tempered his violent nature. His demented grin is now gone, replaced with a hollow expression, as if struggling between the darkness that created him and the light that now lingers within him."
+  ],
+  "art": "art/vorath-034.jpg",
+  "source_page": 34
+}

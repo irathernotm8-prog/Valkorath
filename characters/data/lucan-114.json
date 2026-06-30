@@ -1,0 +1,17 @@
+{
+  "slug": "lucan-114",
+  "name": "Lucan",
+  "epithet": "The King That Never Was",
+  "faction": "Garrux's Empire",
+  "status": "Active",
+  "tags": [
+    "Assassin",
+    "Royalty"
+  ],
+  "bio": [
+    "Born in secret during the height of Helios' monstrous reign, Lucan was the last surviving heir of the Warbound King's bloodline. Unlike his father, Lucan inherited neither fury nor fire—but clarity. Hidden away by his mother and raised in the shattered borderlands, Lucan grew up knowing his name was both a legacy and a curse. He trained in silence, away from courts and thrones, guided by the writings of Valerius II and the myths of Garrux. Where Helios sought domination, Lucan sought understanding.",
+    "Had the throne ever been his to claim, history may have changed. Instead, Lucan emerged during the final age of reckoning as a rogue force—a king not crowned, but chosen by the people he helped save. Refusing royal titles, he fought under no banner but honor, wielding a longspear inscribed with ancient prophecy. Though he never ruled, his leadership shaped lives. And those who met him spoke of a strange calm in his presence—like a storm that had already passed."
+  ],
+  "art": "art/lucan-114.jpg",
+  "source_page": 114
+}
