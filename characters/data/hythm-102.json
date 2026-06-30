@@ -1,0 +1,20 @@
+{
+  "slug": "hythm-102",
+  "name": "Hythm",
+  "epithet": "The King Immortal",
+  "faction": "Valkorath Crown",
+  "status": "Active",
+  "tags": [
+    "Royalty",
+    "Healer"
+  ],
+  "bio": [
+    "Hythm was born of royal blood but lived like a common monk, retreating from court life to meditate in the high reaches of the northern mountains. Known for his calm eyes and soft speech, Hythm was a master of elemental balance—wielding both sword and spirit with gentle precision. He wanted no part of the throne and turned away from politics, trusting in the natural rhythm of the world.",
+    "But blood has memory, and when the Challenge of Rights was invoked, Hythm was called forth by fate itself. Though many doubted his claim, Death confirmed his royal eligibility. In truth, Hythm was descended from the early branch of Valerius I's bloodline, though generations removed.",
+    "During the challenge, Hythm remained detached but watchful. He chose not to fight unless provoked and summoned no companion. His quiet presence in the battlefield was unsettling—like a calm before a storm that never came. Ultimately, he forfeited the crown, believing no one should control the balance through blood alone.",
+    "He fathered Kleon, and through him, Calypso, leaving behind not a kingdom, but a lineage—one shaped by restraint rather than conquest.",
+    "Even now, it's said Hythm walks the quiet paths of Valkorath, healing wounds where armies once clashed. Not as a king. But as a keeper of peace."
+  ],
+  "art": "art/hythm-102.jpg",
+  "source_page": 102
+}

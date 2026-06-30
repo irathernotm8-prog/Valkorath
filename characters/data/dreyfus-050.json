@@ -1,0 +1,17 @@
+{
+  "slug": "dreyfus-050",
+  "name": "Dreyfus",
+  "epithet": "The Silent King",
+  "faction": "Hidden Holy Order",
+  "status": "Fallen",
+  "tags": [
+    "Royalty"
+  ],
+  "bio": [
+    "King Dreyfus was once hailed as a unifying force in Valkorath's darkest era—a stoic and principled ruler who led the charge against Malakar alongside his brother, Drexl. Regal in bearing and revered by his people, Dreyfus was known for his sharp mind and unwavering commitment to peace. Yet beneath his noble exterior lay a man torn between loyalty to his realm and love for his brother.",
+    "When Drexl's vision of a united Valkorath began to challenge the authority of the Hidden Holy Order, Dreyfus found himself at a terrible crossroads. Though he knew of the order's manipulations—chief among them, the vilification of Drexl and the rewriting of history—he chose silence. Trusting Maxim and fearing civil collapse, he stood by as his own brother was branded a villain and cast down.",
+    "Dreyfus's betrayal was not born of hatred, but of hesitation. He believed that sacrificing the truth was a necessary evil to preserve the kingdom's fragile peace. History remembers him as the righteous king who defeated Drexl, but those who know the truth understand: Dreyfus chose the realm over blood, and that choice fractured both."
+  ],
+  "art": "art/dreyfus-050.jpg",
+  "source_page": 50
+}

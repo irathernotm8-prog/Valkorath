@@ -1,0 +1,17 @@
+{
+  "slug": "kaelor-020",
+  "name": "Kaelor",
+  "epithet": "Druid of Decay",
+  "faction": "Eastern Marshlands",
+  "status": "Active",
+  "tags": [
+    "Mage",
+    "Druid"
+  ],
+  "bio": [
+    "Kaelor, known as the Druid of Decay, is a stoic and enigmatic figure who served as a mentor to Vis and guardian of the Eastern Marshlands. His magic draws from the cycles of life and death, using nature's decay as a weapon against corruption. Though ancient in spirit, Kaelor remains sharp in both wisdom and power, capable of summoning vines, roots, and elemental forces at will.",
+    "Often quiet but deeply insightful, Kaelor plays the role of an elder statesman among the heroes of the Bastion. His understanding of ancient forces—including the Titans and the primal balance of Valkorath—makes him an invaluable source of counsel in the war to come."
+  ],
+  "art": "art/kaelor-020.jpg",
+  "source_page": 20
+}

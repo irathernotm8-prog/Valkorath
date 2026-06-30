@@ -1,0 +1,18 @@
+{
+  "slug": "calypso-089",
+  "name": "Calypso",
+  "epithet": "The Shining Queen",
+  "faction": "Drexl's Forces",
+  "status": "Active",
+  "tags": [
+    "Mage",
+    "Warrior",
+    "Royalty"
+  ],
+  "bio": [
+    "Once a warrior-queen of unmatched power and poise, Calypso ruled beside her consort in a forgotten era of Valkorath. Known for her command of elemental magic and her unwavering will, she was both nurturer and executioner—a sovereign who led with compassion but never hesitated to wield the storm.",
+    "She was the mother of Drexl, and though she raised him in war and discipline, his fall broke her spirit. When she returned during the Challenge of Rights, she fought not to reclaim her crown, but to redeem her bloodline. In the end, she fell by her own son's hand, her final act one of sorrow, not hatred."
+  ],
+  "art": "art/calypso-089.jpg",
+  "source_page": 89
+}

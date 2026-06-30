@@ -1,0 +1,17 @@
+{
+  "slug": "kandor-084",
+  "name": "Kandor",
+  "epithet": "Wielder of the Sword",
+  "faction": "Valkorath Crown",
+  "status": "Active",
+  "tags": [
+    "Knight",
+    "Warrior",
+    "Royalty"
+  ],
+  "bio": [
+    "Kandor is a noble and formidable knight from the era of King Valerius II, once the original wielder of the blade Thunderstrike. Tall, regal, and clad in gleaming armor, Kandor embodies valor, loyalty, and an unbreakable spirit. Despite being displaced from his time, Kandor quickly proves to be a steadfast ally, fighting alongside Reign during the Challenge of Rights. Wise yet still full of a warrior's fire, Kandor is a living link to Valkorath's golden age, determined to protect the realm's future"
+  ],
+  "art": "art/kandor-084.jpg",
+  "source_page": 84
+}

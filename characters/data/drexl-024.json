@@ -1,0 +1,20 @@
+{
+  "slug": "drexl-024",
+  "name": "Drexl",
+  "epithet": "Darkness Rising",
+  "faction": "Hidden Holy Order",
+  "status": "Active",
+  "tags": [
+    "Mage",
+    "Warrior",
+    "Royalty"
+  ],
+  "bio": [
+    "Drexl was once a beloved figure in Valkorath's history—a warrior of unmatched strength and brother to King Dreyfus. In the early days of the realm's unification, he fought valiantly alongside his brother and the legendary mage Maxim to defeat Malakar, helping usher in an era of peace.",
+    "But ambition, betrayal, and manipulation by the Hidden Holy Order twisted Drexl's path. As he sought to unite Valkorath under one banner, the Order branded him a villain. Maxim orchestrated a campaign to destroy his reputation, turning even trusted allies against him. Drexl was cast down and presumed dead.",
+    "Years later, he returned—not as the man he once was, but as a figure cloaked in pale skin, white flowing hair, and burning red eyes. Wielding a massive battle axe and clad in black armor, Drexl became the symbol of dread and power, leading an army of darkness with cold precision.",
+    "Though feared, Drexl's actions are rooted in pain and betrayal. His war was never for conquest alone, but for justice, vengeance, and the dismantling of a kingdom built on lies. After defeating Maxim and exposing the truth behind Valkorath's foundations, Drexl vanished into the shadows, content—for now."
+  ],
+  "art": "art/drexl-024.jpg",
+  "source_page": 24
+}

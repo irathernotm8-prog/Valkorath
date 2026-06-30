@@ -1,0 +1,18 @@
+{
+  "slug": "garrux-096",
+  "name": "Garrux",
+  "epithet": "The Warbound King",
+  "faction": "Garrux's Empire",
+  "status": "Active",
+  "tags": [
+    "Royalty",
+    "Beast/Creature"
+  ],
+  "bio": [
+    "Garrux was a titan of his age—a conqueror whose reign saw Valkorath stretch beyond its known limits. Though many feared him, few could deny his charisma or vision. With his bare hands, he forged alliances, shattered kingdoms, and built legacies.",
+    "His children were many, but none were deemed worthy of his crown. Instead, Garrux chose his grandson, Valerius II, believing the future needed peace more than power.",
+    "When the Challenge of Rights stirred the realm, Garrux returned—not to compete, but to test. Bound by a pact with Death, he stood as a gatekeeper with two companions, ready to judge if any bore the strength and wisdom to lead where he once ruled."
+  ],
+  "art": "art/garrux-096.jpg",
+  "source_page": 96
+}

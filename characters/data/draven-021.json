@@ -1,0 +1,18 @@
+{
+  "slug": "draven-021",
+  "name": "Draven",
+  "epithet": "Blackscale",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "Mage",
+    "Warrior",
+    "Beast/Creature"
+  ],
+  "bio": [
+    "Draven is a half-dragon warrior with a fearsome presence and a loyal heart. Born of both dragon and human blood, he stands out for his towering physique, green flame magic, and deep sense of identity crisis. Rejected by many dragons and misunderstood by humans, Draven has always walked a solitary path—until meeting Reign and joining the fight against darkness.",
+    "Equipped with immense strength and the ability to breathe green fire, Draven is a devastating force in battle. Despite his monstrous appearance, he is deeply introspective and driven by a code of honor. His internal struggle with loyalty, identity, and legacy continues to shape his role as both warrior and brother-in-arms."
+  ],
+  "art": "art/draven-021.jpg",
+  "source_page": 21
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "clay-072",
+  "name": "Clay",
+  "epithet": "The Smoke Behind the Flame",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "Mage",
+    "Warrior"
+  ],
+  "bio": [
+    "Clever, cunning, and dangerous in the most subtle of ways, Clay is the oldest of the Valebrokk brothers. Known as the Deceiver, he crafts schemes with the precision of a smith forging blades. With a talent for illusion magic and manipulation, Clay is less a warrior and more a strategist—though few would accuse him of cowardice. He views the world as a chessboard and people as pieces to be used, yet beneath his bravado is a deep fear of being powerless. Though often distrusted, Clay has repeatedly proven his loyalty to his people—though it's never quite clear why he helps… only that it serves some deeper plan."
+  ],
+  "art": "art/clay-072.jpg",
+  "source_page": 72
+}

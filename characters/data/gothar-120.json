@@ -1,0 +1,20 @@
+{
+  "slug": "gothar-120",
+  "name": "Gothar",
+  "epithet": "The Timebound Tyrant",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "Mage",
+    "Warrior"
+  ],
+  "bio": [
+    "No records name Gothar's origin. No kingdom claims him. He is not remembered because he devours the memory of his own existence. Known only to a handful of timewalkers and temporal guardians, Gothar is a being born outside linear reality—a wraith forged in timelines that should never have existed.",
+    "Clad in armor that flickers between centuries, wielding an axe that echoes with erased screams, Gothar is not a conqueror—he is a corruption. His goal is entropy: to destabilize timelines, consume fixed points of fate, and feed on the unraveling of cause and effect. To fight him is to be unmade before you fall.",
+    "He emerged during Kleon's reign, drawn by the echoes of Valkorath's tethered bloodline. What began as a ripple became a rupture, and Kleon—armed with the Sundial Blade—chose to vanish into the time stream to seal Gothar away. Neither returned.",
+    "Though the world forgot him, those touched by the deeper magic of the realm still feel the shiver in the weave of time. The telltale mark of Gothar is silence where history should be. A whole kingdom missing from a map. A name half-remembered in a forgotten language.",
+    "Some say he sleeps beneath the folds of reality. Others say he is merely waiting… for the clock to break again."
+  ],
+  "art": "art/gothar-120.jpg",
+  "source_page": 120
+}

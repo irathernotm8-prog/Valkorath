@@ -1,0 +1,17 @@
+{
+  "slug": "david-008",
+  "name": "David",
+  "epithet": "Apprentice of Maxim",
+  "faction": "Unaligned",
+  "status": "Fallen",
+  "tags": [
+    "Warrior"
+  ],
+  "bio": [
+    "David was Reign's closest friend and one of the original members of the resistance during the early days of Valkorath's descent into chaos. A stalwart and noble-hearted warrior, David served as the group's moral compass—often reminding Reign of the value of mercy, hope, and unity. Though not the strongest fighter on the battlefield, his courage, loyalty, and quick-thinking made him invaluable.",
+    "David was known for his unwavering belief in people and his ability to calm tensions even in the most heated moments. His bond with Reign was akin to that of a brother, and his presence helped ground the team during their darkest hours.",
+    "His tragic death during the Fall of Tiadel was a turning point for the heroes. Sacrificing himself during a crucial battle, David's passing left a profound impact on Reign and the rest of the group, fueling their determination to carry on the fight. Though gone, David's influence still lingers in the decisions they make and the ideals they strive to uphold—a reminder that even in war, compassion has power."
+  ],
+  "art": "art/david-008.jpg",
+  "source_page": 8
+}

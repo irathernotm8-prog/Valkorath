@@ -1,0 +1,18 @@
+{
+  "slug": "felix-051",
+  "name": "Felix",
+  "epithet": "The People's King",
+  "faction": "Valkorath Crown",
+  "status": "Fallen",
+  "tags": [
+    "Warrior",
+    "Royalty"
+  ],
+  "bio": [
+    "Before Valerius, there was King Felix—a ruler forged in the crucible of battle. Once a legendary warrior of unmatched skill, Felix ascended the throne in the wake of hard-won peace. Unlike his son, Felix believed that a king should walk among his people, sword at his side, and resolve forged in fire. He ruled with discipline, pragmatism, and quiet wisdom, guided—though not entirely trusting—of Maxim's counsel.",
+    "Felix's reign marked the end of an age of war, and he stepped aside willingly when Valerius was of age, believing tradition and the Holy Order would carry his son. Though he retired with grace, his heart remained restless. In private, he often worried that Valerius was too sheltered, too trusting, too concerned with appearances.",
+    "He spent his final years in reflection, watching the kingdom shift into instability and darkness. Some say he died in peace. Others believe his greatest regret was leaving the fight too soon."
+  ],
+  "art": "art/felix-051.jpg",
+  "source_page": 51
+}

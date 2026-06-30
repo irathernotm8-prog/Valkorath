@@ -1,0 +1,19 @@
+{
+  "slug": "drexl-035",
+  "name": "Drexl",
+  "epithet": "Brother of Dreyfus",
+  "faction": "Hidden Holy Order",
+  "status": "Active",
+  "tags": [
+    "Mage",
+    "Warrior",
+    "Royalty"
+  ],
+  "bio": [
+    "Before becoming the infamous Dark Lord, Drexl was a charismatic and noble figure, known for his commanding presence and intense gaze. His armor was a striking blend of black and silver, symbolizing both strength and loyalty to Valkorath. His long, flowing dark hair and piercing eyes exuded confidence and wisdom, while his demeanor radiated both warmth and authority.",
+    "As the younger brother of King Dreyfus, Drexl was once Valkorath's most trusted warrior and spiritual guide. He was renowned not just for his prowess in battle, but also for his deep spiritual connection to the land. Drexl's vision for Valkorath was one of unity not only in territory but also in spirit, hoping to create a realm where light and darkness could coexist in balance—a harmony that he believed was necessary for true peace.",
+    "Drexl's rising influence began to concern Maxim and the Hidden Holy Order, who saw Drexl's beliefs as a threat to their own rigid vision of control. The Order, fearing Drexl's influence and potential power, manipulated events to paint him as a danger to the kingdom. Despite Drexl's genuine loyalty to his brother, the Order's machinations created a rift between the two siblings, with Drexl branded as a dark sorcerer seeking absolute rule."
+  ],
+  "art": "art/drexl-035.jpg",
+  "source_page": 35
+}

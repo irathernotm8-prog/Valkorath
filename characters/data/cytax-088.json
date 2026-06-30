@@ -1,0 +1,16 @@
+{
+  "slug": "cytax-088",
+  "name": "Cytax",
+  "epithet": "Nightmare Incarnate",
+  "faction": "Unaligned",
+  "status": "Corrupted",
+  "tags": [
+    "Beast/Creature"
+  ],
+  "bio": [
+    "Cytax was the first of Malakar's twisted experiments—a monstrous prototype created from bone, sinew, and void-warped essence. A precursor to the abomination known as Vorath, Cytax was less refined but far more feral.",
+    "With a body composed of shifting flesh and jagged tendrils, he existed only to serve, devour, and adapt. Devoid of speech and incapable of higher thought, Cytax was unleashed during the Challenge of Rights as a living weapon, a beast of unrelenting hunger. Though ultimately destroyed, his existence marked the beginning of Malakar's horrific mastery over corrupted life."
+  ],
+  "art": "art/cytax-088.jpg",
+  "source_page": 88
+}

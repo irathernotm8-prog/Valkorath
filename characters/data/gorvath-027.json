@@ -1,0 +1,19 @@
+{
+  "slug": "gorvath-027",
+  "name": "Gorvath",
+  "epithet": "The Skullbreaker",
+  "faction": "Order of the Iron Oath",
+  "status": "Corrupted",
+  "tags": [
+    "Mage",
+    "Warrior",
+    "Royalty"
+  ],
+  "bio": [
+    "Once a fierce champion of the Iron Oath, Gorvath was known for his unmatched strength and relentless drive in battle. His loyalty was unquestioned until the day he was captured by the dark forces of Lord Drexl. Rather than killing him, Drexl saw potential in the hulking warrior and offered him power beyond mortal comprehension in exchange for loyalty. Consumed by ambition and pride, Gorvath accepted the offer, sealing his fate as one of Drexl's most feared lieutenants.",
+    "Now known as the Skullbreaker, Gorvath is a towering figure clad in dark, rune-etched armor. His once proud and noble visage is hidden behind a skull-like helmet with faintly glowing red eyes, symbolizing the corruption that has taken hold of him. His weapon of choice, a massive war hammer, crushes anything in its path, leaving no enemy standing.",
+    "Gorvath's gauntlets are adorned with vicious spikes, designed to tear through armor and flesh alike. Though his body is battle-worn and scarred, he is sustained by the dark magic of Drexl, becoming stronger with each conquest. His loyalty to Drexl is absolute, and he serves as an enforcer, crushing rebellions and leading Drexl's armies into battle with ruthless efficiency. Despite his fearsome reputation, a small part of Gorvath's former self still lingers deep within, haunting him as a shadow of the man he once was. However, his path is set, and he embraces the destruction he now brings in Drexl's name, earning him the title of Skullbreaker among the dark hordes."
+  ],
+  "art": "art/gorvath-027.jpg",
+  "source_page": 27
+}
