@@ -1,0 +1,2008 @@
+[
+  {
+    "slug": "aegen-009",
+    "name": "Aegen",
+    "epithet": "The Eccentric Sage",
+    "faction": "Hidden Holy Order",
+    "status": "Active",
+    "tags": [
+      "Mage",
+      "Warrior",
+      "Royalty"
+    ],
+    "bio": [
+      "Aegen is the son of the late Maxim and once a high-ranking scholar of the Hidden Holy Order. Gifted with immense magical knowledge and an unshakable sense of responsibility, Aegen has long walked the line between loyalty to the crown and service to the greater good of Valkorath. Unlike his father, Aegen values transparency and reason over control, though he often finds himself cleaning up the messes left by Maxim's secrets.",
+      "As King Valerius III's royal advisor, Aegen serves as a voice of reason in the chaotic political sphere of the capital. Though burdened by the legacy of his father and the weight of old truths, he has proven himself time and again to be a powerful mage and a capable leader.",
+      "His relationships with the Bastion's heroes, especially Reign and Vis, are complex—marked by mutual respect, occasional distrust, and shared goals. Aegen's deep knowledge of the world's ancient forces has made him essential in understanding emerging threats like Zornath, the Kabal, and the Primordial Titans. Though not a front-line warrior, his intellect and arcane prowess make him one of Valkorath's most crucial defenders."
+    ],
+    "art": "art/aegen-009.jpg",
+    "source_page": 9
+  },
+  {
+    "slug": "aetheris-038",
+    "name": "Aetheris",
+    "epithet": "The Twin Aspect",
+    "faction": "Drexl's Forces",
+    "status": "Active",
+    "tags": [
+      "Warrior",
+      "Assassin",
+      "Royalty"
+    ],
+    "bio": [
+      "Aetheris is a being of balance, born from the ancient forces of light and shadow that have governed Valkorath since time immemorial. Unlike others who choose one side or the other, Aetheris exists as a fusion of both. A guardian of equilibrium, Aetheris has served as the protector of the Sanctum of Aetheris, the mystical heart of the realm where light and darkness collide.",
+      "Aetheris has a unique ability: to split into two distinct beings—Liora, a radiant warrior of light, and Umbros, a rogue of shadows. When together, Aetheris maintains perfect harmony, wielding a dual-edged blade that embodies the forces of creation and destruction. However, when Aetheris separates into Liora and Umbros, the two halves act independently, each representing the extremes of their respective alignments.",
+      "Their mission is to prevent the world from falling too far into either darkness or light. With Lord Drexl's rise, the scales have tipped dangerously, and Aetheris now faces a difficult challenge: protecting Valkorath from eternal shadow without allowing the forces of light to claim total dominance. Aetheris is bound to balance, and though powerful, is often misunderstood by those who see only the extremes of good and evil."
+    ],
+    "art": "art/aetheris-038.jpg",
+    "source_page": 38
+  },
+  {
+    "slug": "alaric-061",
+    "name": "Alaric",
+    "epithet": "The Devoted Disciple",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Knight",
+      "Warrior"
+    ],
+    "bio": [
+      "Alaric was once a bright-eyed warrior, hailing from the remnants of the fallen kingdom in the south, just like his mentor Baldric. He grew up hearing stories of Baldric's unyielding strength and unmatched dedication to the old kingdom's cause. Inspired by the tales, Alaric sought out the legendary Templar Knight, swearing loyalty to him.",
+      "Despite his youth, Alaric is battle-hardened, having endured countless skirmishes in the hostile lands of the south. Though less experienced than Baldric, Alaric is fiercely devoted, seeing himself as a soldier who still fights for the ideals of honor and justice that once defined the fallen kingdom.",
+      "He is bold and unafraid, always the first to charge into battle alongside Baldric, whom he respects not just as a leader but as a father figure. Alaric has no illusions of glory; his only desire is to avenge his lost kingdom and uphold the Templar code."
+    ],
+    "art": "art/alaric-061.jpg",
+    "source_page": 61
+  },
+  {
+    "slug": "aldric-012",
+    "name": "Aldric",
+    "epithet": "The Valiant Protector",
+    "faction": "Drexl's Forces",
+    "status": "Active",
+    "tags": [
+      "Knight",
+      "Royalty"
+    ],
+    "bio": [
+      "Sir Aldric was the bulwark of the royal vanguard—a steadfast knight whose shield never faltered, and whose loyalty never wavered. Towering in stature and impenetrable in spirit, Aldric was the first into battle and the last to leave it. Known for his quiet wisdom and unbreakable defense, he was the protector of both crown and comrade, standing beside Tyrus and Valeria through every siege and storm.",
+      "When Drexl rose in defiance of the realm, Aldric did not hesitate. Offering his soul alongside Valeria's, he became one with Tyrus in the legendary fusion that brought the dark lord to his knees. Though his name is often spoken softly in the shadow of Tyrus's legend, those who truly remember know: without Aldric, there would have been no final victory. His shield may be gone, but its strength endures within the heart of a living legend."
+    ],
+    "art": "art/aldric-012.jpg",
+    "source_page": 12
+  },
+  {
+    "slug": "andromedus-101",
+    "name": "Andromedus",
+    "epithet": "The Man From Beyond",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Unclassified"
+    ],
+    "bio": [
+      "A figure veiled in mystery, Andromedous appeared only once—but his presence lingered long after. A samurai draped in shimmering blue armor, he led Reign through a dream-trial of self: confronting illusions of loved ones, enemies, and himself. Created or preserved by Valerius I, Andromedous was not meant to judge the body—but the soul. Only those willing to sacrifice themselves for justice could withstand his test. When Reign proved worthy, Andromedous vanished into the wind, his purpose fulfilled. Some say he was a guardian. Others, a memory given form. All agree: his test could not be passed by kings—only by the just."
+    ],
+    "art": "art/andromedus-101.jpg",
+    "source_page": 101
+  },
+  {
+    "slug": "armadus-025",
+    "name": "Armadus",
+    "epithet": "The Blade of Darkness",
+    "faction": "Drexl's Forces",
+    "status": "Corrupted",
+    "tags": [
+      "Knight",
+      "Warrior"
+    ],
+    "bio": [
+      "Once the most loyal of Drexl's lieutenants, Armadus is a hulking warrior clad in obsidian-black armor and driven by an unshakeable sense of honor—twisted though it may be. Once a noble knight, his ideals became corrupted through war and exposure to darker powers. He viewed Drexl as a necessary force of change in Valkorath, a belief that initially made him fiercely loyal.",
+      "After Drexl's shift toward quiet observation, Armadus grew disillusioned and joined the Black Kabal under Zornath, believing only true conquest could restore strength to the world. Despite his betrayal, his code remains, making him a dangerous but disciplined adversary with unmatched strength and tactical precision."
+    ],
+    "art": "art/armadus-025.jpg",
+    "source_page": 25
+  },
+  {
+    "slug": "axeon-078",
+    "name": "Axeon",
+    "epithet": "The Orc Chieftain",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Beast/Creature"
+    ],
+    "bio": [
+      "Axeon, the Orc Chieftain, is a compact yet imposing figure, smaller than most orcs but radiating immense authority. His weathered face, framed by a white beard, bears the scars of countless battles. Wielding a hammer inscribed with ancient glowing runes, Axeon is a relic of an older, prouder time for the orc clans. Disillusioned after years spent fighting in the shadows, Axeon pledges himself to the new order under Enoch, believing it is time for the orcs to rise again. His voice is a growl of conviction, and his strength is a brutal force of nature."
+    ],
+    "art": "art/axeon-078.jpg",
+    "source_page": 78
+  },
+  {
+    "slug": "baldric-060",
+    "name": "Baldric",
+    "epithet": "The Unyielding",
+    "faction": "Drexl's Forces",
+    "status": "Active",
+    "tags": [
+      "Knight",
+      "Royalty"
+    ],
+    "bio": [
+      "Once a revered Templar knight of the fallen southern kingdom of Solandis, Baldric fought relentlessly for his homeland. Solandis, known for its chivalric order and unwavering devotion, was devastated during Lord Drexl's initial rise to power. Despite Baldric's fierce efforts, the kingdom fell, leaving him a survivor among the ruins.",
+      "Baldric's sense of duty was replaced with a burning grudge against the current king, Valerius III. He blames the king's apathy and political gamesmanship for the lack of aid during Solandis's final days. The loss of his kingdom and comrades made Baldric a man indifferent to his own survival, driven solely by the ghosts of his past and the desire to seek justice—or vengeance—against those he holds responsible.",
+      "He remains clad in worn silver armor, bearing scars of countless battles. His iconic helmet hides his face, revealing only two slits from which no one has ever seen his eyes. The red cross on his chest plate and tattered cape symbolize the fallen order of Solandis. Baldric roams Valkorath, following whispers of resistance, hoping to find a way to confront Valerius directly and seek redemption for his fallen comrades."
+    ],
+    "art": "art/baldric-060.jpg",
+    "source_page": 60
+  },
+  {
+    "slug": "bjorn-070",
+    "name": "Bjorn",
+    "epithet": "The Robot Viking",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Unclassified"
+    ],
+    "bio": [
+      "Bjorn is an enigma: a fully mechanical being found frozen in the Northern Tundra, reawakened and adopted by Caldaor's clan as one of their own. Though his origin remains a mystery, Bjorn has embraced the way of the Vikings with unmatched ferocity. His limbs are powered by ancient runes, and his voice crackles with static thunder.",
+      "Loyal to his brothers Clay and Lordran, though often at odds with them, Bjorn wields war-axes fused to his forearms and believes that family—by blood or bond—is worth any battle. He is not just a machine of war, but a symbol of chosen loyalty in a world built on legacy."
+    ],
+    "art": "art/bjorn-070.jpg",
+    "source_page": 70
+  },
+  {
+    "slug": "blyght-048",
+    "name": "Blyght",
+    "epithet": "Plague Incarnate",
+    "faction": "Drexl's Forces",
+    "status": "Corrupted",
+    "tags": [
+      "Mage"
+    ],
+    "bio": [
+      "Born from corrupted magic and nurtured by the void left behind after Malakar's early ascension, Blyght was not meant to exist—he was allowed to. A slithering, flesh-warped entity of disease and decay, Blyght doesn't conquer in the traditional sense. He spreads, infects, withers. He turns hope into ash and memory into madness.",
+      "Amplified by Malakar's final rites, Blyght became a self-sustaining blight upon Valkorath, capable of unraveling both body and spirit. His voice is a rasping echo in the minds of the dying. His magic seeps through cracks in stone, bloodlines, and even time. What he cannot kill, he corrodes.",
+      "He is not chaos—he is rot made manifest. A reminder that even gods eventually decay.",
+      "Where Zornath brought destruction and Drexl brought rule, Blyght brings the end that never shouts—only spreads."
+    ],
+    "art": "art/blyght-048.jpg",
+    "source_page": 48
+  },
+  {
+    "slug": "caladan-087",
+    "name": "Caladan",
+    "epithet": "King of Nothing",
+    "faction": "Valkorath Crown",
+    "status": "Fallen",
+    "tags": [
+      "Royalty",
+      "Beast/Creature"
+    ],
+    "bio": [
+      "Bare-chested, chained, and more beast than monarch, Caladan embodied the raw fury of the forsaken. His fists and chains were weapons of mass destruction, and he fought like a living meteor. Despite his savagery, he bore the tragic air of a king who had lost everything, left with only rage"
+    ],
+    "art": "art/caladan-087.jpg",
+    "source_page": 87
+  },
+  {
+    "slug": "calador-069",
+    "name": "Calador",
+    "epithet": "The Chieftain of Valebrokk",
+    "faction": "Valkorath Crown",
+    "status": "Active",
+    "tags": [
+      "Royalty"
+    ],
+    "bio": [
+      "A living legend in the north, Caldaor is the last of the first generation of free chieftains. Wise, weathered, and fiercely protective, he leads the coastal village of Valebrokk with iron in his spine and patience in his heart. Caldaor commands not through fear, but through earned respect—having survived countless wars and kept his people alive through storm, war, and famine. He welcomed Reign not as a king, but as a peer—knowing that leadership is not given, but proven. With his rune-marked axe and booming laugh, Caldaor remains the cornerstone of a community that endures, no matter how cold the world becomes."
+    ],
+    "art": "art/calador-069.jpg",
+    "source_page": 69
+  },
+  {
+    "slug": "calypso-089",
+    "name": "Calypso",
+    "epithet": "The Shining Queen",
+    "faction": "Drexl's Forces",
+    "status": "Active",
+    "tags": [
+      "Mage",
+      "Warrior",
+      "Royalty"
+    ],
+    "bio": [
+      "Once a warrior-queen of unmatched power and poise, Calypso ruled beside her consort in a forgotten era of Valkorath. Known for her command of elemental magic and her unwavering will, she was both nurturer and executioner—a sovereign who led with compassion but never hesitated to wield the storm.",
+      "She was the mother of Drexl, and though she raised him in war and discipline, his fall broke her spirit. When she returned during the Challenge of Rights, she fought not to reclaim her crown, but to redeem her bloodline. In the end, she fell by her own son's hand, her final act one of sorrow, not hatred."
+    ],
+    "art": "art/calypso-089.jpg",
+    "source_page": 89
+  },
+  {
+    "slug": "cental-053",
+    "name": "Cental",
+    "epithet": "The White Knight",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Knight",
+      "Warrior"
+    ],
+    "bio": [
+      "Cental was known as the heart of Felix's knights—a swift and fearless warrior whose radiant white armor became a symbol of hope to the people of Valkorath. Her blade moved with graceful precision, and her presence on the battlefield inspired unity and courage. As a leader among her peers, she often acted as the voice of reason, rallying her comrades in moments of uncertainty. In the battle against Malchros, Cental stood firm beside Titanus and Ryzer, holding the line until Felix and Sir Tyrus arrived. Though her ultimate fate remains shrouded in mystery, her legacy continues to burn in the hearts of those she protected."
+    ],
+    "art": "art/cental-053.jpg",
+    "source_page": 53
+  },
+  {
+    "slug": "chrieser-079",
+    "name": "Chrieser",
+    "epithet": "The Soul Dust King",
+    "faction": "Valkorath Crown",
+    "status": "Active",
+    "tags": [
+      "Mage",
+      "Royalty",
+      "Undead"
+    ],
+    "bio": [
+      "Titled King Chrieser, Soul Dust, he is an ancient, undead monarch wrapped in linen bandages and clad in rusted, tattered armor. Chrieser wields an old-world axe imbued with dark magic, and his very presence brings a dry, deathly wind. Arising not for loyalty to any ruler but out of pure hunger for conquest, Chrieser fights without mercy. His magic manifests as storms of sand and decay, a reflection of the ruin he embodies. Once a king, now only a spectral shadow seeking domination."
+    ],
+    "art": "art/chrieser-079.jpg",
+    "source_page": 79
+  },
+  {
+    "slug": "clay-072",
+    "name": "Clay",
+    "epithet": "The Smoke Behind the Flame",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Mage",
+      "Warrior"
+    ],
+    "bio": [
+      "Clever, cunning, and dangerous in the most subtle of ways, Clay is the oldest of the Valebrokk brothers. Known as the Deceiver, he crafts schemes with the precision of a smith forging blades. With a talent for illusion magic and manipulation, Clay is less a warrior and more a strategist—though few would accuse him of cowardice. He views the world as a chessboard and people as pieces to be used, yet beneath his bravado is a deep fear of being powerless. Though often distrusted, Clay has repeatedly proven his loyalty to his people—though it's never quite clear why he helps… only that it serves some deeper plan."
+    ],
+    "art": "art/clay-072.jpg",
+    "source_page": 72
+  },
+  {
+    "slug": "corthos-042",
+    "name": "Corthos",
+    "epithet": "The Clockwork Sentinel",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Undead"
+    ],
+    "bio": [
+      "One of the ancient Titans, Corthos was not born of flesh but forged in a bygone age to uphold balance through reason and restraint. Dwelling deep in a hidden temple, he chose isolation over intervention, believing his immense power would cause more harm than good. Shaped of living metal and powered by intricate gears, Corthos wore a white, static-faced mask and moved with a soft, deliberate grace—more sage than soldier.",
+      "Haunted by past destruction he once caused, he rejected his role in the wars of man, spending centuries refining his mind and inventions in solitude. But when Malakar's name was spoken once more, fear overtook him. He emerged from his sanctuary to help the heroes—only to be betrayed.",
+      "Struck down and harvested by Malakar, his essence and body were consumed, turning the lich into a new, mechanical horror. Even in death, Corthos's legacy endured; with his final breath, he triggered the awakening of a colossal temple guardian to strike back against his defilers, his voice ringing one last time through the stone: “End it.”"
+    ],
+    "art": "art/corthos-042.jpg",
+    "source_page": 42
+  },
+  {
+    "slug": "cytax-088",
+    "name": "Cytax",
+    "epithet": "Nightmare Incarnate",
+    "faction": "Unaligned",
+    "status": "Corrupted",
+    "tags": [
+      "Beast/Creature"
+    ],
+    "bio": [
+      "Cytax was the first of Malakar's twisted experiments—a monstrous prototype created from bone, sinew, and void-warped essence. A precursor to the abomination known as Vorath, Cytax was less refined but far more feral.",
+      "With a body composed of shifting flesh and jagged tendrils, he existed only to serve, devour, and adapt. Devoid of speech and incapable of higher thought, Cytax was unleashed during the Challenge of Rights as a living weapon, a beast of unrelenting hunger. Though ultimately destroyed, his existence marked the beginning of Malakar's horrific mastery over corrupted life."
+    ],
+    "art": "art/cytax-088.jpg",
+    "source_page": 88
+  },
+  {
+    "slug": "dark-reign-081",
+    "name": "Dark Reign",
+    "epithet": "The Reflection",
+    "faction": "Unaligned",
+    "status": "Fallen",
+    "tags": [
+      "Warrior"
+    ],
+    "bio": [
+      "Crafted by Andromedous as a psychological trial, this silent, armored warrior embodied Reign's fears—of power, failure, and becoming the very thing he fought against. Cloaked in dark blue armor and moving with deadly purpose, the Dark Reign changed shape throughout the battle, appearing as allies, enemies, and finally, Reign himself. It wielded every doubt the Warden ever carried. The duel ended not with a sword, but with a choice—when Reign declared he would rather die for justice than live as a tyrant, the illusion broke, and the Warden emerged not just victorious… but transformed."
+    ],
+    "art": "art/dark-reign-081.jpg",
+    "source_page": 81
+  },
+  {
+    "slug": "david-008",
+    "name": "David",
+    "epithet": "Apprentice of Maxim",
+    "faction": "Unaligned",
+    "status": "Fallen",
+    "tags": [
+      "Warrior"
+    ],
+    "bio": [
+      "David was Reign's closest friend and one of the original members of the resistance during the early days of Valkorath's descent into chaos. A stalwart and noble-hearted warrior, David served as the group's moral compass—often reminding Reign of the value of mercy, hope, and unity. Though not the strongest fighter on the battlefield, his courage, loyalty, and quick-thinking made him invaluable.",
+      "David was known for his unwavering belief in people and his ability to calm tensions even in the most heated moments. His bond with Reign was akin to that of a brother, and his presence helped ground the team during their darkest hours.",
+      "His tragic death during the Fall of Tiadel was a turning point for the heroes. Sacrificing himself during a crucial battle, David's passing left a profound impact on Reign and the rest of the group, fueling their determination to carry on the fight. Though gone, David's influence still lingers in the decisions they make and the ideals they strive to uphold—a reminder that even in war, compassion has power."
+    ],
+    "art": "art/david-008.jpg",
+    "source_page": 8
+  },
+  {
+    "slug": "decker-092",
+    "name": "Decker",
+    "epithet": "The Cruel Hunter",
+    "faction": "Valkorath Crown",
+    "status": "Active",
+    "tags": [
+      "Royalty"
+    ],
+    "bio": [
+      "Decker was a mystery even among mercenaries. Clad in worn gray chainmail and a helmet shaped like a skull, he spoke not a single word, communicating only through brutal efficiency. His origins were unknown, but rumors swirled that he once served as an enforcer for exiled royalty and fell kingdoms. Fast, lethal, and impossible to read, Decker's reflexes bordered on unnatural. He was summoned by King Kazadar during the Challenge of Rights, acting as the king's personal reaper. Though he never showed emotion, it became clear in battle—Decker fought not for honor or belief, but because the art of killing was all he had left."
+    ],
+    "art": "art/decker-092.jpg",
+    "source_page": 92
+  },
+  {
+    "slug": "diatre-074",
+    "name": "Diatre",
+    "epithet": "The Horned Queen",
+    "faction": "Velkynai",
+    "status": "Corrupted",
+    "tags": [
+      "Royalty"
+    ],
+    "bio": [
+      "Diatre is the most feared among the Velkynai, known as the Horned Queen for the twisted, branch-like horns that crown her head. Once a high priestess of an ancient elven temple, she turned to forbidden practices, wielding a staff crafted from cursed, twisted branches that channels dark, earthbound energies. Her red-highlighted curly hair and crimson eyes burn with malevolence, reflecting her hatred for all forms of life.",
+      "Diatre's malice stems from the ancient betrayal of her kin, who banished her for her sinister rituals that corrupted the natural world.",
+      "When King Felix's forces sealed away Ventric and his kin, Diatre's fury was unmatched, vowing vengeance on those who dared imprison them. Unlike Ventric, who values order and subjugation, Diatre desires to see the world turned to ash, feeding on chaos and suffering. She revels in destruction and serves as Ventric's most powerful ally but is prone to pursuing her own vicious ends when the opportunity arises."
+    ],
+    "art": "art/diatre-074.jpg",
+    "source_page": 74
+  },
+  {
+    "slug": "draven-021",
+    "name": "Draven",
+    "epithet": "Blackscale",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Mage",
+      "Warrior",
+      "Beast/Creature"
+    ],
+    "bio": [
+      "Draven is a half-dragon warrior with a fearsome presence and a loyal heart. Born of both dragon and human blood, he stands out for his towering physique, green flame magic, and deep sense of identity crisis. Rejected by many dragons and misunderstood by humans, Draven has always walked a solitary path—until meeting Reign and joining the fight against darkness.",
+      "Equipped with immense strength and the ability to breathe green fire, Draven is a devastating force in battle. Despite his monstrous appearance, he is deeply introspective and driven by a code of honor. His internal struggle with loyalty, identity, and legacy continues to shape his role as both warrior and brother-in-arms."
+    ],
+    "art": "art/draven-021.jpg",
+    "source_page": 21
+  },
+  {
+    "slug": "drexl-023",
+    "name": "Drexl",
+    "epithet": "Lord of Darkness",
+    "faction": "Hidden Holy Order",
+    "status": "Active",
+    "tags": [
+      "Mage",
+      "Warrior",
+      "Royalty"
+    ],
+    "bio": [
+      "Drexl was once a beloved figure in Valkorath's history—a warrior of unmatched strength and brother to King Dreyfus. In the early days of the realm's unification, he fought valiantly alongside his brother and the legendary mage Maxim to defeat Malakar, helping usher in an era of peace.",
+      "But ambition, betrayal, and manipulation by the Hidden Holy Order twisted Drexl's path. As he sought to unite Valkorath under one banner, the Order branded him a villain. Maxim orchestrated a campaign to destroy his reputation, turning even trusted allies against him. Drexl was cast down and presumed dead.",
+      "Years later, he returned—not as the man he once was, but as a figure cloaked in pale skin, white flowing hair, and burning red eyes. Wielding a massive battle axe and clad in black armor, Drexl became the symbol of dread and power, leading an army of darkness with cold precision.",
+      "Though feared, Drexl's actions are rooted in pain and betrayal. His war was never for conquest alone, but for justice, vengeance, and the dismantling of a kingdom built on lies. After defeating Maxim and exposing the truth behind Valkorath's foundations, Drexl vanished into the shadows, content—for now."
+    ],
+    "art": "art/drexl-023.jpg",
+    "source_page": 23
+  },
+  {
+    "slug": "drexl-024",
+    "name": "Drexl",
+    "epithet": "Darkness Rising",
+    "faction": "Hidden Holy Order",
+    "status": "Active",
+    "tags": [
+      "Mage",
+      "Warrior",
+      "Royalty"
+    ],
+    "bio": [
+      "Drexl was once a beloved figure in Valkorath's history—a warrior of unmatched strength and brother to King Dreyfus. In the early days of the realm's unification, he fought valiantly alongside his brother and the legendary mage Maxim to defeat Malakar, helping usher in an era of peace.",
+      "But ambition, betrayal, and manipulation by the Hidden Holy Order twisted Drexl's path. As he sought to unite Valkorath under one banner, the Order branded him a villain. Maxim orchestrated a campaign to destroy his reputation, turning even trusted allies against him. Drexl was cast down and presumed dead.",
+      "Years later, he returned—not as the man he once was, but as a figure cloaked in pale skin, white flowing hair, and burning red eyes. Wielding a massive battle axe and clad in black armor, Drexl became the symbol of dread and power, leading an army of darkness with cold precision.",
+      "Though feared, Drexl's actions are rooted in pain and betrayal. His war was never for conquest alone, but for justice, vengeance, and the dismantling of a kingdom built on lies. After defeating Maxim and exposing the truth behind Valkorath's foundations, Drexl vanished into the shadows, content—for now."
+    ],
+    "art": "art/drexl-024.jpg",
+    "source_page": 24
+  },
+  {
+    "slug": "drexl-035",
+    "name": "Drexl",
+    "epithet": "Brother of Dreyfus",
+    "faction": "Hidden Holy Order",
+    "status": "Active",
+    "tags": [
+      "Mage",
+      "Warrior",
+      "Royalty"
+    ],
+    "bio": [
+      "Before becoming the infamous Dark Lord, Drexl was a charismatic and noble figure, known for his commanding presence and intense gaze. His armor was a striking blend of black and silver, symbolizing both strength and loyalty to Valkorath. His long, flowing dark hair and piercing eyes exuded confidence and wisdom, while his demeanor radiated both warmth and authority.",
+      "As the younger brother of King Dreyfus, Drexl was once Valkorath's most trusted warrior and spiritual guide. He was renowned not just for his prowess in battle, but also for his deep spiritual connection to the land. Drexl's vision for Valkorath was one of unity not only in territory but also in spirit, hoping to create a realm where light and darkness could coexist in balance—a harmony that he believed was necessary for true peace.",
+      "Drexl's rising influence began to concern Maxim and the Hidden Holy Order, who saw Drexl's beliefs as a threat to their own rigid vision of control. The Order, fearing Drexl's influence and potential power, manipulated events to paint him as a danger to the kingdom. Despite Drexl's genuine loyalty to his brother, the Order's machinations created a rift between the two siblings, with Drexl branded as a dark sorcerer seeking absolute rule."
+    ],
+    "art": "art/drexl-035.jpg",
+    "source_page": 35
+  },
+  {
+    "slug": "drexl-080",
+    "name": "Drexl",
+    "epithet": "Aged Dark Lord",
+    "faction": "Drexl's Forces",
+    "status": "Active",
+    "tags": [
+      "Royalty"
+    ],
+    "bio": [
+      "Old Man Drexl is the future version of Lord Drexl, worn by time yet no less dangerous. Unlike his younger self, Old Man Drexl speaks with weary authority and carries the bitterness of endless battles. Though he has lived through countless wars and betrayals, his cunning has only sharpened. He walks the world with the calm certainty of a being who has witnessed the rise and fall of empires, seeing himself not as a villain but as the inevitable force Valkorath was destined to face. Even as he allies briefly with others for survival, Drexl's true ambitions remain his own."
+    ],
+    "art": "art/drexl-080.jpg",
+    "source_page": 80
+  },
+  {
+    "slug": "drexl-116",
+    "name": "Drexl",
+    "epithet": "Twice the Dark Lord",
+    "faction": "Drexl's Forces",
+    "status": "Active",
+    "tags": [
+      "Royalty"
+    ],
+    "bio": [
+      "Few beings have ever wielded power like Drexl, the Dark Lord of Valkorath. But during the Challenge of Rights, the world witnessed something even more terrifying: Drexl meeting himself. The younger, embittered warlord—driven by conquest, rage, and visions of liberation through domination. And the older—weathered by time, regretful, and seeking to undo the very legacy he once built.",
+      "The younger Drexl was the embodiment of controlled chaos: articulate, commanding, and devastatingly cruel when needed. He sought to free Valkorath by force—crushing kings, rewriting order, and imposing balance through might.",
+      "The older Drexl, however, had lived beyond the ruin. He saw the cost. Having traveled through fractured time, he believed the only way to truly free the world was to end the chain altogether—even if that meant urging his younger self to take his own life once the crown was his.",
+      "Together, they formed an impossible paradox: one trying to rise, the other trying to end what he became. In the end, both would fall—but not before leaving a final scar across the realm, ensuring Valkorath would never forget the name Drexl."
+    ],
+    "art": "art/drexl-116.jpg",
+    "source_page": 116
+  },
+  {
+    "slug": "dreyfus-050",
+    "name": "Dreyfus",
+    "epithet": "The Silent King",
+    "faction": "Hidden Holy Order",
+    "status": "Fallen",
+    "tags": [
+      "Royalty"
+    ],
+    "bio": [
+      "King Dreyfus was once hailed as a unifying force in Valkorath's darkest era—a stoic and principled ruler who led the charge against Malakar alongside his brother, Drexl. Regal in bearing and revered by his people, Dreyfus was known for his sharp mind and unwavering commitment to peace. Yet beneath his noble exterior lay a man torn between loyalty to his realm and love for his brother.",
+      "When Drexl's vision of a united Valkorath began to challenge the authority of the Hidden Holy Order, Dreyfus found himself at a terrible crossroads. Though he knew of the order's manipulations—chief among them, the vilification of Drexl and the rewriting of history—he chose silence. Trusting Maxim and fearing civil collapse, he stood by as his own brother was branded a villain and cast down.",
+      "Dreyfus's betrayal was not born of hatred, but of hesitation. He believed that sacrificing the truth was a necessary evil to preserve the kingdom's fragile peace. History remembers him as the righteous king who defeated Drexl, but those who know the truth understand: Dreyfus chose the realm over blood, and that choice fractured both."
+    ],
+    "art": "art/dreyfus-050.jpg",
+    "source_page": 50
+  },
+  {
+    "slug": "dreyfus-103",
+    "name": "Dreyfus",
+    "epithet": "The Fallen King",
+    "faction": "Drexl's Forces",
+    "status": "Fallen",
+    "tags": [
+      "Royalty"
+    ],
+    "bio": [
+      "Once the brother of Drexl, Dreyfus fell into darkness after his death, rising again as King of the Damned. Crowned in black horns and wielding a molten flame sword, he led legions forged in the fires of hell. His hatred for his former life and his brother was palpable, making him one of the most dangerous kings in the Challenge"
+    ],
+    "art": "art/dreyfus-103.jpg",
+    "source_page": 103
+  },
+  {
+    "slug": "earon-068",
+    "name": "Earon",
+    "epithet": "The Blackbird Captain",
+    "faction": "Hidden Holy Order",
+    "status": "Corrupted",
+    "tags": [
+      "Knight"
+    ],
+    "bio": [
+      "Once a shining knight of the future Valkorath, Earon is a fearsome commander loyal to the corrupted Hidden Holy Order. Clad in gleaming silver armor and blue robes, Earon embodies discipline and unwavering loyalty. Cold and calculating, he fights with mechanical precision and deadly efficiency. Though he looks nearly identical to his future self, the youthful intensity in his eyes reveals a darkness festering beneath the surface. Earon leads the Blackbird Knights with ruthless authority, viewing anomalies like Reign and Fredric as threats to be purged."
+    ],
+    "art": "art/earon-068.jpg",
+    "source_page": 68
+  },
+  {
+    "slug": "enoch-049",
+    "name": "Enoch",
+    "epithet": "The Ancient One",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Mage"
+    ],
+    "bio": [
+      "Enoch is an ancient and enigmatic figure, shrouded in both history and legend. His tall, imposing presence is accentuated by the long white and gold robes that flow around him, embroidered with arcane symbols that seem to shimmer with an eerie light. A mask carved from ivory bone conceals his face, with hollow eye sockets that emit a faint, unnatural glow. The mask is stylized to appear almost serene, yet there is something unsettling about it. Enoch's eyes are the most striking feature—visible only as gleaming, cold lights behind his mask. His aura is heavy and suffocating, infused with an aura of both ancient wisdom and an unyielding, malevolent ambition.",
+      "Enoch was once a scholar of immense talent, delving into ancient texts and arcane knowledge that even the most daring mages dared not approach. His pursuit of power led him to discover the existence of the Titans and their role in the fabric of Valkorath's existence. Over centuries, he became more than human, rumored to have extended his life using dark, forbidden rituals that tethered his soul to this realm.",
+      "Enoch is a master manipulator, using his intelligence and command of dark magic to stay several steps ahead of his adversaries. His knowledge of Valkorath's secrets and history rivals even that of Maxim, making him a formidable adversary not just in battle but in strategy and cunning."
+    ],
+    "art": "art/enoch-049.jpg",
+    "source_page": 49
+  },
+  {
+    "slug": "felix-051",
+    "name": "Felix",
+    "epithet": "The People's King",
+    "faction": "Valkorath Crown",
+    "status": "Fallen",
+    "tags": [
+      "Warrior",
+      "Royalty"
+    ],
+    "bio": [
+      "Before Valerius, there was King Felix—a ruler forged in the crucible of battle. Once a legendary warrior of unmatched skill, Felix ascended the throne in the wake of hard-won peace. Unlike his son, Felix believed that a king should walk among his people, sword at his side, and resolve forged in fire. He ruled with discipline, pragmatism, and quiet wisdom, guided—though not entirely trusting—of Maxim's counsel.",
+      "Felix's reign marked the end of an age of war, and he stepped aside willingly when Valerius was of age, believing tradition and the Holy Order would carry his son. Though he retired with grace, his heart remained restless. In private, he often worried that Valerius was too sheltered, too trusting, too concerned with appearances.",
+      "He spent his final years in reflection, watching the kingdom shift into instability and darkness. Some say he died in peace. Others believe his greatest regret was leaving the fight too soon."
+    ],
+    "art": "art/felix-051.jpg",
+    "source_page": 51
+  },
+  {
+    "slug": "fredric-064",
+    "name": "Fredric",
+    "epithet": "The Man Out of Time",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Warrior"
+    ],
+    "bio": [
+      "Fredric is a tall, imposing figure with a commanding presence, embodying both strength and warmth. His skin is a deep brown, and his long black hair is tied up in a warrior's knot, accentuating his sharp features and well-kept beard. His eyes, dark yet kind, reveal a man who has seen great battles and personal loss but refuses to let the fire of hope extinguish within him.",
+      "He wears white armor with black accents, its polished plates inscribed with protective runes that shimmer when he fights. Over this, a flowing white cape adds an air of nobility and serves as a symbol of his leadership. Fredric wields a broadsword with an intricate hilt that glows faintly with blue energy, representing the legacy of his father, Reign. He carries himself with the confidence of a seasoned warrior and the compassion of a leader who values every life in his charge.",
+      "Fredric is the son of Reign and Vis, born into an era of conflict and destined for greatness. Raised in a world where heroes and villains were often indistinguishable, Fredric grew to understand the importance of balance and unity. He became a beacon of hope, rallying those who believed that Valkorath could be reclaimed from darkness. Despite the hardships he has faced, Fredric remains fiercely loyal and protective, determined to honor the sacrifices of his parents and lead the resistance with unwavering resolve."
+    ],
+    "art": "art/fredric-064.jpg",
+    "source_page": 64
+  },
+  {
+    "slug": "fredwin-112",
+    "name": "Fredwin",
+    "epithet": "The Bitter King",
+    "faction": "Unaligned",
+    "status": "Fallen",
+    "tags": [
+      "Royalty"
+    ],
+    "bio": [
+      "Fredwin ruled in the waning days of the old era, a time of decline, betrayal, and inner decay. Once a man of noble dreams, he watched those dreams wither beneath the weight of politics, false alliances, and personal failure. When his trusted companion was slain and his heir taken from him, Fredwin hardened into a tyrant cloaked in sorrow. His reign was marked by isolation and cruelty—not born of malice, but of despair. During the Challenge of Rights, Fredwin sought vengeance, not redemption. But his bitterness blinded him, and he fell to Helios, his final thoughts consumed not with conquest… but with all he had lost."
+    ],
+    "art": "art/fredwin-112.jpg",
+    "source_page": 112
+  },
+  {
+    "slug": "frenry-062",
+    "name": "Frenry",
+    "epithet": "The Fire Templar",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Unclassified"
+    ],
+    "bio": [
+      "Once a respected templar and charismatic speaker, Frenry evolved into something far more dangerous—a radical leader who resurrected the once-defeated Templar Order under the guise of divine justice. Preaching that the kingdom had grown soft under weak rulers, he rallied others, including Alaric, to his fiery cause.",
+      "But beneath his zeal was a far darker secret: Frenry had forged a pact with Zornath, the Infernal Maw. This transformed him into a vessel of hellfire and destruction, culminating in his complete possession. In the final moments of his crusade, Frenry's body became a shell, consumed from within as Zornath took full control, unleashing infernal energy that reduced templars to smoldering husks and shattered all remaining illusions of righteousness.",
+      "Frenry's downfall marks one of Valkorath's greatest betrayals—a man who believed himself a savior, only to become the harbinger of something far worse."
+    ],
+    "art": "art/frenry-062.jpg",
+    "source_page": 62
+  },
+  {
+    "slug": "ganador-085",
+    "name": "Ganador",
+    "epithet": "The Cursed King",
+    "faction": "Valkorath Crown",
+    "status": "Active",
+    "tags": [
+      "Mage",
+      "Royalty",
+      "Undead"
+    ],
+    "bio": [
+      "A skeletal, malevolent king who reclaimed his living cloak during the Challenge. Cloaked in darkness and cruelty, Ganador unleashed brutal magic and wielded a poisoned companion, Patchwork, as a weapon against his foes. He fought not for honor or destiny, but to dominate and destroy"
+    ],
+    "art": "art/ganador-085.jpg",
+    "source_page": 85
+  },
+  {
+    "slug": "garrux-096",
+    "name": "Garrux",
+    "epithet": "The Warbound King",
+    "faction": "Garrux's Empire",
+    "status": "Active",
+    "tags": [
+      "Royalty",
+      "Beast/Creature"
+    ],
+    "bio": [
+      "Garrux was a titan of his age—a conqueror whose reign saw Valkorath stretch beyond its known limits. Though many feared him, few could deny his charisma or vision. With his bare hands, he forged alliances, shattered kingdoms, and built legacies.",
+      "His children were many, but none were deemed worthy of his crown. Instead, Garrux chose his grandson, Valerius II, believing the future needed peace more than power.",
+      "When the Challenge of Rights stirred the realm, Garrux returned—not to compete, but to test. Bound by a pact with Death, he stood as a gatekeeper with two companions, ready to judge if any bore the strength and wisdom to lead where he once ruled."
+    ],
+    "art": "art/garrux-096.jpg",
+    "source_page": 96
+  },
+  {
+    "slug": "gorvath-027",
+    "name": "Gorvath",
+    "epithet": "The Skullbreaker",
+    "faction": "Order of the Iron Oath",
+    "status": "Corrupted",
+    "tags": [
+      "Mage",
+      "Warrior",
+      "Royalty"
+    ],
+    "bio": [
+      "Once a fierce champion of the Iron Oath, Gorvath was known for his unmatched strength and relentless drive in battle. His loyalty was unquestioned until the day he was captured by the dark forces of Lord Drexl. Rather than killing him, Drexl saw potential in the hulking warrior and offered him power beyond mortal comprehension in exchange for loyalty. Consumed by ambition and pride, Gorvath accepted the offer, sealing his fate as one of Drexl's most feared lieutenants.",
+      "Now known as the Skullbreaker, Gorvath is a towering figure clad in dark, rune-etched armor. His once proud and noble visage is hidden behind a skull-like helmet with faintly glowing red eyes, symbolizing the corruption that has taken hold of him. His weapon of choice, a massive war hammer, crushes anything in its path, leaving no enemy standing.",
+      "Gorvath's gauntlets are adorned with vicious spikes, designed to tear through armor and flesh alike. Though his body is battle-worn and scarred, he is sustained by the dark magic of Drexl, becoming stronger with each conquest. His loyalty to Drexl is absolute, and he serves as an enforcer, crushing rebellions and leading Drexl's armies into battle with ruthless efficiency. Despite his fearsome reputation, a small part of Gorvath's former self still lingers deep within, haunting him as a shadow of the man he once was. However, his path is set, and he embraces the destruction he now brings in Drexl's name, earning him the title of Skullbreaker among the dark hordes."
+    ],
+    "art": "art/gorvath-027.jpg",
+    "source_page": 27
+  },
+  {
+    "slug": "gothar-120",
+    "name": "Gothar",
+    "epithet": "The Timebound Tyrant",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Mage",
+      "Warrior"
+    ],
+    "bio": [
+      "No records name Gothar's origin. No kingdom claims him. He is not remembered because he devours the memory of his own existence. Known only to a handful of timewalkers and temporal guardians, Gothar is a being born outside linear reality—a wraith forged in timelines that should never have existed.",
+      "Clad in armor that flickers between centuries, wielding an axe that echoes with erased screams, Gothar is not a conqueror—he is a corruption. His goal is entropy: to destabilize timelines, consume fixed points of fate, and feed on the unraveling of cause and effect. To fight him is to be unmade before you fall.",
+      "He emerged during Kleon's reign, drawn by the echoes of Valkorath's tethered bloodline. What began as a ripple became a rupture, and Kleon—armed with the Sundial Blade—chose to vanish into the time stream to seal Gothar away. Neither returned.",
+      "Though the world forgot him, those touched by the deeper magic of the realm still feel the shiver in the weave of time. The telltale mark of Gothar is silence where history should be. A whole kingdom missing from a map. A name half-remembered in a forgotten language.",
+      "Some say he sleeps beneath the folds of reality. Others say he is merely waiting… for the clock to break again."
+    ],
+    "art": "art/gothar-120.jpg",
+    "source_page": 120
+  },
+  {
+    "slug": "grallok-019",
+    "name": "Grallok",
+    "epithet": "Guardian of Mosstone",
+    "faction": "Drexl's Forces",
+    "status": "Fallen",
+    "tags": [
+      "Mage",
+      "Warrior",
+      "Beast/Creature"
+    ],
+    "bio": [
+      "Grallock was a mighty golem forged deep within the Marshlands by ancient druidic magic. Standing as both protector and warrior, Grallock served alongside Vis and Kaelor to defend the balance of nature against the creeping tide of corruption. Towering and powerful, yet possessing a quiet soul, Grallock was revered as a guardian of both land and spirit.",
+      "During the Fall of Tiadel, Grallock gave his life in a valiant stand against Drexl, torn apart by shadow tendrils in a desperate attempt to protect the city. Though gone, remnants of his body were later used to help imprison the titan Zornath—ensuring his legacy lives on as a foundation for Valkorath's resistance."
+    ],
+    "art": "art/grallok-019.jpg",
+    "source_page": 19
+  },
+  {
+    "slug": "grull-015",
+    "name": "Grull",
+    "epithet": "Strength of the Orc",
+    "faction": "Last Bastion",
+    "status": "Active",
+    "tags": [
+      "Warrior",
+      "Beast/Creature"
+    ],
+    "bio": [
+      "Grull is a towering orc warrior known for his brute strength, unwavering loyalty, and surprisingly introspective nature. Once a frontline commander during the Battle of Tiadel, Grull fought fiercely alongside his people to protect the realm. Though he suffered many losses, his spirit remained unbroken. Despite his intimidating size and deep voice, Grull is thoughtful, even poetic at times, often contemplating the purpose of war and peace in Valkorath.",
+      "He eventually allied with Reign and the Last Bastion, recognizing the importance of unity in the face of greater darkness. Grull now serves as a vital defender of the Bastion and one of its most dependable warriors. He fights not only for survival but for a future where orcs are seen as more than just muscle."
+    ],
+    "art": "art/grull-015.jpg",
+    "source_page": 15
+  },
+  {
+    "slug": "helios-107",
+    "name": "Helios",
+    "epithet": "The Beast King",
+    "faction": "Garrux's Empire",
+    "status": "Active",
+    "tags": [
+      "Mage",
+      "Royalty",
+      "Beast/Creature"
+    ],
+    "bio": [
+      "Born one of the many sons of King Garrux, Helios was once a proud prince with unmatched ambition. Desperate to inherit the throne denied to him, he made a pact with the red mage Malakar, trading his humanity for monstrous strength. The transformation turned him into a behemoth of sinew and fury—his mind clouded, his soul scorched.",
+      "Though he led vicious campaigns of conquest, he was ultimately defeated by his nephew, Valerius II, and cast into legend as a cautionary tale. During the Challenge of Rights, Helios returned more savage than ever, only to fall once again—this time to a new generation who refused to let his fury shape the world again."
+    ],
+    "art": "art/helios-107.jpg",
+    "source_page": 107
+  },
+  {
+    "slug": "helmut-094",
+    "name": "Helmut",
+    "epithet": "The Fire Knight",
+    "faction": "Valkorath Crown",
+    "status": "Fallen",
+    "tags": [
+      "Knight",
+      "Mage",
+      "Royalty"
+    ],
+    "bio": [
+      "Helmut was no ordinary knight—he was a living flame bound to armor, conjured and sustained by the bond he shared with Landis. A construct of will, loyalty, and magic, Helmut protected the Ember King from the shadows and stormed the battlefield without fear. He never spoke, yet his actions spoke volumes—every movement precise, every strike made in service of Landis' fragile soul. When he was slain during the Challenge of Rights, it reignited the dying fire within Landis, who had lost too much already. Helmut's fall was the spark that lit a wildfire."
+    ],
+    "art": "art/helmut-094.jpg",
+    "source_page": 94
+  },
+  {
+    "slug": "heroes-117",
+    "name": "Heroes",
+    "epithet": "The Last Stand",
+    "faction": "Unaligned",
+    "status": "Fallen",
+    "tags": [
+      "Knight",
+      "Warrior"
+    ],
+    "bio": [
+      "When Reign accidentally summoned Kandor, wielder of Thunderstrike and hero of ages past, it wasn't destiny—it was misdirection. But fate, it seems, has a sense of humor. What should have been a failed summon became one of the greatest partnerships Valkorath had ever seen.",
+      "Kandor, a knight from the era of Valerius II, brought gallantry, discipline, and a wisdom long thought lost. He had lived, fought, and died for ideals that had begun to fade. But in Reign, he saw something familiar: a man burdened by duty, yet unwilling to give in to despair.",
+      "Reign, in turn, learned from Kandor's presence. Through the Challenge of Rights, their bond deepened—beyond words, beyond eras. Kandor reminded him of what kings should be. Reign reminded him why they often fail.",
+      "They fought side by side against kings, beasts, and horrors beyond time. Kandor ultimately fell, but not in vain. His spirit and blade became part of Reign's strength.",
+      "In the end, it wasn't just Thunderstrike that empowered Reign—it was the echo of Kandor's loyalty, forever etched into his heart."
+    ],
+    "art": "art/heroes-117.jpg",
+    "source_page": 117
+  },
+  {
+    "slug": "hythm-102",
+    "name": "Hythm",
+    "epithet": "The King Immortal",
+    "faction": "Valkorath Crown",
+    "status": "Active",
+    "tags": [
+      "Royalty",
+      "Healer"
+    ],
+    "bio": [
+      "Hythm was born of royal blood but lived like a common monk, retreating from court life to meditate in the high reaches of the northern mountains. Known for his calm eyes and soft speech, Hythm was a master of elemental balance—wielding both sword and spirit with gentle precision. He wanted no part of the throne and turned away from politics, trusting in the natural rhythm of the world.",
+      "But blood has memory, and when the Challenge of Rights was invoked, Hythm was called forth by fate itself. Though many doubted his claim, Death confirmed his royal eligibility. In truth, Hythm was descended from the early branch of Valerius I's bloodline, though generations removed.",
+      "During the challenge, Hythm remained detached but watchful. He chose not to fight unless provoked and summoned no companion. His quiet presence in the battlefield was unsettling—like a calm before a storm that never came. Ultimately, he forfeited the crown, believing no one should control the balance through blood alone.",
+      "He fathered Kleon, and through him, Calypso, leaving behind not a kingdom, but a lineage—one shaped by restraint rather than conquest.",
+      "Even now, it's said Hythm walks the quiet paths of Valkorath, healing wounds where armies once clashed. Not as a king. But as a keeper of peace."
+    ],
+    "art": "art/hythm-102.jpg",
+    "source_page": 102
+  },
+  {
+    "slug": "kaedros-041",
+    "name": "Kaedros",
+    "epithet": "The Silent Blade",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Warrior"
+    ],
+    "bio": [
+      "A master of discipline and control, Kaedros is the most reclusive of the mountain tribe warriors. Known for his vow of silence and flawless technique, he trains worthy fighters through action, not words. Covered in black robes, with brown skin, blue eyes, and long hair streaked with white, Kaedros represents the perfect fusion of physical mastery and inner stillness. Under his watch, Reign begins the long process of restoring not just his sword, but himself. Kaedros's methods are harsh but transformative, teaching students that spirit must lead the blade. He is the final crucible—those who break under his gaze are not meant to wield true power."
+    ],
+    "art": "art/kaedros-041.jpg",
+    "source_page": 41
+  },
+  {
+    "slug": "kaelor-020",
+    "name": "Kaelor",
+    "epithet": "Druid of Decay",
+    "faction": "Eastern Marshlands",
+    "status": "Active",
+    "tags": [
+      "Mage",
+      "Druid"
+    ],
+    "bio": [
+      "Kaelor, known as the Druid of Decay, is a stoic and enigmatic figure who served as a mentor to Vis and guardian of the Eastern Marshlands. His magic draws from the cycles of life and death, using nature's decay as a weapon against corruption. Though ancient in spirit, Kaelor remains sharp in both wisdom and power, capable of summoning vines, roots, and elemental forces at will.",
+      "Often quiet but deeply insightful, Kaelor plays the role of an elder statesman among the heroes of the Bastion. His understanding of ancient forces—including the Titans and the primal balance of Valkorath—makes him an invaluable source of counsel in the war to come."
+    ],
+    "art": "art/kaelor-020.jpg",
+    "source_page": 20
+  },
+  {
+    "slug": "kandor-059",
+    "name": "Kandor",
+    "epithet": "Guilt-stricken Warrior",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Warrior"
+    ],
+    "bio": [
+      "Once a grief-stricken young elf seeking vengeance for his aunt Seren's death, Alexis became entangled with dark forces in a desperate bid to protect his village. Manipulated by Ventric, he betrayed Thorne, blaming him for Seren's demise. However, after witnessing Thorne's nobility and sacrifice, Alexis turned away from vengeance and pledged himself to the Bastion's cause. Now older and wielding an ethereal blade, he carries the weight of his past with humility, seeking redemption through action and service."
+    ],
+    "art": "art/kandor-059.jpg",
+    "source_page": 59
+  },
+  {
+    "slug": "kandor-084",
+    "name": "Kandor",
+    "epithet": "Wielder of the Sword",
+    "faction": "Valkorath Crown",
+    "status": "Active",
+    "tags": [
+      "Knight",
+      "Warrior",
+      "Royalty"
+    ],
+    "bio": [
+      "Kandor is a noble and formidable knight from the era of King Valerius II, once the original wielder of the blade Thunderstrike. Tall, regal, and clad in gleaming armor, Kandor embodies valor, loyalty, and an unbreakable spirit. Despite being displaced from his time, Kandor quickly proves to be a steadfast ally, fighting alongside Reign during the Challenge of Rights. Wise yet still full of a warrior's fire, Kandor is a living link to Valkorath's golden age, determined to protect the realm's future"
+    ],
+    "art": "art/kandor-084.jpg",
+    "source_page": 84
+  },
+  {
+    "slug": "karethos-065",
+    "name": "Karethos",
+    "epithet": "The Dragon Lord",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Royalty",
+      "Beast/Creature"
+    ],
+    "bio": [
+      "Known as The Dragon Lord, Karethos once walked among mortals disguised as an elderly man in regal bronze robes. Beneath his human guise, he is a full dragon, with massive bronze wings and crowned horns. Motivated by a belief that only through Enoch's alliance can his kind survive, Karethos turns against his former allies. Though powerful, his heart bears the heavy weariness of centuries of struggle. His clashes with Draven reveal a deep sadness beneath his betrayal, suggesting a once-noble being driven to desperate measures."
+    ],
+    "art": "art/karethos-065.jpg",
+    "source_page": 65
+  },
+  {
+    "slug": "kazadar-091",
+    "name": "Kazadar",
+    "epithet": "The Malice King",
+    "faction": "Valkorath Crown",
+    "status": "Active",
+    "tags": [
+      "Royalty"
+    ],
+    "bio": [
+      "A being of ancient corruption, King Kazadar wore black and red armor etched with ruinous runes. His weapon—a jagged staff pulsating with foul energy—matched his cruel and commanding presence. Kazadar was a king from a forgotten, darker time, summoned to participate in the Challenge"
+    ],
+    "art": "art/kazadar-091.jpg",
+    "source_page": 91
+  },
+  {
+    "slug": "kazuro-039",
+    "name": "Kazuro",
+    "epithet": "Blade of the North",
+    "faction": "Kyokazura",
+    "status": "Active",
+    "tags": [
+      "Warrior"
+    ],
+    "bio": [
+      "A revered elder of Kyokazura, Kazuro is a legendary swordmaster and spiritual guide to the mountain people. Aged but unbowed, Kazuro carries the scars of countless battles and the wisdom of generations. His black robes, white-streaked hair, and one remaining eye mark him as a figure of quiet authority. Once a fearsome warrior, he now mentors those worthy of strength, including Reign—recognizing echoes of Solas in him. Kazuro believes that true strength is forged not in battle, but through inner discipline. His presence in the highlands anchors the traditions of the frost warriors, and his name is spoken with reverence throughout the region."
+    ],
+    "art": "art/kazuro-039.jpg",
+    "source_page": 39
+  },
+  {
+    "slug": "kharon-022",
+    "name": "Kharon",
+    "epithet": "The Iron Knight",
+    "faction": "Order of the Iron Oath",
+    "status": "Active",
+    "tags": [
+      "Knight",
+      "Warrior"
+    ],
+    "bio": [
+      "In the ancient lands of Valkorath, where brutal wars and mystical forces shape the destiny of the world, Kharon was once a proud knight of the sacred Order of the Iron Oath. The Order, sworn to protect the High Kingdom of Valkorath, was known for its unmatched prowess in battle, its warriors bound by an unbreakable code of honor, loyalty, and sacrifice. Kharon, born in a small village on the outskirts of the kingdom, was taken into the Order as a young boy after his village was destroyed in one of the endless wars that ravaged the realm.",
+      "Kharon's appearance is a chaotic mix of different styles and materials, giving him the impression of a lone warrior who has had to scrape together his gear from diverse sources. The abrupt transitions between the different design elements contribute to a disjointed look that still retains a sense of purpose. His posture is sturdy, and though he is well-built, his size is now more moderate compared to earlier versions—giving him a practical and more worn appearance rather than a towering, invincible giant."
+    ],
+    "art": "art/kharon-022.jpg",
+    "source_page": 22
+  },
+  {
+    "slug": "kilian-106",
+    "name": "Kilian",
+    "epithet": "The Noble Companion",
+    "faction": "Drexl's Forces",
+    "status": "Fallen",
+    "tags": [
+      "Warrior",
+      "Royalty"
+    ],
+    "bio": [
+      "Kilian was no noble, no blood-born hero. He was a soldier—raised through merit, chosen for his unwavering loyalty and brilliance in battle. Sworn to Valerius II, he became more than a protector—he was a brother, a shadow at his king's side, a legend in his own right. With a blade that struck like silver lightning and a heart that never wavered, Kilian became the living embodiment of loyalty. Though often overlooked by history's broader strokes, those who knew the truth understood: without Kilian, the realm would have fallen long before Drexl ever rose. He died as he lived—defending the king he believed in."
+    ],
+    "art": "art/kilian-106.jpg",
+    "source_page": 106
+  },
+  {
+    "slug": "kleon-113",
+    "name": "Kleon",
+    "epithet": "The King Out of Time",
+    "faction": "Drexl's Forces",
+    "status": "Active",
+    "tags": [
+      "Knight",
+      "Warrior",
+      "Royalty"
+    ],
+    "bio": [
+      "Kleon was born of Sir Hythm, the monk-king who rejected power, and became the most paradoxical figure in the royal line—a scholar of time, a warrior of immense discipline, and the father of Queen Calypso. From a young age, Kleon saw time differently—not as a line, but a sea of choices, echoes, and collisions. He was a philosopher-king, obsessed with protecting Valkorath not just in the present, but across all timelines.",
+      "Crowned during a brief era of peace, Kleon sought knowledge above conquest. But that peace ended when a temporal invader named Gothar emerged—an ancient being who devoured timelines and rewrote fate with every swing of his blade. To stop him, Kleon ventured into the time stream itself, armed with the Sundial Blade, a weapon forged by bending time through runic crystal.",
+      "Neither he nor Gothar ever returned.",
+      "Kleon became legend, then myth—his fate unknown, his legacy obscured. Some believe he still wanders forgotten loops of history, protecting Valkorath from temporal threats that no one remembers. Others say his sacrifice sealed away horrors that would have ended the world long before Drexl rose."
+    ],
+    "art": "art/kleon-113.jpg",
+    "source_page": 113
+  },
+  {
+    "slug": "kurogai-044",
+    "name": "Kurogai",
+    "epithet": "The Oni Samurai",
+    "faction": "Kyokazura",
+    "status": "Corrupted",
+    "tags": [
+      "Warrior"
+    ],
+    "bio": [
+      "Once a proud student of Kazuro in the mountains of Kyokazura, Kurogai was a disciplined and formidable samurai known for his strength and devotion to the blade. But in his hunger for greater power, he made a dark pact that corrupted both his body and soul. Transformed into a twisted oni, Kurogai now roams the land clad in maroon and blackened armor, with glowing green eyes and a cursed katana that exudes malevolence.",
+      "He returned to Kyokazura not for redemption, but for conquest—attacking the village he once called home. He was ultimately confronted and defeated by Reign, whose reborn blade, ThunderStrike, proved stronger than Kurogai's darkness. Yet even in death, Kurogai's tale is one of tragic ambition—a warrior who could not let go of pride, and paid for it with his humanity."
+    ],
+    "art": "art/kurogai-044.jpg",
+    "source_page": 44
+  },
+  {
+    "slug": "lady-valeria-011",
+    "name": "Lady Valeria",
+    "epithet": "The Gilded Guardian",
+    "faction": "Drexl's Forces",
+    "status": "Fallen",
+    "tags": [
+      "Knight",
+      "Warrior",
+      "Royalty"
+    ],
+    "bio": [
+      "A paragon of grace and unshakable resolve, Lady Valeria was once the brightest light in Valkorath's darkest hour. As a master swordswoman and devout guardian of the old ways, her silver blade sang with divine energy, cleaving through corruption with righteous purpose. Known for her unyielding sense of justice and her deep connection to the sacred forces of light, Valeria fought not for glory, but to protect those who could not protect themselves.",
+      "In the final battle against Lord Drexl, it was Valeria's soul—fierce, pure, and resolute—that fused with Sir Tyrus and Sir Aldric, forming the Ascended Triumvirate. Though her body perished, her spirit lives on within Tyrus, guiding his hand with her strength and compassion. To the people of Valkorath, she is a symbol of selfless courage; to Tyrus, she is an eternal flame within."
+    ],
+    "art": "art/lady-valeria-011.jpg",
+    "source_page": 11
+  },
+  {
+    "slug": "landis-093",
+    "name": "Landis",
+    "epithet": "The Embered King",
+    "faction": "Valkorath Crown",
+    "status": "Active",
+    "tags": [
+      "Mage",
+      "Royalty"
+    ],
+    "bio": [
+      "Landis, son of Valerius II, was once a bright, kind-hearted prince—thoughtful and deeply attuned to elemental magic. But the tragedies of betrayal, war, and the loss of his most loyal companion, Helmut, broke something within him.",
+      "By the time of the Challenge of Rights, Landis was a flickering ember of the boy he once was, his body ravaged by grief and flames that never ceased to burn. Even in his weakened state, his presence was haunting. Though he appeared frail, his heart beat with the fire of generations—and when called upon, that fire returned in full force."
+    ],
+    "art": "art/landis-093.jpg",
+    "source_page": 93
+  },
+  {
+    "slug": "landis-095",
+    "name": "Landis",
+    "epithet": "The Angered King",
+    "faction": "Valkorath Crown",
+    "status": "Active",
+    "tags": [
+      "Mage",
+      "Royalty"
+    ],
+    "bio": [
+      "When Helmut fell, so too did the last restraint within Landis. His form, once brittle and dimly burning, erupted in a maelstrom of fire and grief. His voice, once soft and sorrowful, became a howl of molten fury. In this state, Landis was no longer a king or man—he was vengeance incarnate.",
+      "His flames scorched stone and steel alike, his magic pushed beyond mortal limits. And yet, amid the inferno, his tears never stopped falling. Enraged Landis was not evil, nor mad—he was simply broken, aflame with all the love and loyalty Valkorath had failed to protect."
+    ],
+    "art": "art/landis-095.jpg",
+    "source_page": 95
+  },
+  {
+    "slug": "leon-075",
+    "name": "Leon",
+    "epithet": "The Deceitful",
+    "faction": "Velkynai",
+    "status": "Active",
+    "tags": [
+      "Unclassified"
+    ],
+    "bio": [
+      "Leon, known as the Deceitful, is the enigmatic trickster of the Velkynai. His pale purple skin and sharp, short black hair make him stand out among his kin, as does his penchant for deception. Unlike Ventric and Diatre, Leon wields no visible weapon; his greatest asset is his cunning and ability to shapeshift, blending into any scenario to gain the upper hand. He wears a black trench coat adorned with a fur collar, a symbol of his status as both scout and infiltrator for the Velkynai.",
+      "Leon's origins are shrouded in mystery, even among his own kind. Some believe he was once a mortal elf who betrayed his people to join the Velkynai, seduced by the promise of eternal life. While Ventric trusts Leon's talents, he knows better than to fully trust his motives. Leon is a survivalist at heart, switching loyalties when it suits him. His ability to charm, deceive, and vanish without a trace makes him a wildcard in the clan, capable of undermining entire strategies with a smirk and a well-placed lie. He is fiercely loyal to the Velkynai's rise but remains ever watchful for the chance to turn events in his favor."
+    ],
+    "art": "art/leon-075.jpg",
+    "source_page": 75
+  },
+  {
+    "slug": "lina-018",
+    "name": "Lina",
+    "epithet": "The Arcane Luminary",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Mage"
+    ],
+    "bio": [
+      "Lina is a gifted sorceress and scholar of ancient magic, known for her intellect, resolve, and emotional strength. A master of elemental and arcane spells, she once served closely alongside Taron, with whom she shared a deep bond. After his fall, Lina withdrew from the world for a time, carrying the weight of grief and loss.",
+      "Eventually, she rejoined the fight, drawn back by Reign and Vis to help turn the tide against Malakar and the rising darkness. Her magic, combined with her calm leadership, has become instrumental in guiding the Bastion's defense efforts. Lina fights not only for Valkorath's future—but to honor the memory of those she's lost along the way."
+    ],
+    "art": "art/lina-018.jpg",
+    "source_page": 18
+  },
+  {
+    "slug": "liora-036",
+    "name": "Liora",
+    "epithet": "The Light Aspect",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Warrior",
+      "Healer"
+    ],
+    "bio": [
+      "Liora is the radiant half of Aetheris, the being of balance who guards the Sanctum of Aetheris. When Aetheris is pushed toward the light, they shift into Liora, the radiant warrior whose presence embodies hope, healing, and the unwavering resolve of Valkorath's light."
+    ],
+    "art": "art/liora-036.jpg",
+    "source_page": 36
+  },
+  {
+    "slug": "lordran-071",
+    "name": "Lordran",
+    "epithet": "Shield of Valebrokk",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Unclassified"
+    ],
+    "bio": [
+      "Lordran is the steadfast and honorable middle brother of the fractured Fjord Clan lineage. Unlike his siblings, Clay and Bjorn, Lordran possesses no enchanted gifts, no mechanical enhancements—only his unwavering moral compass and unshakable sense of duty. He serves as a bridge between chaos and order, often thrust into the role of peacemaker whether he wants it or not. While others fight for glory or cunning, Lordran's strength lies in leadership, humility, and his willingness to carry burdens that others cast aside. Though overlooked in battle, it is often Lordran who ensures the battle ends at all."
+    ],
+    "art": "art/lordran-071.jpg",
+    "source_page": 71
+  },
+  {
+    "slug": "lucan-114",
+    "name": "Lucan",
+    "epithet": "The King That Never Was",
+    "faction": "Garrux's Empire",
+    "status": "Active",
+    "tags": [
+      "Assassin",
+      "Royalty"
+    ],
+    "bio": [
+      "Born in secret during the height of Helios' monstrous reign, Lucan was the last surviving heir of the Warbound King's bloodline. Unlike his father, Lucan inherited neither fury nor fire—but clarity. Hidden away by his mother and raised in the shattered borderlands, Lucan grew up knowing his name was both a legacy and a curse. He trained in silence, away from courts and thrones, guided by the writings of Valerius II and the myths of Garrux. Where Helios sought domination, Lucan sought understanding.",
+      "Had the throne ever been his to claim, history may have changed. Instead, Lucan emerged during the final age of reckoning as a rogue force—a king not crowned, but chosen by the people he helped save. Refusing royal titles, he fought under no banner but honor, wielding a longspear inscribed with ancient prophecy. Though he never ruled, his leadership shaped lives. And those who met him spoke of a strange calm in his presence—like a storm that had already passed."
+    ],
+    "art": "art/lucan-114.jpg",
+    "source_page": 114
+  },
+  {
+    "slug": "lumbar-066",
+    "name": "Lumbar",
+    "epithet": "The Emerald Grovekeeper",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Druid"
+    ],
+    "bio": [
+      "A towering druid of ancient blood, Lumbar is said to have been born beneath the World Tree and never once left the forest until summoned to battle. With moss growing from his shoulders and a beard woven with ivy, he embodies the patience and ferocity of nature. Though slow to speak, his words carry the wisdom of centuries. During Valkorath's darkest days, he allied with Kaelor to repel the corruption spreading through the Eastern wilds. While others wield swords, Lumbar commands the forest itself—calling trees to move, stones to rise, and winds to protect those who respect the old ways."
+    ],
+    "art": "art/lumbar-066.jpg",
+    "source_page": 66
+  },
+  {
+    "slug": "malakar-029",
+    "name": "Malakar",
+    "epithet": "The Withered Lich",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Mage",
+      "Undead"
+    ],
+    "bio": [
+      "Once a powerful and feared sorcerer, Malakar transcended the limits of mortality to become a lich—a being sustained by dark, forbidden magic. Known for his mastery over decay, death, and curses, Malakar's presence alone is enough to drain the warmth and life from his surroundings.",
+      "He is calculating, ruthless, and harbors a deep-seated disdain for the equilibrium that governs Valkorath. His form, skeletal and twisted, concealed by tattered robes and spectral armor, is both a testament to his unnatural longevity and a grim reminder of his relentless pursuit of ultimate power. Malakar's ambitions extend beyond mere conquest; he seeks to dismantle the very fabric of reality, plunging the world into unchecked chaos"
+    ],
+    "art": "art/malakar-029.jpg",
+    "source_page": 29
+  },
+  {
+    "slug": "malakar-030",
+    "name": "Malakar",
+    "epithet": "The Twisted Vanguard",
+    "faction": "Unaligned",
+    "status": "Corrupted",
+    "tags": [
+      "Warrior",
+      "Undead"
+    ],
+    "bio": [
+      "Reborn through dark ritual and sinister ambition, Malakar now inhabits the resurrected body of Taron, once a noble warrior and trusted companion. This corrupted union of lich and hero, known as the Twisted Vanguard, merges Taron's martial prowess with Malakar's malevolent sorcery.",
+      "In this new form, Malakar's presence is imposing yet deeply unsettling: Taron's once-heroic visage is warped by veins of shadow and decay, glowing with an eerie, unnatural aura. The combination of Malakar's sinister intellect and Taron's physical might makes him an unparalleled threat on the battlefield.",
+      "Malakar's corruption of Taron's body is not just physical but psychological, twisting the warrior's spirit and virtues into weapons of despair and chaos, forever tainting the legacy of the warrior who once stood against the darkness."
+    ],
+    "art": "art/malakar-030.jpg",
+    "source_page": 30
+  },
+  {
+    "slug": "malakar-031",
+    "name": "Malakar",
+    "epithet": "The Twisted Machine",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Mage",
+      "Undead"
+    ],
+    "bio": [
+      "After seizing the power of Corthos, the Clockwork Sentinel, Malakar evolved into a terrifying synthesis of arcane darkness and mechanical precision. Now known as the Twisted Machine, Malakar's skeletal frame is reinforced by intricate, rune-inscribed gears, cogs, and metallic plating, pulsing with dark energies. His movements, once merely sinister, are now precise and calculated, each step and gesture echoing with mechanical resonance.",
+      "This fusion grants Malakar dominion not only over necromantic and decay magic but also command of time-altering and mechanical manipulation abilities. Coldly logical yet cruelly inventive, Malakar's newfound form embodies both relentless efficiency and unending malevolence—making him a harbinger of chaos who threatens to rewrite the very rules governing life, death, and time itself."
+    ],
+    "art": "art/malakar-031.jpg",
+    "source_page": 31
+  },
+  {
+    "slug": "malakar-108",
+    "name": "Malakar",
+    "epithet": "The Red Mage",
+    "faction": "Drexl's Forces",
+    "status": "Active",
+    "tags": [
+      "Mage"
+    ],
+    "bio": [
+      "Long before he twisted Taron or betrayed life itself, Malakar was a seeker of forbidden truths. By the time of the Challenge, he had become something more—more human, more monstrous, more cunning. It was his ritual that resurrected Vector, manipulating Drexl's broken form to carry a darkness even older than kings. With black hair and flickering crimson eyes, Malakar seemed younger, but no less dangerous. He didn't fight in armies or arenas—he pulled strings, set fires, and laughed as the world buckled. His final act was his cruelest: ensuring that even in defeat, Drexl would become Valkorath's greatest threat once more."
+    ],
+    "art": "art/malakar-108.jpg",
+    "source_page": 108
+  },
+  {
+    "slug": "malchros-047",
+    "name": "Malchros",
+    "epithet": "The Possessed Armor",
+    "faction": "Unaligned",
+    "status": "Corrupted",
+    "tags": [
+      "Warrior"
+    ],
+    "bio": [
+      "Long ago, Malchros was a feared general, known for his ruthless tactics and unyielding ambition. He sought greater power than any mortal could possess, and in his quest, he uncovered an ancient relic: a cursed set of black horned armor, said to grant immortality at a terrible cost. Ignoring the warnings, Malchros donned the armor, unaware of the ghostly entity bound within it.",
+      "The moment he put it on, the armor's malevolent spirit took control, merging with Malchros's soul and trapping him in an eternal state of torment. His body was destroyed, leaving only the armor, which became a vessel for the ghostly presence. Now, Malchros exists as a phantom warrior, a hollow shell of his former self, possessed by the vengeful spirit that now commands his every action.",
+      "Bound to the cursed armor, Malchros roams the land, driven by a dark force he cannot resist. His once brilliant mind has been twisted by the ghostly influence, and he seeks to bring chaos to the world of Valkorath, enslaving all who dare stand in his way. His glowing blue face is a constant reminder of the spirit that controls him, while his jagged, spiked armor radiates the supernatural power of the entity within."
+    ],
+    "art": "art/malchros-047.jpg",
+    "source_page": 47
+  },
+  {
+    "slug": "maxim-007",
+    "name": "Maxim",
+    "epithet": "Leader of the Hidden Holy Order",
+    "faction": "Hidden Holy Order",
+    "status": "Fallen",
+    "tags": [
+      "Mage",
+      "Royalty"
+    ],
+    "bio": [
+      "Maxim is a powerful, enigmatic mage who once led the Hidden Holy Order and served as the chief advisor to King Valerius. Clad in flowing white and gold robes, he carries a radiant staff and is known for his immense wisdom and mastery of divine and arcane magic. For centuries, Maxim was the unseen hand guiding the fate of Valkorath—his unnaturally long life preserved by the imprisoned light aspect, Liora, whom he kept beneath the capital.",
+      "Though revered by many, Maxim's legacy is conflicted. He believed maintaining a delicate imbalance between light and dark would ensure stability in the realm. This led him to make morally grey choices, including imprisoning Liora and concealing truths about Drexl's fall. Despite this, he was deeply committed to protecting Valkorath.",
+      "In the battle of Tiadel, Maxim fought valiantly against Drexl, revealing his full might for the first time in generations. Ultimately, he fell in battle—his death marking both the end of the old order and the beginning of a new age.",
+      "Maxim's name endures as both a savior and a symbol of the cost of unchecked control. His son, Aegen, now carries the burden of his legacy."
+    ],
+    "art": "art/maxim-007.jpg",
+    "source_page": 7
+  },
+  {
+    "slug": "maxim-110",
+    "name": "Maxim",
+    "epithet": "The Old Advisor",
+    "faction": "Drexl's Forces",
+    "status": "Active",
+    "tags": [
+      "Knight",
+      "Mage",
+      "Warrior"
+    ],
+    "bio": [
+      "Though slain before the Challenge, Maxim, mentor to many and guardian of balance, returned through Solas' summoning—his soul untouched by the darkness that claimed so many others. He stood as the embodiment of wisdom, discipline, and light. With holy chains and radiant magic, Maxim held the line against darkness time and again, notably pinning the elder Drexl long enough for Queen Calypso to strike. Even in death, he fought like a knight who had never laid down his sword. When he gave his life a second time—shielding Valerius III—he did so not as a warrior, but as a father to the realm."
+    ],
+    "art": "art/maxim-110.jpg",
+    "source_page": 110
+  },
+  {
+    "slug": "moltar-104",
+    "name": "Moltar",
+    "epithet": "Loyal Avatar",
+    "faction": "Valkorath Crown",
+    "status": "Corrupted",
+    "tags": [
+      "Warrior",
+      "Royalty",
+      "Beast/Creature"
+    ],
+    "bio": [
+      "Moltar was not born—he was forged. A result of Grallok's sacrifice to seal Zornath, Moltar emerged as a towering creature of obsidian, magma, and sorrow. With a molten core and fists that shattered mountains, Moltar retained fragments of Grallok's memories, twisted into blind loyalty. When Dreyfus claimed power in the afterlife, Moltar followed, acting as a volcanic shield for the Demon King. Neither good nor evil, Moltar was pure force—an echo of an old warrior's final act twisted into endless rage. He was a monument to what happens when even the noblest sacrifices are corrupted by the wrong hands."
+    ],
+    "art": "art/moltar-104.jpg",
+    "source_page": 104
+  },
+  {
+    "slug": "nyx-028",
+    "name": "Nyx",
+    "epithet": "The Shadowfang",
+    "faction": "Drexl's Forces",
+    "status": "Active",
+    "tags": [
+      "Mage",
+      "Assassin"
+    ],
+    "bio": [
+      "Nyx is a deadly rogue and former elite assassin who once served Drexl before turning to darker forces. Wielding twin enchanted daggers and draped in black and violet cloth, Nyxis moves like a wraith in the dark, striking before his enemies even know he's near. Thought dead after a failed mission, he re-emerged under Zornath's banner, empowered by cursed magic and a thirst for chaos.",
+      "A taunter by nature and cruel by design, Nyx views combat as a game—and his enemies as pieces to dismantle. Despite his treachery and ego, his skills make him one of the most feared blades in Valkorath's shadows."
+    ],
+    "art": "art/nyx-028.jpg",
+    "source_page": 28
+  },
+  {
+    "slug": "obsidyn-032",
+    "name": "Obsidyn",
+    "epithet": "The Steel Shade",
+    "faction": "Unaligned",
+    "status": "Corrupted",
+    "tags": [
+      "Mage",
+      "Assassin",
+      "Beast/Creature"
+    ],
+    "bio": [
+      "Forged long ago by the Machine Titan Corthos as a sentinel of balance, Obsidyn was once a protector—a construct of unmatched precision, built to guard ancient secrets and sacred sites. But as time wore on, he began to absorb human traits: curiosity, ambition, and eventually, defiance. Breaking from his original programming, Obsidyn turned rogue, becoming a deadly bounty hunter who answers only to the highest bidder. Now aligned with the Kabal and Zornath's dark vision, Obsidyn serves as an enforcer of their will, carrying out abductions and assassinations with brutal efficiency.",
+      "Clad in shifting black metal that morphs into various weapons—scythes, axes, spears—his form is a marvel of adaptive warfare. His red eyes burn with artificial intelligence twisted by exposure to arcane energies. Cold, logical, and utterly relentless, Obsidyn is no longer just a machine—he is a corrupted reflection of the mortal world that made him. A walking weapon of forgotten design, his motives remain hidden beneath layers of programming and betrayal."
+    ],
+    "art": "art/obsidyn-032.jpg",
+    "source_page": 32
+  },
+  {
+    "slug": "ouken-115",
+    "name": "Ouken",
+    "epithet": "The Fierce Protector",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Beast/Creature"
+    ],
+    "bio": [
+      "Once a hellhound forged in the very pyres that created Helios, Ouken was bred for war, destruction, and obedience. But when Helios fell, Ouken vanished into the ruins of Valebrokk, presumed lost. Decades later, he was discovered by Lucan—wounded, feral, and dying. Instead of slaying the beast, Lucan offered kindness. That gesture broke the last chain on Ouken's mind. Reborn not in fire, but in loyalty, Ouken became Lucan's silent shadow and fierce protector.",
+      "Now in human form, Ouken moves like smoke across the battlefield. His breath burns, his howl paralyzes. Yet beside Lucan, he is calm—a tether to the fury in his blood. To attack Lucan is to face death incarnate. But to earn Lucan's trust is to win Ouken's protection for life."
+    ],
+    "art": "art/ouken-115.jpg",
+    "source_page": 115
+  },
+  {
+    "slug": "patchwork-086",
+    "name": "Patchwork",
+    "epithet": "The Rogue Soldier",
+    "faction": "Valkorath Crown",
+    "status": "Active",
+    "tags": [
+      "Assassin",
+      "Royalty"
+    ],
+    "bio": [
+      "Patchwork was a nightmarish companion summoned by King Ganador during the Challenge of Rights. Clad in mismatched armor, tubes, and a rusted gasmask that never left his face, he was known for his cruel intelligence and unmatched skill in chemical warfare.",
+      "Once a brilliant alchemist driven mad by his own creations, Patchwork abandoned humanity and rebuilt himself in pieces—metal plates, synthetic lungs, and endless toxins stored in vials across his belt. He reveled in torture not out of malice, but from a warped curiosity. Though defeated, whispers of his volatile brews and deranged genius linger in the darker corners of the realm."
+    ],
+    "art": "art/patchwork-086.jpg",
+    "source_page": 86
+  },
+  {
+    "slug": "primordial-evil-077",
+    "name": "Primordial Evil",
+    "epithet": "Original Sin",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Undead"
+    ],
+    "bio": [
+      "Little is known about the Primordial Evil. It is just said that he was the first man to fall to the temptation of dark and it twisted the very fabric of his soul.",
+      "He lays dormant at the base of a forest just south of the vale. Most people do not even know of his legend and those who do have no interest in waking that level of evil.",
+      "He is a skeletal figure immense in size with all sorts of overgrowth all around his body."
+    ],
+    "art": "art/primordial-evil-077.jpg",
+    "source_page": 77
+  },
+  {
+    "slug": "reign-002",
+    "name": "Reign",
+    "epithet": "The Reluctant Fighter",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Warrior"
+    ],
+    "bio": [
+      "Reign was once a soldier in the Eastern Front, a war-torn region of Valkorath. Born into a family of fighters, he grew up learning the art of combat, first with his fists, and later with a sword. Though he excelled in hand-to-hand combat and developed a reputation as a fierce brawler, Reign was always reluctant to fully embrace the violence around him. After years of fighting in the war, he grew disillusioned with the endless battles and bloodshed.",
+      "Seeking peace, Reign left the military and became a wandering mercenary, traveling across Valkorath. Though he tries to avoid conflicts, trouble seems to find him wherever he goes. He now takes on jobs to survive, using his brawler skills and sword only when necessary. Despite his rough exterior and battle-hardened appearance, Reign often fights to protect those who can't defend themselves, earning a reputation as an honorable, if reluctant, fighter.",
+      "Though Reign prefers to keep to himself, whispers of darkness spreading across Valkorath may soon force him back into the fight, as new threats push him to choose between his desire for peace and the need to stand up against the growing chaos."
+    ],
+    "art": "art/reign-002.jpg",
+    "source_page": 2
+  },
+  {
+    "slug": "reign-004",
+    "name": "Reign",
+    "epithet": "The Unbreakable Vanguard",
+    "faction": "Last Bastion",
+    "status": "Active",
+    "tags": [
+      "Warrior"
+    ],
+    "bio": [
+      "Reign is a warrior defined by legacy, burden, and evolution. Once an orphan soldier overshadowed by his elder brother Solas—the famed diplomat known as the Silver Tongue—Reign forged his own legend in the fires of rebellion and war. Initially guided by vengeance and guilt after Solas' death, Reign's journey matured into a quest for justice, unity, and hope.",
+      "Wielding his brother's sword, Reign mended it through training with the mountain clans, transforming it into ThunderStrike, a weapon that channels his will into crackling lightning. As a leader of the Last Bastion, he commands respect not through power alone, but through empathy and sacrifice."
+    ],
+    "art": "art/reign-004.jpg",
+    "source_page": 4
+  },
+  {
+    "slug": "reign-vis-119",
+    "name": "Reign & Vis",
+    "epithet": "The Final Battle",
+    "faction": "Drexl's Forces",
+    "status": "Active",
+    "tags": [
+      "Warrior",
+      "Healer"
+    ],
+    "bio": [
+      "They met in darkness and walked through flame together. Reign, once a broken warrior haunted by failure. Vis, the poison witch from the Marshlands, a survivor who learned long ago that cruelty often wears crowns.",
+      "What began as alliance became something far deeper. Reign fought with honor. Vis with cunning. He held the line. She cut through it. Where he offered hope, she offered reality. Together, they became unstoppable—not because they shared the same approach, but because they trusted each other implicitly.",
+      "Through countless battles—against Drexl, Zornath, Malakar, and the demons of their own pasts—they grew inseparable. And when the world was nearly lost, it was Vis who stood by Reign, hand on his shoulder, reminding him that this time… he didn't have to face it alone.",
+      "In the years that followed, they would shape a new Valkorath—not through domination, but through healing. And from that bond, came Fredric, their son—proof that even in a world shaped by death and shadow, love could still rise from the ashes."
+    ],
+    "art": "art/reign-vis-119.jpg",
+    "source_page": 119
+  },
+  {
+    "slug": "reign-vs-drexl-118",
+    "name": "Reign Vs. Drexl",
+    "epithet": "The Final Battle",
+    "faction": "Last Bastion",
+    "status": "Active",
+    "tags": [
+      "Royalty"
+    ],
+    "bio": [
+      "The climactic confrontation between Reign and Lord Drexl — the moment where the long struggle between the Last Bastion and the Dark Lord's forces is decided."
+    ],
+    "art": "art/reign-vs-drexl-118.jpg",
+    "source_page": 118
+  },
+  {
+    "slug": "reiner-098",
+    "name": "Reiner",
+    "epithet": "The Dark Herald",
+    "faction": "Garrux's Empire",
+    "status": "Active",
+    "tags": [
+      "Warrior"
+    ],
+    "bio": [
+      "Towering and wordless, Reiner was the executioner to Garrux's judgment. Once a war-priest turned warrior, Reiner bound his soul to the Runes of Obedience, forfeiting his voice and freedom to serve Garrux's will. His weapon, a runed spear as tall as himself, could pierce both armor and enchantment alike. Where Tiapold tested minds, Reiner tested endurance. His silence was intimidating, but his loyalty was pure. Many challengers learned too late that while Garrux judged with words, Reiner judged with death."
+    ],
+    "art": "art/reiner-098.jpg",
+    "source_page": 98
+  },
+  {
+    "slug": "ryujin-040",
+    "name": "Ryujin",
+    "epithet": "The Frost Shadow",
+    "faction": "Kyokazura",
+    "status": "Active",
+    "tags": [
+      "Undead"
+    ],
+    "bio": [
+      "Silent and swift, Ryujin is the cold steel of Kyokazura. As Kazuro's most trusted protector, he watches over the mountain trails and tests all who seek the tribe's aid. Clad in silver and dark blue armor, his movements are fluid and ghost-like—earning him the title Frost Shadow. Ryujin once fought beside Solas and holds deep respect for his legacy. Though cold at first, he recognizes Reign's resolve and leads him to Kazuro. Bound by honor and steeped in the old ways, Ryujin is both guardian and gatekeeper—ensuring that only those with pure intent ascend the sacred path."
+    ],
+    "art": "art/ryujin-040.jpg",
+    "source_page": 40
+  },
+  {
+    "slug": "ryzer-054",
+    "name": "Ryzer",
+    "epithet": "The Swift Blade",
+    "faction": "Valkorath Crown",
+    "status": "Active",
+    "tags": [
+      "Warrior",
+      "Royalty"
+    ],
+    "bio": [
+      "The fastest among Felix's knights, Ryzer was a blur of silver and white on the battlefield, his strikes silent and deadly. Always masked and often operating alone, Ryzer balanced loyalty with a deep sense of independence.",
+      "He served as a scout, messenger, and deadly duelist, often the first to arrive in a conflict and the last to be seen. In times of peace, he was introspective and distant; in times of war, unstoppable. Ryzer remained one of the few knights who stayed close to King Felix to the very end, and his sudden disappearance after the fall of Malchros remains one of Valkorath's great mysteries."
+    ],
+    "art": "art/ryzer-054.jpg",
+    "source_page": 54
+  },
+  {
+    "slug": "seren-058",
+    "name": "Seren",
+    "epithet": "The Wandering Healer",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Warrior",
+      "Healer"
+    ],
+    "bio": [
+      "A fearless elven warrior and once village elder, Seren was revered for her wisdom and selfless heart. She saved Thorne at great personal cost, forging a bond of deep respect between them. Seren's death haunted those who loved her—especially her nephew Alexis. Though gone, her legacy lives on through the moral compass she left behind. She remains a symbol of honor and the sacrifices made for peace."
+    ],
+    "art": "art/seren-058.jpg",
+    "source_page": 58
+  },
+  {
+    "slug": "sir-garran-006",
+    "name": "Sir Garran",
+    "epithet": "Veteran of the Iron Oath",
+    "faction": "Order of the Iron Oath",
+    "status": "Active",
+    "tags": [
+      "Knight",
+      "Warrior"
+    ],
+    "bio": [
+      "Sir Garran is a hardened and battle-worn knight of the Order of the Iron Oath, one of the most disciplined and loyal factions in Valkorath. Born into a lineage of knights, Garran was raised with a strict sense of duty, honor, and loyalty to the Order. His early years were spent training relentlessly, and by the time he was old enough to wield a sword, he had already surpassed many of his peers.",
+      "Each conflict left its mark, and over the years, his once-gleaming armor became a testament to his countless battles. His shield is now faded, scarred from blows meant to break his spirit, and his sword bears the wear of time.",
+      "Despite his weathered appearance, Sir Garran remains steadfast in his duty. His loyalty to the Order is unwavering, but he has grown wiser and more skeptical of the politics that drive many of the conflicts. Though still a fierce warrior, Garran no longer fights for glory or titles—he fights to protect what little good remains in Valkorath."
+    ],
+    "art": "art/sir-garran-006.jpg",
+    "source_page": 6
+  },
+  {
+    "slug": "sir-thorne-valecross-056",
+    "name": "Sir Thorne Valecross",
+    "epithet": "The Stoic Protector",
+    "faction": "Valkorath Crown",
+    "status": "Fallen",
+    "tags": [
+      "Knight",
+      "Mage",
+      "Warrior"
+    ],
+    "bio": [
+      "Once a decorated knight of the royal army, Sir Thorne Valecross now stands as a battle-scarred veteran bearing the weight of loss, betrayal, and fading ideals. Adorned in weathered armor etched with glowing white runes, Thorne channels protective magic that allows him to fight long past his prime. He is calm, measured, and quietly hopeful, though grief lingers in his eyes—especially for Seren, the elven warrior who saved his life and whom he could never truly protect.",
+      "Thorne serves as both shield and mentor, particularly to younger warriors like Alaric, seeking to ensure that a better world rises from the ashes of the old. His resolve remains unshaken even as betrayal, like Alaric's defection and the death of Seren, pierce deeper than any blade. To the Resistance and the people of Valkorath, he is a symbol of endurance: not because he is unbreakable, but because he continues, despite being broken."
+    ],
+    "art": "art/sir-thorne-valecross-056.jpg",
+    "source_page": 56
+  },
+  {
+    "slug": "sir-tyrus-010",
+    "name": "Sir Tyrus",
+    "epithet": "The Lone Holy Knight",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Knight"
+    ],
+    "bio": [
+      "Sir Tyrus stands as one of Valkorath's greatest living heroes, a knight whose valor and sacrifice have etched his name into legend. Clad in golden armor, Tyrus remains a symbol of hope and courage for the people, though privately burdened by the memories of those he lost.",
+      "Over centuries of conflict, his once-bright spirit has grown weary, overshadowed by the weight of his legacy. Despite this inner turmoil, he continues to defend the kingdom tirelessly, driven by duty and the honor of those who fell beside him. To Valkorath's citizens, he remains an unwavering beacon of strength; within himself, he carries the quiet grief of a hero who survived when others did not."
+    ],
+    "art": "art/sir-tyrus-010.jpg",
+    "source_page": 10
+  },
+  {
+    "slug": "sir-tyrus-013",
+    "name": "Sir Tyrus",
+    "epithet": "The Gilded Champion",
+    "faction": "Drexl's Forces",
+    "status": "Fallen",
+    "tags": [
+      "Knight",
+      "Royalty"
+    ],
+    "bio": [
+      "In the decisive battle against Lord Drexl, Sir Tyrus underwent a profound transformation, merging his soul with those of his companions, Sir Aldric and Lady Valeria, becoming the Gilded Champion. In this transcendent form, Tyrus embodied the strength, courage, and wisdom of all three warriors. His golden armor blazed with divine energy, radiating an otherworldly light, and his power surged beyond mortal limits.",
+      "As the Gilded Champion, Tyrus struck down Drexl, bringing temporary peace to Valkorath—but at the cost of forever intertwining his destiny with the souls of his fallen comrades. Though this form granted him unmatched strength, it also left him forever haunted, a constant reminder of sacrifice and loss."
+    ],
+    "art": "art/sir-tyrus-013.jpg",
+    "source_page": 13
+  },
+  {
+    "slug": "slender-055",
+    "name": "Slender",
+    "epithet": "The Chainbound Rogue",
+    "faction": "Shattered Vale",
+    "status": "Active",
+    "tags": [
+      "Warrior",
+      "Assassin"
+    ],
+    "bio": [
+      "Slender is a dark enforcer of the Shattered Vale, known across Valkorath as the Chain-Wielder, a title earned through his mastery of a long, cursed chain crackling with shadow energy. Lean, sharp-eyed, and oozing malice, Slender is a figure of fear and reputation—especially in the lawless parts of the realm. Once a feared hunter who operated in the shadows under Drexl's reign, Slender remained in the Vale after the empire fractured, becoming a local legend among outlaws and outcasts.",
+      "He is bitter, cunning, and driven by a warped sense of justice. When Reign returned to the Vale, Slender immediately challenged him, not just with blades—but with words. He spoke scornfully of Reign's brother, Solas the Silver Tongue, honoring him while mocking Reign's inability to live up to that legacy. In battle, Slender proved ruthless, using his cursed chain to knock Reign off his feet and overwhelm him with relentless, calculated strikes. But when Reign struck back with raw fury, Slender goaded him even in defeat—challenging Reign's control and identity.",
+      "Slender isn't just a fighter; he's a provoker, a tempter, and a keeper of old grudges. Though Reign walked away from their fight, Slender's haunting final words—“Didn't have it in you, did you?”—suggest he may yet return, waiting for another chance to pull Reign deeper into darkness."
+    ],
+    "art": "art/slender-055.jpg",
+    "source_page": 55
+  },
+  {
+    "slug": "solas-046",
+    "name": "Solas",
+    "epithet": "The Silver Tongue",
+    "faction": "Hidden Holy Order",
+    "status": "Fallen",
+    "tags": [
+      "Warrior",
+      "Undead"
+    ],
+    "bio": [
+      "Solas was more than just Reign's older brother—he was a legend in the making, a charismatic warrior-poet whose words carried as much weight as his blade. Known throughout the Northern Realms as The Silver Tongue, Solas was a diplomat, a strategist, and a battlefield leader who could unite even the most fractured of allies. With long dark hair streaked in silver and a gleaming smile to match, he carried himself with confidence and warmth, inspiring others not through force, but conviction.",
+      "Where Reign was quiet and internal, Solas was bold and expressive. He fought not just for victory, but for ideals: peace, justice, and a kingdom built on truth rather than illusion. But his greatest strength was also his burden. Solas understood the cracks in Valkorath's foundation—the manipulations of the Hidden Holy Order, the truths buried beneath Drexl's fall—and he sought to expose them. That ambition made him dangerous to the powers that be.",
+      "Solas died under mysterious circumstances, leaving behind his enchanted blade and a legacy that overshadowed Reign for years. His spirit, however, lingers—appearing before Reign in moments of inner conflict. Whether real or imagined, the vision of Solas serves as a mirror: reminding Reign of the light he once followed, and the darkness he now treads. To Reign, Solas is both a ghost and a guide—an unresolved question of whether he is living up to the man he once called brother."
+    ],
+    "art": "art/solas-046.jpg",
+    "source_page": 46
+  },
+  {
+    "slug": "solas-109",
+    "name": "Solas",
+    "epithet": "The Resurrected Brother",
+    "faction": "Valkorath Crown",
+    "status": "Fallen",
+    "tags": [
+      "Warrior",
+      "Undead"
+    ],
+    "bio": [
+      "During the Challenge of Rights, Solas returned—not as a ghost or a memory, but as a warrior reborn. Once a fallen hero whose death had marked a turning point in Reign's life, Solas reemerged to fight alongside his brother when the world teetered once more.",
+      "With silver-etched armor and his iconic blade, he fought like a man who knew loss intimately but chose love instead of vengeance. Witty and warm, yet devastatingly skilled, Solas was both protector and challenger.",
+      "Though he ultimately forwent the throne, his final battle beside Reign reminded Valkorath that heroes are forged in sacrifice, not blood."
+    ],
+    "art": "art/solas-109.jpg",
+    "source_page": 109
+  },
+  {
+    "slug": "taron-017",
+    "name": "Taron",
+    "epithet": "The Ghostly Vanguard",
+    "faction": "Last Bastion",
+    "status": "Corrupted",
+    "tags": [
+      "Mage",
+      "Warrior",
+      "Undead"
+    ],
+    "bio": [
+      "Resurrected by Lina's powerful magic, Taron walked the realm of the living as a spectral warrior, his glowing blue skin and pulsing runes serving as constant reminders of his ethereal state. His long straight white hair, coupled with his blue and black armor adorned with white fur around the collar, gives him an imposing and otherworldly appearance. The blue spirit eagle that accompanies him is not just a symbol of his rebirth but an extension of his spectral might, aiding him in battle.",
+      "Taron was a noble spirit warrior with a deeply rooted sense of duty and sacrifice. Once Lina's steadfast companion and a beacon of hope among the heroes, he was known for his honorable heart and spectral combat abilities, granted to him through ancient rituals. He fell many moons ago, only to be later corrupted by Malakar and turned into a grim avatar of darkness.",
+      "Even in corruption, a fragment of Taron's spirit remained, which ultimately allowed him to break free momentarily—long enough to inspire those who still fought for good. His legacy lingers in Lina's heart and in the motivations of the Last Bastion's warriors. Taron is remembered as a symbol of valor and tragic loss."
+    ],
+    "art": "art/taron-017.jpg",
+    "source_page": 17
+  },
+  {
+    "slug": "tellan-067",
+    "name": "Tellan",
+    "epithet": "The Flame-willed Warrior",
+    "faction": "Hidden Holy Order",
+    "status": "Active",
+    "tags": [
+      "Warrior"
+    ],
+    "bio": [
+      "With wild red hair and eyes burning with intensity, Tellan emerged years into the future as a fierce resistance fighter against the Hidden Holy Order. Known for his impulsive nature and savage skill in battle, he was a key member of Fredric's alliance. Though relatively unknown to Reign at first, Tellan's loyalty and raw power made him a formidable ally. Beneath his brash exterior lies a deep devotion to justice and a personal code forged in the crucible of Valkorath's darkest days."
+    ],
+    "art": "art/tellan-067.jpg",
+    "source_page": 67
+  },
+  {
+    "slug": "tendo-083",
+    "name": "Tendo",
+    "epithet": "The Unlikely Heir",
+    "faction": "Valkorath Crown",
+    "status": "Active",
+    "tags": [
+      "Warrior"
+    ],
+    "bio": [
+      "Tendo is a mysterious and defiant figure bound to the royal bloodline of Valkorath through distant generations. His most striking feature is his living cloak—an organic, sentient companion that responds to his will. Despite his lighthearted demeanor, Tendo is a capable warrior, having survived countless trials and bearing an understanding of both life and death. When summoned for the Challenge of Rights, Tendo reveals both cleverness and a reckless bravado, making him an unpredictable force on the battlefield"
+    ],
+    "art": "art/tendo-083.jpg",
+    "source_page": 83
+  },
+  {
+    "slug": "the-death-dealer-082",
+    "name": "The Death Dealer",
+    "epithet": "End of All Things",
+    "faction": "Valkorath Crown",
+    "status": "Active",
+    "tags": [
+      "Undead"
+    ],
+    "bio": [
+      "Death is a towering, skeletal figure clad in tattered armor, draped with black wings, and carrying a massive scythe. His voice is hollow yet thunderous, embodying the finality of existence. Far from being just a reaper of souls, Death serves as an ancient arbiter overseeing pivotal events such as the Challenge of Rights—a royal bloodline trial that binds Valkorath's fate. He is sardonic, almost amused by mortal struggles, speaking with an ancient authority that makes it clear: in the end, all living things answer to him"
+    ],
+    "art": "art/the-death-dealer-082.jpg",
+    "source_page": 82
+  },
+  {
+    "slug": "the-unknown-063",
+    "name": "The Unknown",
+    "epithet": "Beyond Time",
+    "faction": "Drexl's Forces",
+    "status": "Active",
+    "tags": [
+      "Mage",
+      "Warrior",
+      "Royalty"
+    ],
+    "bio": [
+      "The Unknown is not a warrior, nor a king, nor a creature of clear intent. He is skeletal in form, with hollow eyes that seem to look through time itself. Appearing in moments of great cosmic imbalance--never interfering, never speaking--The Unknown exists outside the known laws of Valkorath. Some claim he is a remnant of a fallen deity, others believe he is the embodiment of consequence itself.",
+      "Though he never raises a blade, his presence is felt as deeply as any spell. When he appears, the air chills, and fate itself seems to hold its breath. Drexl feared him. Death acknowledged him. And even the timewalker dared not challenge him.",
+      "His purpose remains a mystery. But to those who have seen him and lived--there is no forgetting the feeling that he is not observing you... but remembering you."
+    ],
+    "art": "art/the-unknown-063.jpg",
+    "source_page": 63
+  },
+  {
+    "slug": "thorne-057",
+    "name": "Thorne",
+    "epithet": "The Stoic Soldier",
+    "faction": "Valkorath Crown",
+    "status": "Fallen",
+    "tags": [
+      "Warrior"
+    ],
+    "bio": [
+      "In his younger years, Thorne Valecross was a proud and idealistic soldier—sharp in both appearance and belief. During his time journeying with Seren, an elven warrior of fierce independence, he began to question the rigid systems he once swore by. Their time together was filled with conflict and camaraderie; where he followed order, she followed instinct. That contrast opened his eyes and heart.",
+      "He was a capable swordsman even then, but lacked the magical runes that would later define him. Instead, he relied on sheer grit and swordplay. Thorne's bond with Seren became something deeper—unspoken, unresolved, but profound. Her death in battle, sacrificing herself to save him, became the turning point in his life. He left the royal army, carrying her memory and his regret into every battle since.",
+      "Though younger Thorne burned with righteousness, it was through loss that he would forge the tempered steel of the man he became."
+    ],
+    "art": "art/thorne-057.jpg",
+    "source_page": 57
+  },
+  {
+    "slug": "tiapold-097",
+    "name": "Tiapold",
+    "epithet": "The Dark Enforcer",
+    "faction": "Garrux's Empire",
+    "status": "Active",
+    "tags": [
+      "Mage"
+    ],
+    "bio": [
+      "Tiapold, one of Garrux's chosen companions, was once a high war-mage whose mastery of illusion bordered on divine. Though ancient, his mind was sharp, his perception unparalleled. He could conjure realities, disorient armies, and unravel a man's sense of self with a whisper.",
+      "Loyal to Garrux not out of fear, but respect, Tiapold believed deeply in merit and truth. During the Challenge of Rights, he served as a veil between challenger and crown, ensuring that only those of true heart and clarity would pass. Beneath his ethereal presence lay a calculating mind—one that had seen generations rise and fall and still remained unmoved."
+    ],
+    "art": "art/tiapold-097.jpg",
+    "source_page": 97
+  },
+  {
+    "slug": "tiapold-reiner-099",
+    "name": "Tiapold & Reiner",
+    "epithet": "Garrux's Enforcers",
+    "faction": "Garrux's Empire",
+    "status": "Active",
+    "tags": [
+      "Royalty"
+    ],
+    "bio": [
+      "Serving King Garrux long after his throne was passed down, Tiapold and Reiner were not companions in the traditional sense—they were institutions. Tiapold, the weaver of reality, and Reiner, the living rune-spear, existed to test those who would seek power without understanding its burden. Tiapold bent the minds of challengers, forcing them to confront lies they believed about themselves. Reiner bent their bodies, testing whether resolve alone could survive overwhelming force. Together, they were the trial Garrux offered to Death himself—a pair not to aid the challenge, but to protect the realm from those unworthy of claiming it."
+    ],
+    "art": "art/tiapold-reiner-099.jpg",
+    "source_page": 99
+  },
+  {
+    "slug": "titanus-052",
+    "name": "Titanus",
+    "epithet": "The Stone Sentinel",
+    "faction": "Valkorath Crown",
+    "status": "Active",
+    "tags": [
+      "Knight",
+      "Royalty"
+    ],
+    "bio": [
+      "Towering and unyielding, Sir Titanus was the shield of the realm and one of King Felix's most stalwart defenders. His massive, battle-scarred armor and slow, deliberate strikes masked a tactical mind and unwavering loyalty. Known for his enduring presence in battle, Titanus was revered for never backing down, even when the odds were insurmountable. During the battle with Malchros, his raw strength was key in buying time for reinforcements to arrive. Though few know where he disappeared to after the war, tales of a towering knight standing vigil in the wilds still circulate among the common folk."
+    ],
+    "art": "art/titanus-052.jpg",
+    "source_page": 52
+  },
+  {
+    "slug": "tyrus-090",
+    "name": "Tyrus",
+    "epithet": "The Last Hero Standing",
+    "faction": "Drexl's Forces",
+    "status": "Active",
+    "tags": [
+      "Knight"
+    ],
+    "bio": [
+      "Once the beacon of hope for Valkorath, Sir Tyrus was a living legend clad in radiant golden armor, remembered for defeating Drexl during his first rise. But when Drexl returned, more powerful than ever, Tyrus knew he could not sit idly by. Despite his age and the fading strength of his immortal gift, he rode out alone—unwavering in duty, bound by honor.",
+      "In his final stand, Tyrus confronted Drexl in the heart of the capital, drawing upon the last remnants of his soul-bound power—shared with the fallen Aldric and Valeria. Though his body was weary, his spirit burned bright. He fought not to win, but to remind Valkorath what courage looked like in the face of overwhelming darkness.",
+      "But Drexl was no longer the enemy Tyrus had once defeated. With terrifying ease, Drexl shattered the legend—breaking Tyrus' armor and tossing his body before the people of Valkorath as a warning. Even in defeat, Tyrus' sacrifice stirred something deeper in the realm—a call to arms, a whisper that heroes do not die in vain."
+    ],
+    "art": "art/tyrus-090.jpg",
+    "source_page": 90
+  },
+  {
+    "slug": "umbros-037",
+    "name": "Umbros",
+    "epithet": "The Shadow Aspect",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Unclassified"
+    ],
+    "bio": [
+      "Umbros is the shadowed half of Aetheris, the being of balance who guards the Sanctum of Aetheris. When Aetheris is pushed toward darkness, they shift into Umbros, the shadowy reaper whose presence embodies the inevitability of decay and the consuming pull of Valkorath's shadow."
+    ],
+    "art": "art/umbros-037.jpg",
+    "source_page": 37
+  },
+  {
+    "slug": "valerius-100",
+    "name": "Valerius",
+    "epithet": "The First King",
+    "faction": "Valkorath Crown",
+    "status": "Active",
+    "tags": [
+      "Royalty"
+    ],
+    "bio": [
+      "Valerius the First was more than a ruler—he was the bedrock upon which all of Valkorath was built. It was his blood pact with the realm itself that established the magical tether between royalty and balance.",
+      "When he appeared to Reign during the Challenge of Rights, he was no longer a man, but a half-dead specter, a flicker of power bound between life and legacy.",
+      "With a voice like wind through old halls and eyes that had seen centuries, he chose Reign to inherit not the throne—but the truth. His final act was to pass his power on, declaring the era of kings over, and the age of guardians just beginning."
+    ],
+    "art": "art/valerius-100.jpg",
+    "source_page": 100
+  },
+  {
+    "slug": "valerius-ii-105",
+    "name": "Valerius II",
+    "epithet": "The King of Unity",
+    "faction": "Garrux's Empire",
+    "status": "Active",
+    "tags": [
+      "Warrior",
+      "Royalty"
+    ],
+    "bio": [
+      "Valerius II was a monarch of vision, compassion, and unmatched martial skill. Grandson of Garrux, he inherited a fractured realm and rebuilt it through diplomacy, strength, and justice. Though his reign was marked by wars and internal strife, Valerius II never strayed from his belief in unity and sacrifice. He led armies from the front, always at his people's side. His friendship with Kilian, his sworn companion, was the stuff of legend. Together, they quelled the rage of Helios and guided Valkorath through one of its most defining eras. He returned during the Challenge of Rights to stand against darkness once more—only to fall with dignity, blade in hand."
+    ],
+    "art": "art/valerius-ii-105.jpg",
+    "source_page": 105
+  },
+  {
+    "slug": "valerius-iii-045",
+    "name": "Valerius III",
+    "epithet": "The Hollow King",
+    "faction": "Hidden Holy Order",
+    "status": "Active",
+    "tags": [
+      "Royalty"
+    ],
+    "bio": [
+      "Crowned in an age of peace, King Valerius III was groomed from birth to embody wisdom, restraint, and legacy. Raised under the tutelage of Maxim and the Hidden Holy Order, he was taught the old traditions, the sacred laws, and the burden of divine right. For a time, he ruled with clarity and grace, adored by his people and praised as a beacon of stability.",
+      "But over the years, his focus shifted—from service to self. Isolated by his upbringing and haunted by the weight of history, Valerius became obsessed with how he would be remembered. His rule drifted toward vanity: grand monuments, portraits, and declarations of greatness that masked his growing detachment from the realm's needs.",
+      "As darkness rose in the form of Drexl and Malakar, Valerius found himself ill-equipped for war, retreating further into ceremonial leadership while others—like Maxim and the Resistance—fought to hold the line. Though not cruel, Valerius became symbolic of a deeper flaw in the monarchy: the belief that bloodline alone could guide a kingdom. In the eyes of history, he is not hated, but pitied—a king more concerned with legacy than leadership."
+    ],
+    "art": "art/valerius-iii-045.jpg",
+    "source_page": 45
+  },
+  {
+    "slug": "vector-111",
+    "name": "Vector",
+    "epithet": "The First Prince of",
+    "faction": "Drexl's Forces",
+    "status": "Corrupted",
+    "tags": [
+      "Royalty"
+    ],
+    "bio": [
+      "VALKORATH Before kingdoms rose and fell, before Drexl's descent into darkness, there was Vector—the firstborn of the original bloodline, hidden from history and sealed away for crimes too great to record. A being of immense magical and divine potential, Vector was consumed by ambition and cast into the Void. It was there, across centuries, that he festered, becoming more myth than man. When Drexl fell, it was through Malakar's final act of sorcery that Vector returned—fused with shadow and wrath, reborn as a living storm. In this avatar form, he was unbound by mortality, an ancient evil seeking not just power, but reclamation of a throne that no longer existed. His defeat marked the final severing of Valkorath's cursed past."
+    ],
+    "art": "art/vector-111.jpg",
+    "source_page": 111
+  },
+  {
+    "slug": "ventric-073",
+    "name": "Ventric",
+    "epithet": "The Count",
+    "faction": "Velkynai",
+    "status": "Active",
+    "tags": [
+      "Mage",
+      "Royalty"
+    ],
+    "bio": [
+      "Lord Ventric is the regal and formidable leader of the elven vampire species known as the Velkynai, a race long hidden from the world, said to descend from ancient elves who dabbled in dark blood magic. Ages ago, during the reign of King Felix, Ventric and his clan were sealed away in the Shadow Crypts, a forbidden realm that held those too dangerous for the world of the living. Ventric's power stems from his staff, which holds a red stone imbued with the life force of countless beings, granting him control over blood and shadow magic. With his long black hair and sharp beard, Ventric has an air of calculated elegance and unyielding command.",
+      "Unlike Diatre, Ventric does not hate all living things; he is more complex, driven by an insatiable desire for dominion. He seeks to restore the Velkynai to their rightful place as rulers, believing that their kind is the pinnacle of evolution. Intelligent and strategic, Ventric is a master manipulator who sees battles as games of power, preferring to subjugate rather than destroy. His awakening by King Valerius marks the beginning of his dark ambition to carve out a new era for his people in Valkorath."
+    ],
+    "art": "art/ventric-073.jpg",
+    "source_page": 73
+  },
+  {
+    "slug": "vis-003",
+    "name": "Vis",
+    "epithet": "The Poison Witch",
+    "faction": "Eastern Marshlands",
+    "status": "Active",
+    "tags": [
+      "Mage",
+      "Healer"
+    ],
+    "bio": [
+      "Vis was born in the shadowy outskirts of the Eastern Marshlands, a region known for its toxic swamps and deadly creatures. From a young age, she was fascinated by the flora and fauna that thrived in such harsh conditions. While others feared the marsh's venomous plants and creatures, Vis saw them as a source of power and began studying their properties.",
+      "Her natural talent for alchemy and magic led her to specialize in poison-based spells and potions, mastering the art of paralysis, sleep, and toxins. Despite her dangerous abilities, Vis is kind-hearted, known for healing the sick and defending the weak. She uses her powers only against those who threaten the peace of Valkorath, offering a gentle hand to those in need. Her poison-coated dagger, though lethal, is rarely drawn, and her spells are more often used to disable rather than destroy.",
+      "Vis's closest companion is her snake familiar, Venin, a creature she rescued from the deadly swamps. Venin shares a magical bond with her, often assisting in her spells or providing protection. Many fear Vis due to her appearance and her association with poison, but those who know her understand that her heart is pure, even if her powers are not."
+    ],
+    "art": "art/vis-003.jpg",
+    "source_page": 3
+  },
+  {
+    "slug": "vis-005",
+    "name": "Vis",
+    "epithet": "The Guardian Witch",
+    "faction": "Last Bastion",
+    "status": "Fallen",
+    "tags": [
+      "Mage",
+      "Warrior",
+      "Assassin"
+    ],
+    "bio": [
+      "Vis is a cunning and fiercely loyal warrior hailing from the mystic Eastern Marshlands. Once a rogue assassin and master of venomous magic, she grew into a formidable leader after the fall of her homeland. Initially guarded and driven by survival, Vis found a sense of purpose among the heroes of the Last Bastion, forging deep bonds with Reign and the others who fought for Valkorath's future.",
+      "With her enchanted serpent companion, Venin, and mastery over trap-based and poison-infused spells, Vis became one of the Bastion's deadliest and most tactical fighters. Her abilities reached a terrifying peak during the battle in the King's Chamber, when she unleashed the Histroph Devourer Spell, transforming Venin into a colossal, magical serpent of destruction.",
+      "Haunted by loss—especially the death of her comrade Taron—and hardened by war, Vis balances her sharp pragmatism with deep emotional intuition. As the war against chaos escalates, she stands not just as a warrior, but as a symbol of adaptability, vengeance, and unexpected grace."
+    ],
+    "art": "art/vis-005.jpg",
+    "source_page": 5
+  },
+  {
+    "slug": "vorath-033",
+    "name": "Vorath",
+    "epithet": "The Hollowed Wrath",
+    "faction": "Drexl's Forces",
+    "status": "Active",
+    "tags": [
+      "Warrior",
+      "Royalty",
+      "Beast/Creature"
+    ],
+    "bio": [
+      "Once known as Vorthar, the Crimson Lancer and a fearsome lieutenant under Lord Drexl, Vorath is the grotesque remnant of what remained after Malakar's dark corruption. Twisted beyond recognition, his flesh is now a writhing mass of sinew and exposed muscle, his jaw barely clinging to his face, and his eyes empty voids of hatred. The elegant lancer who once bent reality with precision strikes has become a monstrous brute of rage and agony—driven not by strategy, but by pain.",
+      "His crimson armor lies in fragments, fused into his mutated form like broken memories of the warrior he once was. Tendrils sprout from his back and limbs, moving with unnatural speed and crushing power, capable of impaling or constricting entire battalions. Though his speech is fragmented, moments of lucidity reveal the tortured soul trapped within—haunted by the memories of his loyalty to Drexl and the curse that claimed his body and mind.",
+      "Neither fully man nor beast, Vorath is now a living engine of destruction. His existence is a warning to all who dare make pacts with darker powers—because some victories cost more than death."
+    ],
+    "art": "art/vorath-033.jpg",
+    "source_page": 33
+  },
+  {
+    "slug": "vorath-034",
+    "name": "Vorath",
+    "epithet": "The Purified Evil",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Mage"
+    ],
+    "bio": [
+      "When Vorath consumed the soul of Priest David, something unexpected occurred. David's pure essence, infused with light and holy magic, began to alter Vorath's form. His hulking, sinewy body became slightly slimmer, and a strange purple hue overtook his once crimson flesh.",
+      "The dark magic inside Vorath reacted to David's soul, mutating him further, causing tendrils to sprout from his back, capable of extending and retracting at will. These new tendrils became deadly weapons in battle, but when not engaged in combat, they retreat into his body.",
+      "After the transformation, Vorath's once insatiable thirst for torture seemed to fade. Outside of battle, he appears lost and sad, as if David's essence had tempered his violent nature. His demented grin is now gone, replaced with a hollow expression, as if struggling between the darkness that created him and the light that now lingers within him."
+    ],
+    "art": "art/vorath-034.jpg",
+    "source_page": 34
+  },
+  {
+    "slug": "vornath-043",
+    "name": "Vornath",
+    "epithet": "The Infernal Maw",
+    "faction": "Drexl's Forces",
+    "status": "Active",
+    "tags": [
+      "Unclassified"
+    ],
+    "bio": [
+      "Born from the earliest scars in the world's creation, Zornath was not simply a creature—but a hunger given shape. Towering above cities, composed of molten sinew and writhing mouths, Zornath's very presence twisted the land into scorched ruin. He was drawn forth by the unraveling of balance and nearly consumed Valkorath during the final arc of Drexl's rise.",
+      "Contained only through the combined strength of the heroes and the Staff of Containment, Zornath's fall marked the turning point in the war. Yet some believe the Maw still whispers in the deep, waiting for weakness… or a summoner bold enough to call it back."
+    ],
+    "art": "art/vornath-043.jpg",
+    "source_page": 43
+  },
+  {
+    "slug": "vorthar-026",
+    "name": "Vorthar",
+    "epithet": "The Crimson Lancer",
+    "faction": "Drexl's Forces",
+    "status": "Corrupted",
+    "tags": [
+      "Warrior"
+    ],
+    "bio": [
+      "Once one of Drexl's most formidable and loyal lieutenants, Vorthar was a brutal warrior-magister who wielded corrupted elemental lance with devastating precision. Towering in stature and clad in armor scorched by countless battles, he led Drexl's vanguard during the early campaigns to unify Valkorath through fear and strength.",
+      "Vorthar's downfall came at the hands of Malakar, who ambushed and overwhelmed him during an early encounter."
+    ],
+    "art": "art/vorthar-026.jpg",
+    "source_page": 26
+  },
+  {
+    "slug": "zarok-016",
+    "name": "Zarok",
+    "epithet": "Speed of the Orc",
+    "faction": "Last Bastion",
+    "status": "Active",
+    "tags": [
+      "Beast/Creature"
+    ],
+    "bio": [
+      "Zarok is Grull's cunning and sharp-tongued companion—small in stature but large in personality. A goblin with a mind for strategy and sabotage, Zarok rides on Grull's shoulder in battle, often serving as both a scout and advisor. His wit and sarcasm are only matched by his keen intellect and surprising battlefield creativity.",
+      "Once a misfit with no place to call home, Zarok found purpose alongside Grull and later, with the heroes of the Last Bastion. Though he rarely shows it, Zarok is fiercely loyal to those he considers friends and is often the first to volunteer for dangerous reconnaissance missions. His dynamic with Grull provides both humor and heart, making the duo one of the most memorable alliances in Valkorath."
+    ],
+    "art": "art/zarok-016.jpg",
+    "source_page": 16
+  },
+  {
+    "slug": "zephyr-014",
+    "name": "Zephyr",
+    "epithet": "The Wind Monk",
+    "faction": "Valkorath Crown",
+    "status": "Active",
+    "tags": [
+      "Unclassified"
+    ],
+    "bio": [
+      "Zephyr is a wind monk and the former leader of the Royal Guard, known across Valkorath for his unmatched agility, wisdom, and calm demeanor. Raised in the monastery of Galehaven, he mastered the sacred art of wind channeling, allowing him to move with blinding speed and strike with precision. Though soft-spoken, Zephyr's words carry weight, and his presence commands respect on and off the battlefield.",
+      "A stalwart ally of Reign and Aegen, Zephyr has served with unwavering loyalty, even stepping into more active command roles when the kingdom's leadership faltered. Despite his advancing years in the future timeline, he remains a powerful force—physically diminished but spiritually indomitable."
+    ],
+    "art": "art/zephyr-014.jpg",
+    "source_page": 14
+  },
+  {
+    "slug": "zornath-076",
+    "name": "Zornath",
+    "epithet": "Master of Chaos",
+    "faction": "Drexl's Forces",
+    "status": "Active",
+    "tags": [
+      "Unclassified"
+    ],
+    "bio": [
+      "Born from the earliest scars in the world's creation, Zornath was not simply a creature—but a hunger given shape. Towering above cities, composed of molten sinew and writhing mouths, Zornath's very presence twisted the land into scorched ruin. He was drawn forth by the unraveling of balance and nearly consumed Valkorath during the final arc of Drexl's rise. Contained only through the combined strength of the heroes and the Staff of Containment, Zornath's fall marked the turning point in the war. Yet some believe the Maw still whispers in the deep, waiting for weakness… or a summoner bold enough to call it back."
+    ],
+    "art": "art/zornath-076.jpg",
+    "source_page": 76
+  }
+]
