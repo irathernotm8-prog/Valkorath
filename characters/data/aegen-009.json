@@ -1,0 +1,19 @@
+{
+  "slug": "aegen-009",
+  "name": "Aegen",
+  "epithet": "The Eccentric Sage",
+  "faction": "Hidden Holy Order",
+  "status": "Active",
+  "tags": [
+    "Mage",
+    "Warrior",
+    "Royalty"
+  ],
+  "bio": [
+    "Aegen is the son of the late Maxim and once a high-ranking scholar of the Hidden Holy Order. Gifted with immense magical knowledge and an unshakable sense of responsibility, Aegen has long walked the line between loyalty to the crown and service to the greater good of Valkorath. Unlike his father, Aegen values transparency and reason over control, though he often finds himself cleaning up the messes left by Maxim's secrets.",
+    "As King Valerius III's royal advisor, Aegen serves as a voice of reason in the chaotic political sphere of the capital. Though burdened by the legacy of his father and the weight of old truths, he has proven himself time and again to be a powerful mage and a capable leader.",
+    "His relationships with the Bastion's heroes, especially Reign and Vis, are complex—marked by mutual respect, occasional distrust, and shared goals. Aegen's deep knowledge of the world's ancient forces has made him essential in understanding emerging threats like Zornath, the Kabal, and the Primordial Titans. Though not a front-line warrior, his intellect and arcane prowess make him one of Valkorath's most crucial defenders."
+  ],
+  "art": "art/aegen-009.jpg",
+  "source_page": 9
+}

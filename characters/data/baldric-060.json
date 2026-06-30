@@ -1,0 +1,18 @@
+{
+  "slug": "baldric-060",
+  "name": "Baldric",
+  "epithet": "The Unyielding",
+  "faction": "Drexl's Forces",
+  "status": "Active",
+  "tags": [
+    "Knight",
+    "Royalty"
+  ],
+  "bio": [
+    "Once a revered Templar knight of the fallen southern kingdom of Solandis, Baldric fought relentlessly for his homeland. Solandis, known for its chivalric order and unwavering devotion, was devastated during Lord Drexl's initial rise to power. Despite Baldric's fierce efforts, the kingdom fell, leaving him a survivor among the ruins.",
+    "Baldric's sense of duty was replaced with a burning grudge against the current king, Valerius III. He blames the king's apathy and political gamesmanship for the lack of aid during Solandis's final days. The loss of his kingdom and comrades made Baldric a man indifferent to his own survival, driven solely by the ghosts of his past and the desire to seek justice—or vengeance—against those he holds responsible.",
+    "He remains clad in worn silver armor, bearing scars of countless battles. His iconic helmet hides his face, revealing only two slits from which no one has ever seen his eyes. The red cross on his chest plate and tattered cape symbolize the fallen order of Solandis. Baldric roams Valkorath, following whispers of resistance, hoping to find a way to confront Valerius directly and seek redemption for his fallen comrades."
+  ],
+  "art": "art/baldric-060.jpg",
+  "source_page": 60
+}

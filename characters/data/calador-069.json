@@ -1,0 +1,15 @@
+{
+  "slug": "calador-069",
+  "name": "Calador",
+  "epithet": "The Chieftain of Valebrokk",
+  "faction": "Valkorath Crown",
+  "status": "Active",
+  "tags": [
+    "Royalty"
+  ],
+  "bio": [
+    "A living legend in the north, Caldaor is the last of the first generation of free chieftains. Wise, weathered, and fiercely protective, he leads the coastal village of Valebrokk with iron in his spine and patience in his heart. Caldaor commands not through fear, but through earned respect—having survived countless wars and kept his people alive through storm, war, and famine. He welcomed Reign not as a king, but as a peer—knowing that leadership is not given, but proven. With his rune-marked axe and booming laugh, Caldaor remains the cornerstone of a community that endures, no matter how cold the world becomes."
+  ],
+  "art": "art/calador-069.jpg",
+  "source_page": 69
+}

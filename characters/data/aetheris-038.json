@@ -1,0 +1,19 @@
+{
+  "slug": "aetheris-038",
+  "name": "Aetheris",
+  "epithet": "The Twin Aspect",
+  "faction": "Drexl's Forces",
+  "status": "Active",
+  "tags": [
+    "Warrior",
+    "Assassin",
+    "Royalty"
+  ],
+  "bio": [
+    "Aetheris is a being of balance, born from the ancient forces of light and shadow that have governed Valkorath since time immemorial. Unlike others who choose one side or the other, Aetheris exists as a fusion of both. A guardian of equilibrium, Aetheris has served as the protector of the Sanctum of Aetheris, the mystical heart of the realm where light and darkness collide.",
+    "Aetheris has a unique ability: to split into two distinct beings—Liora, a radiant warrior of light, and Umbros, a rogue of shadows. When together, Aetheris maintains perfect harmony, wielding a dual-edged blade that embodies the forces of creation and destruction. However, when Aetheris separates into Liora and Umbros, the two halves act independently, each representing the extremes of their respective alignments.",
+    "Their mission is to prevent the world from falling too far into either darkness or light. With Lord Drexl's rise, the scales have tipped dangerously, and Aetheris now faces a difficult challenge: protecting Valkorath from eternal shadow without allowing the forces of light to claim total dominance. Aetheris is bound to balance, and though powerful, is often misunderstood by those who see only the extremes of good and evil."
+  ],
+  "art": "art/aetheris-038.jpg",
+  "source_page": 38
+}

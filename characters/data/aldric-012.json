@@ -1,0 +1,17 @@
+{
+  "slug": "aldric-012",
+  "name": "Aldric",
+  "epithet": "The Valiant Protector",
+  "faction": "Drexl's Forces",
+  "status": "Active",
+  "tags": [
+    "Knight",
+    "Royalty"
+  ],
+  "bio": [
+    "Sir Aldric was the bulwark of the royal vanguard—a steadfast knight whose shield never faltered, and whose loyalty never wavered. Towering in stature and impenetrable in spirit, Aldric was the first into battle and the last to leave it. Known for his quiet wisdom and unbreakable defense, he was the protector of both crown and comrade, standing beside Tyrus and Valeria through every siege and storm.",
+    "When Drexl rose in defiance of the realm, Aldric did not hesitate. Offering his soul alongside Valeria's, he became one with Tyrus in the legendary fusion that brought the dark lord to his knees. Though his name is often spoken softly in the shadow of Tyrus's legend, those who truly remember know: without Aldric, there would have been no final victory. His shield may be gone, but its strength endures within the heart of a living legend."
+  ],
+  "art": "art/aldric-012.jpg",
+  "source_page": 12
+}
