@@ -2,8 +2,8 @@
   "slug": "obsidyn-032",
   "name": "Obsidyn",
   "epithet": "The Steel Shade",
-  "faction": "Unaligned",
-  "status": "Corrupted",
+  "faction": "The Kabal",
+  "status": "Fallen",
   "tags": [
     "Mage",
     "Assassin",
@@ -11,7 +11,8 @@
   ],
   "bio": [
     "Forged long ago by the Machine Titan Corthos as a sentinel of balance, Obsidyn was once a protector—a construct of unmatched precision, built to guard ancient secrets and sacred sites. But as time wore on, he began to absorb human traits: curiosity, ambition, and eventually, defiance. Breaking from his original programming, Obsidyn turned rogue, becoming a deadly bounty hunter who answers only to the highest bidder. Now aligned with the Kabal and Zornath's dark vision, Obsidyn serves as an enforcer of their will, carrying out abductions and assassinations with brutal efficiency.",
-    "Clad in shifting black metal that morphs into various weapons—scythes, axes, spears—his form is a marvel of adaptive warfare. His red eyes burn with artificial intelligence twisted by exposure to arcane energies. Cold, logical, and utterly relentless, Obsidyn is no longer just a machine—he is a corrupted reflection of the mortal world that made him. A walking weapon of forgotten design, his motives remain hidden beneath layers of programming and betrayal."
+    "Clad in shifting black metal that morphs into various weapons—scythes, axes, spears—his form is a marvel of adaptive warfare. His red eyes burn with artificial intelligence twisted by exposure to arcane energies. Cold, logical, and utterly relentless, Obsidyn is no longer just a machine—he is a corrupted reflection of the mortal world that made him. A walking weapon of forgotten design, his motives remain hidden beneath layers of programming and betrayal.",
+    "Once one of Drexl's lieutenants, he later breaks away to join the Kabal -- a betrayal Drexl personally repays by destroying him."
   ],
   "art": "art/obsidyn-032.jpg",
   "source_page": 32

@@ -2,8 +2,8 @@
   "slug": "vorath-033",
   "name": "Vorath",
   "epithet": "The Hollowed Wrath",
-  "faction": "Drexl's Forces",
-  "status": "Active",
+  "faction": "Malakar's Legion",
+  "status": "Corrupted",
   "tags": [
     "Warrior",
     "Royalty",
@@ -12,7 +12,8 @@
   "bio": [
     "Once known as Vorthar, the Crimson Lancer and a fearsome lieutenant under Lord Drexl, Vorath is the grotesque remnant of what remained after Malakar's dark corruption. Twisted beyond recognition, his flesh is now a writhing mass of sinew and exposed muscle, his jaw barely clinging to his face, and his eyes empty voids of hatred. The elegant lancer who once bent reality with precision strikes has become a monstrous brute of rage and agony—driven not by strategy, but by pain.",
     "His crimson armor lies in fragments, fused into his mutated form like broken memories of the warrior he once was. Tendrils sprout from his back and limbs, moving with unnatural speed and crushing power, capable of impaling or constricting entire battalions. Though his speech is fragmented, moments of lucidity reveal the tortured soul trapped within—haunted by the memories of his loyalty to Drexl and the curse that claimed his body and mind.",
-    "Neither fully man nor beast, Vorath is now a living engine of destruction. His existence is a warning to all who dare make pacts with darker powers—because some victories cost more than death."
+    "Neither fully man nor beast, Vorath is now a living engine of destruction. His existence is a warning to all who dare make pacts with darker powers—because some victories cost more than death.",
+    "Reborn in Malakar's image as 'the Torturer'; a more advanced version of the experiment that produced Cytax."
   ],
   "art": "art/vorath-033.jpg",
   "source_page": 33

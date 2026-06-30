@@ -2,14 +2,15 @@
   "slug": "zephyr-014",
   "name": "Zephyr",
   "epithet": "The Wind Monk",
-  "faction": "Valkorath Crown",
+  "faction": "Last Bastion",
   "status": "Active",
   "tags": [
     "Unclassified"
   ],
   "bio": [
     "Zephyr is a wind monk and the former leader of the Royal Guard, known across Valkorath for his unmatched agility, wisdom, and calm demeanor. Raised in the monastery of Galehaven, he mastered the sacred art of wind channeling, allowing him to move with blinding speed and strike with precision. Though soft-spoken, Zephyr's words carry weight, and his presence commands respect on and off the battlefield.",
-    "A stalwart ally of Reign and Aegen, Zephyr has served with unwavering loyalty, even stepping into more active command roles when the kingdom's leadership faltered. Despite his advancing years in the future timeline, he remains a powerful force—physically diminished but spiritually indomitable."
+    "A stalwart ally of Reign and Aegen, Zephyr has served with unwavering loyalty, even stepping into more active command roles when the kingdom's leadership faltered. Despite his advancing years in the future timeline, he remains a powerful force—physically diminished but spiritually indomitable.",
+    "An old friend of Maxim's recruited to train the Last Bastion's forces; fights in the climactic battle."
   ],
   "art": "art/zephyr-014.jpg",
   "source_page": 14

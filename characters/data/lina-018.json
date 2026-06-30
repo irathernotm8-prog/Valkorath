@@ -2,14 +2,15 @@
   "slug": "lina-018",
   "name": "Lina",
   "epithet": "The Arcane Luminary",
-  "faction": "Unaligned",
+  "faction": "Last Bastion",
   "status": "Active",
   "tags": [
     "Mage"
   ],
   "bio": [
     "Lina is a gifted sorceress and scholar of ancient magic, known for her intellect, resolve, and emotional strength. A master of elemental and arcane spells, she once served closely alongside Taron, with whom she shared a deep bond. After his fall, Lina withdrew from the world for a time, carrying the weight of grief and loss.",
-    "Eventually, she rejoined the fight, drawn back by Reign and Vis to help turn the tide against Malakar and the rising darkness. Her magic, combined with her calm leadership, has become instrumental in guiding the Bastion's defense efforts. Lina fights not only for Valkorath's future—but to honor the memory of those she's lost along the way."
+    "Eventually, she rejoined the fight, drawn back by Reign and Vis to help turn the tide against Malakar and the rising darkness. Her magic, combined with her calm leadership, has become instrumental in guiding the Bastion's defense efforts. Lina fights not only for Valkorath's future—but to honor the memory of those she's lost along the way.",
+    "Runs an otherworldly tavern and is tethered to the spirit of Taron, who loved her in both his lives."
   ],
   "art": "art/lina-018.jpg",
   "source_page": 18
