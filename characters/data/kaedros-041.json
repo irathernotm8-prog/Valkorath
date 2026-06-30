@@ -2,13 +2,14 @@
   "slug": "kaedros-041",
   "name": "Kaedros",
   "epithet": "The Silent Blade",
-  "faction": "Unaligned",
+  "faction": "Kyokazura",
   "status": "Active",
   "tags": [
     "Warrior"
   ],
   "bio": [
-    "A master of discipline and control, Kaedros is the most reclusive of the mountain tribe warriors. Known for his vow of silence and flawless technique, he trains worthy fighters through action, not words. Covered in black robes, with brown skin, blue eyes, and long hair streaked with white, Kaedros represents the perfect fusion of physical mastery and inner stillness. Under his watch, Reign begins the long process of restoring not just his sword, but himself. Kaedros's methods are harsh but transformative, teaching students that spirit must lead the blade. He is the final crucible—those who break under his gaze are not meant to wield true power."
+    "A master of discipline and control, Kaedros is the most reclusive of the mountain tribe warriors. Known for his vow of silence and flawless technique, he trains worthy fighters through action, not words. Covered in black robes, with brown skin, blue eyes, and long hair streaked with white, Kaedros represents the perfect fusion of physical mastery and inner stillness. Under his watch, Reign begins the long process of restoring not just his sword, but himself. Kaedros's methods are harsh but transformative, teaching students that spirit must lead the blade. He is the final crucible—those who break under his gaze are not meant to wield true power.",
+    "Trains alongside Reign and Ryujin under Kazuro's guidance."
   ],
   "art": "art/kaedros-041.jpg",
   "source_page": 41

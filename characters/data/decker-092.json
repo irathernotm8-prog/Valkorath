@@ -2,13 +2,14 @@
   "slug": "decker-092",
   "name": "Decker",
   "epithet": "The Cruel Hunter",
-  "faction": "Valkorath Crown",
-  "status": "Active",
+  "faction": "Unaligned",
+  "status": "Fallen",
   "tags": [
     "Royalty"
   ],
   "bio": [
-    "Decker was a mystery even among mercenaries. Clad in worn gray chainmail and a helmet shaped like a skull, he spoke not a single word, communicating only through brutal efficiency. His origins were unknown, but rumors swirled that he once served as an enforcer for exiled royalty and fell kingdoms. Fast, lethal, and impossible to read, Decker's reflexes bordered on unnatural. He was summoned by King Kazadar during the Challenge of Rights, acting as the king's personal reaper. Though he never showed emotion, it became clear in battle—Decker fought not for honor or belief, but because the art of killing was all he had left."
+    "Decker was a mystery even among mercenaries. Clad in worn gray chainmail and a helmet shaped like a skull, he spoke not a single word, communicating only through brutal efficiency. His origins were unknown, but rumors swirled that he once served as an enforcer for exiled royalty and fell kingdoms. Fast, lethal, and impossible to read, Decker's reflexes bordered on unnatural. He was summoned by King Kazadar during the Challenge of Rights, acting as the king's personal reaper. Though he never showed emotion, it became clear in battle—Decker fought not for honor or belief, but because the art of killing was all he had left.",
+    "A silent hunter in Kazadar's service; burned alive by King Landis in retribution for killing Helmut."
   ],
   "art": "art/decker-092.jpg",
   "source_page": 92

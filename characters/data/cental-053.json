@@ -2,14 +2,15 @@
   "slug": "cental-053",
   "name": "Cental",
   "epithet": "The White Knight",
-  "faction": "Unaligned",
-  "status": "Active",
+  "faction": "Valkorath Crown",
+  "status": "Fallen",
   "tags": [
     "Knight",
     "Warrior"
   ],
   "bio": [
-    "Cental was known as the heart of Felix's knights—a swift and fearless warrior whose radiant white armor became a symbol of hope to the people of Valkorath. Her blade moved with graceful precision, and her presence on the battlefield inspired unity and courage. As a leader among her peers, she often acted as the voice of reason, rallying her comrades in moments of uncertainty. In the battle against Malchros, Cental stood firm beside Titanus and Ryzer, holding the line until Felix and Sir Tyrus arrived. Though her ultimate fate remains shrouded in mystery, her legacy continues to burn in the hearts of those she protected."
+    "Cental was known as the heart of Felix's knights—a swift and fearless warrior whose radiant white armor became a symbol of hope to the people of Valkorath. Her blade moved with graceful precision, and her presence on the battlefield inspired unity and courage. As a leader among her peers, she often acted as the voice of reason, rallying her comrades in moments of uncertainty. In the battle against Malchros, Cental stood firm beside Titanus and Ryzer, holding the line until Felix and Sir Tyrus arrived. Though her ultimate fate remains shrouded in mystery, her legacy continues to burn in the hearts of those she protected.",
+    "One of Sir Tyrus's legendary students and a White Knight of Felix's reign; struck down by Garrux."
   ],
   "art": "art/cental-053.jpg",
   "source_page": 53

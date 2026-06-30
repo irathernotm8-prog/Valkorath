@@ -2,7 +2,7 @@
   "slug": "grallok-019",
   "name": "Grallok",
   "epithet": "Guardian of Mosstone",
-  "faction": "Drexl's Forces",
+  "faction": "Last Bastion",
   "status": "Fallen",
   "tags": [
     "Mage",
@@ -11,7 +11,8 @@
   ],
   "bio": [
     "Grallock was a mighty golem forged deep within the Marshlands by ancient druidic magic. Standing as both protector and warrior, Grallock served alongside Vis and Kaelor to defend the balance of nature against the creeping tide of corruption. Towering and powerful, yet possessing a quiet soul, Grallock was revered as a guardian of both land and spirit.",
-    "During the Fall of Tiadel, Grallock gave his life in a valiant stand against Drexl, torn apart by shadow tendrils in a desperate attempt to protect the city. Though gone, remnants of his body were later used to help imprison the titan Zornath—ensuring his legacy lives on as a foundation for Valkorath's resistance."
+    "During the Fall of Tiadel, Grallock gave his life in a valiant stand against Drexl, torn apart by shadow tendrils in a desperate attempt to protect the city. Though gone, remnants of his body were later used to help imprison the titan Zornath—ensuring his legacy lives on as a foundation for Valkorath's resistance.",
+    "A golem ally recruited by Vis to fight Drexl; dies sealing away Zornath, and his remains are later twisted into Moltar."
   ],
   "art": "art/grallok-019.jpg",
   "source_page": 19

@@ -2,14 +2,15 @@
   "slug": "caladan-087",
   "name": "Caladan",
   "epithet": "King of Nothing",
-  "faction": "Valkorath Crown",
+  "faction": "Unaligned",
   "status": "Fallen",
   "tags": [
     "Royalty",
     "Beast/Creature"
   ],
   "bio": [
-    "Bare-chested, chained, and more beast than monarch, Caladan embodied the raw fury of the forsaken. His fists and chains were weapons of mass destruction, and he fought like a living meteor. Despite his savagery, he bore the tragic air of a king who had lost everything, left with only rage"
+    "Bare-chested, chained, and more beast than monarch, Caladan embodied the raw fury of the forsaken. His fists and chains were weapons of mass destruction, and he fought like a living meteor. Despite his savagery, he bore the tragic air of a king who had lost everything, left with only rage",
+    "A trial participant who battles Reign and Kandor as 'kingslayers'; ultimately defeated and floored."
   ],
   "art": "art/caladan-087.jpg",
   "source_page": 87

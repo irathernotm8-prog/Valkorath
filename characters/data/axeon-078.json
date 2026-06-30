@@ -3,12 +3,13 @@
   "name": "Axeon",
   "epithet": "The Orc Chieftain",
   "faction": "Unaligned",
-  "status": "Active",
+  "status": "Fallen",
   "tags": [
     "Beast/Creature"
   ],
   "bio": [
-    "Axeon, the Orc Chieftain, is a compact yet imposing figure, smaller than most orcs but radiating immense authority. His weathered face, framed by a white beard, bears the scars of countless battles. Wielding a hammer inscribed with ancient glowing runes, Axeon is a relic of an older, prouder time for the orc clans. Disillusioned after years spent fighting in the shadows, Axeon pledges himself to the new order under Enoch, believing it is time for the orcs to rise again. His voice is a growl of conviction, and his strength is a brutal force of nature."
+    "Axeon, the Orc Chieftain, is a compact yet imposing figure, smaller than most orcs but radiating immense authority. His weathered face, framed by a white beard, bears the scars of countless battles. Wielding a hammer inscribed with ancient glowing runes, Axeon is a relic of an older, prouder time for the orc clans. Disillusioned after years spent fighting in the shadows, Axeon pledges himself to the new order under Enoch, believing it is time for the orcs to rise again. His voice is a growl of conviction, and his strength is a brutal force of nature.",
+    "An orc chieftain; defeated and swallowed by Vis's spectral serpent, Venin."
   ],
   "art": "art/axeon-078.jpg",
   "source_page": 78
