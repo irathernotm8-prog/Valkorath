@@ -2,13 +2,14 @@
   "slug": "zornath-076",
   "name": "Zornath",
   "epithet": "Master of Chaos",
-  "faction": "Drexl's Forces",
-  "status": "Active",
+  "faction": "Unaligned",
+  "status": "Corrupted",
   "tags": [
     "Unclassified"
   ],
   "bio": [
-    "Born from the earliest scars in the world's creation, Zornath was not simply a creature—but a hunger given shape. Towering above cities, composed of molten sinew and writhing mouths, Zornath's very presence twisted the land into scorched ruin. He was drawn forth by the unraveling of balance and nearly consumed Valkorath during the final arc of Drexl's rise. Contained only through the combined strength of the heroes and the Staff of Containment, Zornath's fall marked the turning point in the war. Yet some believe the Maw still whispers in the deep, waiting for weakness… or a summoner bold enough to call it back."
+    "Born from the earliest scars in the world's creation, Zornath was not simply a creature—but a hunger given shape. Towering above cities, composed of molten sinew and writhing mouths, Zornath's very presence twisted the land into scorched ruin. He was drawn forth by the unraveling of balance and nearly consumed Valkorath during the final arc of Drexl's rise. Contained only through the combined strength of the heroes and the Staff of Containment, Zornath's fall marked the turning point in the war. Yet some believe the Maw still whispers in the deep, waiting for weakness… or a summoner bold enough to call it back.",
+    "A Titan-tier threat known as the Black Kabal; ultimately overwhelmed and sealed away in a stone tomb rather than destroyed outright."
   ],
   "art": "art/zornath-076.jpg",
   "source_page": 76

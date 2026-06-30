@@ -2,13 +2,14 @@
   "slug": "tellan-067",
   "name": "Tellan",
   "epithet": "The Flame-willed Warrior",
-  "faction": "Hidden Holy Order",
+  "faction": "Unaligned",
   "status": "Active",
   "tags": [
     "Warrior"
   ],
   "bio": [
-    "With wild red hair and eyes burning with intensity, Tellan emerged years into the future as a fierce resistance fighter against the Hidden Holy Order. Known for his impulsive nature and savage skill in battle, he was a key member of Fredric's alliance. Though relatively unknown to Reign at first, Tellan's loyalty and raw power made him a formidable ally. Beneath his brash exterior lies a deep devotion to justice and a personal code forged in the crucible of Valkorath's darkest days."
+    "With wild red hair and eyes burning with intensity, Tellan emerged years into the future as a fierce resistance fighter against the Hidden Holy Order. Known for his impulsive nature and savage skill in battle, he was a key member of Fredric's alliance. Though relatively unknown to Reign at first, Tellan's loyalty and raw power made him a formidable ally. Beneath his brash exterior lies a deep devotion to justice and a personal code forged in the crucible of Valkorath's darkest days.",
+    "Introduced briefly alongside a grown Alexis in a gathering of allies; little else about him is established in the story so far."
   ],
   "art": "art/tellan-067.jpg",
   "source_page": 67

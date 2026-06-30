@@ -3,13 +3,14 @@
   "name": "Kurogai",
   "epithet": "The Oni Samurai",
   "faction": "Kyokazura",
-  "status": "Corrupted",
+  "status": "Fallen",
   "tags": [
     "Warrior"
   ],
   "bio": [
     "Once a proud student of Kazuro in the mountains of Kyokazura, Kurogai was a disciplined and formidable samurai known for his strength and devotion to the blade. But in his hunger for greater power, he made a dark pact that corrupted both his body and soul. Transformed into a twisted oni, Kurogai now roams the land clad in maroon and blackened armor, with glowing green eyes and a cursed katana that exudes malevolence.",
-    "He returned to Kyokazura not for redemption, but for conquest—attacking the village he once called home. He was ultimately confronted and defeated by Reign, whose reborn blade, ThunderStrike, proved stronger than Kurogai's darkness. Yet even in death, Kurogai's tale is one of tragic ambition—a warrior who could not let go of pride, and paid for it with his humanity."
+    "He returned to Kyokazura not for redemption, but for conquest—attacking the village he once called home. He was ultimately confronted and defeated by Reign, whose reborn blade, ThunderStrike, proved stronger than Kurogai's darkness. Yet even in death, Kurogai's tale is one of tragic ambition—a warrior who could not let go of pride, and paid for it with his humanity.",
+    "Once Kazuro's student, fallen to darkness; defeated by Reign in single combat."
   ],
   "art": "art/kurogai-044.jpg",
   "source_page": 44

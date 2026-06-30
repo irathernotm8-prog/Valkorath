@@ -3,14 +3,15 @@
   "name": "Moltar",
   "epithet": "Loyal Avatar",
   "faction": "Valkorath Crown",
-  "status": "Corrupted",
+  "status": "Active",
   "tags": [
     "Warrior",
     "Royalty",
     "Beast/Creature"
   ],
   "bio": [
-    "Moltar was not born—he was forged. A result of Grallok's sacrifice to seal Zornath, Moltar emerged as a towering creature of obsidian, magma, and sorrow. With a molten core and fists that shattered mountains, Moltar retained fragments of Grallok's memories, twisted into blind loyalty. When Dreyfus claimed power in the afterlife, Moltar followed, acting as a volcanic shield for the Demon King. Neither good nor evil, Moltar was pure force—an echo of an old warrior's final act twisted into endless rage. He was a monument to what happens when even the noblest sacrifices are corrupted by the wrong hands."
+    "Moltar was not born—he was forged. A result of Grallok's sacrifice to seal Zornath, Moltar emerged as a towering creature of obsidian, magma, and sorrow. With a molten core and fists that shattered mountains, Moltar retained fragments of Grallok's memories, twisted into blind loyalty. When Dreyfus claimed power in the afterlife, Moltar followed, acting as a volcanic shield for the Demon King. Neither good nor evil, Moltar was pure force—an echo of an old warrior's final act twisted into endless rage. He was a monument to what happens when even the noblest sacrifices are corrupted by the wrong hands.",
+    "A war-golem forged by Dreyfus from the remains of Grallok, fighting in the final clash of kings."
   ],
   "art": "art/moltar-104.jpg",
   "source_page": 104
