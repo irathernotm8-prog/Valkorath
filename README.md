@@ -64,29 +64,36 @@ python3 scripts/build_catalog.py
 
 ## About the accuracy pass
 
-119 characters total. 63 of them have been corrected through an actual read-through of
-`story/valkorath-story.md` — faction, status (Active/Fallen/Corrupted), and in many cases
-an added closing sentence grounding them in what actually happens to them in the story.
-Two new factions came out of that read-through that weren't in the original first-pass
-tagging: **Malakar's Legion** (Malakar operates independently of Drexl — the story is
-explicit that Drexl considers him "a nuisance," not an ally) and **The Kabal** (a group of
-Drexl's former lieutenants who broke away and were later killed by Drexl for the betrayal).
+119 characters total. **111 of them have now been corrected through an actual
+read-through of `story/valkorath-story.md`** — faction, status (Active/Fallen/Corrupted),
+and in most cases an added closing sentence grounding them in what actually happens to
+them in the story. Two new factions came out of that read-through that weren't in the
+original first-pass tagging: **Malakar's Legion** (Malakar operates independently of
+Drexl -- the story is explicit that Drexl considers him "a nuisance," not an ally) and
+**The Kabal** (a group of Drexl's former lieutenants who broke away and were later killed
+by Drexl for the betrayal).
 
-The other 56 characters are still on the original first-pass tagging — extracted from the
-visual-dictionary PDF and auto-tagged by keyword matching alone, never checked against the
-story. Many of those don't appear in the story by name at all (background/lore characters),
-so "Unaligned" may simply be correct for them. The remainder are reasonable guesses, not
-verified facts — worth a manual pass through `characters/data/*.json` as you have time, or
-ask for another read-through pass to keep extending coverage.
+The remaining **9 characters genuinely don't appear in the story text at all** (checked
+directly, not assumed): Calador, Dark Reign, Gothar, Kleon, Lucan, Lumbar, Nyx, Ouken, and
+Vornath. They're visual-dictionary-only characters for now -- their original first-pass
+tags are left as a placeholder, since there's nothing in the narrative yet to correct them
+against.
 
-One naming bug was also fixed this pass: the character on visual-dictionary page 59 was
-mislabeled "Kandor" in the page header even though the bio is entirely about a character
-named **Alexis** — corrected to Alexis. The story's actual Kandor (a displaced knight from
-King Valerius II's era, original wielder of the sword Thunderstrike) is a different,
-separate character on page 84, and was left as-is.
+One naming bug was also fixed: the character on visual-dictionary page 59 was mislabeled
+"Kandor" in the page header even though the bio is entirely about a character named
+**Alexis** -- corrected to Alexis. The story's actual Kandor (a displaced knight from King
+Valerius II's era, original wielder of the sword Thunderstrike) is a different, separate
+character on page 84, and was left as-is.
 
-A few characters lack the multi-paragraph bios their peers have (pages that were mostly
-illustration in the source PDF) — those are flagged for a manual fill-in too.
+Worth knowing: an early automated attempt at this pass (matching faction/status by simple
+keyword proximity to a character's name) produced confidently wrong answers -- e.g. it
+nearly tagged David, a Last Bastion founder, as one of Drexl's own forces, simply because
+Drexl's name appears near his often in battle scenes. That approach was discarded entirely
+in favor of actually reading the relevant passages for each character.
+
+A few characters still lack the multi-paragraph bios their peers have (pages that were
+mostly illustration in the source PDF, with little to no body text) -- those are flagged
+for a manual fill-in.
 
 ## Keeping this private
 
