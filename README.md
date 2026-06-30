@@ -62,13 +62,28 @@ the repo is pushed — see below.)
 python3 scripts/build_catalog.py
 ```
 
-## About the auto-tagging
+## About the accuracy pass
 
-The 119 characters currently in here were extracted from a visual-dictionary PDF and
-auto-tagged by keyword matching (faction, status, role tags). That's a fast first pass,
-not a careful read — about a third came back as "Unaligned" and tags can be off or
-generic. Worth a manual pass through `characters/data/*.json` to clean up faction and
-tags as you have time; the bios and art themselves are extracted as-is.
+119 characters total. 63 of them have been corrected through an actual read-through of
+`story/valkorath-story.md` — faction, status (Active/Fallen/Corrupted), and in many cases
+an added closing sentence grounding them in what actually happens to them in the story.
+Two new factions came out of that read-through that weren't in the original first-pass
+tagging: **Malakar's Legion** (Malakar operates independently of Drexl — the story is
+explicit that Drexl considers him "a nuisance," not an ally) and **The Kabal** (a group of
+Drexl's former lieutenants who broke away and were later killed by Drexl for the betrayal).
+
+The other 56 characters are still on the original first-pass tagging — extracted from the
+visual-dictionary PDF and auto-tagged by keyword matching alone, never checked against the
+story. Many of those don't appear in the story by name at all (background/lore characters),
+so "Unaligned" may simply be correct for them. The remainder are reasonable guesses, not
+verified facts — worth a manual pass through `characters/data/*.json` as you have time, or
+ask for another read-through pass to keep extending coverage.
+
+One naming bug was also fixed this pass: the character on visual-dictionary page 59 was
+mislabeled "Kandor" in the page header even though the bio is entirely about a character
+named **Alexis** — corrected to Alexis. The story's actual Kandor (a displaced knight from
+King Valerius II's era, original wielder of the sword Thunderstrike) is a different,
+separate character on page 84, and was left as-is.
 
 A few characters lack the multi-paragraph bios their peers have (pages that were mostly
 illustration in the source PDF) — those are flagged for a manual fill-in too.
