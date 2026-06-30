@@ -2,13 +2,14 @@
   "slug": "kazadar-091",
   "name": "Kazadar",
   "epithet": "The Malice King",
-  "faction": "Valkorath Crown",
-  "status": "Active",
+  "faction": "Unaligned",
+  "status": "Fallen",
   "tags": [
     "Royalty"
   ],
   "bio": [
-    "A being of ancient corruption, King Kazadar wore black and red armor etched with ruinous runes. His weapon—a jagged staff pulsating with foul energy—matched his cruel and commanding presence. Kazadar was a king from a forgotten, darker time, summoned to participate in the Challenge"
+    "A being of ancient corruption, King Kazadar wore black and red armor etched with ruinous runes. His weapon—a jagged staff pulsating with foul energy—matched his cruel and commanding presence. Kazadar was a king from a forgotten, darker time, summoned to participate in the Challenge",
+    "King of Malice, a participant from a far older age; defeated by Reign, Kandor, and Valerius II together."
   ],
   "art": "art/kazadar-091.jpg",
   "source_page": 91

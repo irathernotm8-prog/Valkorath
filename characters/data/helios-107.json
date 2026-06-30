@@ -2,8 +2,8 @@
   "slug": "helios-107",
   "name": "Helios",
   "epithet": "The Beast King",
-  "faction": "Garrux's Empire",
-  "status": "Active",
+  "faction": "Unaligned",
+  "status": "Fallen",
   "tags": [
     "Mage",
     "Royalty",
@@ -11,7 +11,8 @@
   ],
   "bio": [
     "Born one of the many sons of King Garrux, Helios was once a proud prince with unmatched ambition. Desperate to inherit the throne denied to him, he made a pact with the red mage Malakar, trading his humanity for monstrous strength. The transformation turned him into a behemoth of sinew and fury—his mind clouded, his soul scorched.",
-    "Though he led vicious campaigns of conquest, he was ultimately defeated by his nephew, Valerius II, and cast into legend as a cautionary tale. During the Challenge of Rights, Helios returned more savage than ever, only to fall once again—this time to a new generation who refused to let his fury shape the world again."
+    "Though he led vicious campaigns of conquest, he was ultimately defeated by his nephew, Valerius II, and cast into legend as a cautionary tale. During the Challenge of Rights, Helios returned more savage than ever, only to fall once again—this time to a new generation who refused to let his fury shape the world again.",
+    "One of Garrux's sons, twisted into a monster by a deal with a younger version of Malakar; defeated by Kandor and Valerius II."
   ],
   "art": "art/helios-107.jpg",
   "source_page": 107

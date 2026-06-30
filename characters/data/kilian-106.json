@@ -2,14 +2,15 @@
   "slug": "kilian-106",
   "name": "Kilian",
   "epithet": "The Noble Companion",
-  "faction": "Drexl's Forces",
-  "status": "Fallen",
+  "faction": "Valkorath Crown",
+  "status": "Active",
   "tags": [
     "Warrior",
     "Royalty"
   ],
   "bio": [
-    "Kilian was no noble, no blood-born hero. He was a soldier—raised through merit, chosen for his unwavering loyalty and brilliance in battle. Sworn to Valerius II, he became more than a protector—he was a brother, a shadow at his king's side, a legend in his own right. With a blade that struck like silver lightning and a heart that never wavered, Kilian became the living embodiment of loyalty. Though often overlooked by history's broader strokes, those who knew the truth understood: without Kilian, the realm would have fallen long before Drexl ever rose. He died as he lived—defending the king he believed in."
+    "Kilian was no noble, no blood-born hero. He was a soldier—raised through merit, chosen for his unwavering loyalty and brilliance in battle. Sworn to Valerius II, he became more than a protector—he was a brother, a shadow at his king's side, a legend in his own right. With a blade that struck like silver lightning and a heart that never wavered, Kilian became the living embodiment of loyalty. Though often overlooked by history's broader strokes, those who knew the truth understood: without Kilian, the realm would have fallen long before Drexl ever rose. He died as he lived—defending the king he believed in.",
+    "King Valerius II's trusted knight, fighting at his side in the final war."
   ],
   "art": "art/kilian-106.jpg",
   "source_page": 106

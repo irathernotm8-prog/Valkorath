@@ -2,15 +2,16 @@
   "slug": "ganador-085",
   "name": "Ganador",
   "epithet": "The Cursed King",
-  "faction": "Valkorath Crown",
-  "status": "Active",
+  "faction": "Unaligned",
+  "status": "Fallen",
   "tags": [
     "Mage",
     "Royalty",
     "Undead"
   ],
   "bio": [
-    "A skeletal, malevolent king who reclaimed his living cloak during the Challenge. Cloaked in darkness and cruelty, Ganador unleashed brutal magic and wielded a poisoned companion, Patchwork, as a weapon against his foes. He fought not for honor or destiny, but to dominate and destroy"
+    "A skeletal, malevolent king who reclaimed his living cloak during the Challenge. Cloaked in darkness and cruelty, Ganador unleashed brutal magic and wielded a poisoned companion, Patchwork, as a weapon against his foes. He fought not for honor or destiny, but to dominate and destroy",
+    "An ancient undead king seeking to reclaim a stolen cloak; destroyed by Felix."
   ],
   "art": "art/ganador-085.jpg",
   "source_page": 85

@@ -2,7 +2,7 @@
   "slug": "blyght-048",
   "name": "Blyght",
   "epithet": "Plague Incarnate",
-  "faction": "Drexl's Forces",
+  "faction": "The Kabal",
   "status": "Corrupted",
   "tags": [
     "Mage"
@@ -11,7 +11,8 @@
     "Born from corrupted magic and nurtured by the void left behind after Malakar's early ascension, Blyght was not meant to exist—he was allowed to. A slithering, flesh-warped entity of disease and decay, Blyght doesn't conquer in the traditional sense. He spreads, infects, withers. He turns hope into ash and memory into madness.",
     "Amplified by Malakar's final rites, Blyght became a self-sustaining blight upon Valkorath, capable of unraveling both body and spirit. His voice is a rasping echo in the minds of the dying. His magic seeps through cracks in stone, bloodlines, and even time. What he cannot kill, he corrodes.",
     "He is not chaos—he is rot made manifest. A reminder that even gods eventually decay.",
-    "Where Zornath brought destruction and Drexl brought rule, Blyght brings the end that never shouts—only spreads."
+    "Where Zornath brought destruction and Drexl brought rule, Blyght brings the end that never shouts—only spreads.",
+    "Leads the Kabal, a renegade faction that splintered off from Drexl's forces; ultimately overwhelmed and knocked out in the final battle."
   ],
   "art": "art/blyght-048.jpg",
   "source_page": 48

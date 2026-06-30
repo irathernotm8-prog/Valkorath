@@ -2,15 +2,16 @@
   "slug": "armadus-025",
   "name": "Armadus",
   "epithet": "The Blade of Darkness",
-  "faction": "Drexl's Forces",
-  "status": "Corrupted",
+  "faction": "The Kabal",
+  "status": "Fallen",
   "tags": [
     "Knight",
     "Warrior"
   ],
   "bio": [
     "Once the most loyal of Drexl's lieutenants, Armadus is a hulking warrior clad in obsidian-black armor and driven by an unshakeable sense of honor—twisted though it may be. Once a noble knight, his ideals became corrupted through war and exposure to darker powers. He viewed Drexl as a necessary force of change in Valkorath, a belief that initially made him fiercely loyal.",
-    "After Drexl's shift toward quiet observation, Armadus grew disillusioned and joined the Black Kabal under Zornath, believing only true conquest could restore strength to the world. Despite his betrayal, his code remains, making him a dangerous but disciplined adversary with unmatched strength and tactical precision."
+    "After Drexl's shift toward quiet observation, Armadus grew disillusioned and joined the Black Kabal under Zornath, believing only true conquest could restore strength to the world. Despite his betrayal, his code remains, making him a dangerous but disciplined adversary with unmatched strength and tactical precision.",
+    "Once one of Drexl's lieutenants, he later breaks away to join the Kabal -- a betrayal Drexl personally repays by killing him."
   ],
   "art": "art/armadus-025.jpg",
   "source_page": 25

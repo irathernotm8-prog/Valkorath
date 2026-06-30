@@ -3,12 +3,13 @@
   "name": "Earon",
   "epithet": "The Blackbird Captain",
   "faction": "Hidden Holy Order",
-  "status": "Corrupted",
+  "status": "Active",
   "tags": [
     "Knight"
   ],
   "bio": [
-    "Once a shining knight of the future Valkorath, Earon is a fearsome commander loyal to the corrupted Hidden Holy Order. Clad in gleaming silver armor and blue robes, Earon embodies discipline and unwavering loyalty. Cold and calculating, he fights with mechanical precision and deadly efficiency. Though he looks nearly identical to his future self, the youthful intensity in his eyes reveals a darkness festering beneath the surface. Earon leads the Blackbird Knights with ruthless authority, viewing anomalies like Reign and Fredric as threats to be purged."
+    "Once a shining knight of the future Valkorath, Earon is a fearsome commander loyal to the corrupted Hidden Holy Order. Clad in gleaming silver armor and blue robes, Earon embodies discipline and unwavering loyalty. Cold and calculating, he fights with mechanical precision and deadly efficiency. Though he looks nearly identical to his future self, the youthful intensity in his eyes reveals a darkness festering beneath the surface. Earon leads the Blackbird Knights with ruthless authority, viewing anomalies like Reign and Fredric as threats to be purged.",
+    "Leader of the Blackbird Knights, the Hidden Holy Order's elite soldiers; confronts Reign with cold authority."
   ],
   "art": "art/earon-068.jpg",
   "source_page": 68

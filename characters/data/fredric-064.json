@@ -2,7 +2,7 @@
   "slug": "fredric-064",
   "name": "Fredric",
   "epithet": "The Man Out of Time",
-  "faction": "Unaligned",
+  "faction": "Last Bastion",
   "status": "Active",
   "tags": [
     "Warrior"
@@ -10,7 +10,8 @@
   "bio": [
     "Fredric is a tall, imposing figure with a commanding presence, embodying both strength and warmth. His skin is a deep brown, and his long black hair is tied up in a warrior's knot, accentuating his sharp features and well-kept beard. His eyes, dark yet kind, reveal a man who has seen great battles and personal loss but refuses to let the fire of hope extinguish within him.",
     "He wears white armor with black accents, its polished plates inscribed with protective runes that shimmer when he fights. Over this, a flowing white cape adds an air of nobility and serves as a symbol of his leadership. Fredric wields a broadsword with an intricate hilt that glows faintly with blue energy, representing the legacy of his father, Reign. He carries himself with the confidence of a seasoned warrior and the compassion of a leader who values every life in his charge.",
-    "Fredric is the son of Reign and Vis, born into an era of conflict and destined for greatness. Raised in a world where heroes and villains were often indistinguishable, Fredric grew to understand the importance of balance and unity. He became a beacon of hope, rallying those who believed that Valkorath could be reclaimed from darkness. Despite the hardships he has faced, Fredric remains fiercely loyal and protective, determined to honor the sacrifices of his parents and lead the resistance with unwavering resolve."
+    "Fredric is the son of Reign and Vis, born into an era of conflict and destined for greatness. Raised in a world where heroes and villains were often indistinguishable, Fredric grew to understand the importance of balance and unity. He became a beacon of hope, rallying those who believed that Valkorath could be reclaimed from darkness. Despite the hardships he has faced, Fredric remains fiercely loyal and protective, determined to honor the sacrifices of his parents and lead the resistance with unwavering resolve.",
+    "The son of Reign and Vis, born after the war's end -- a new generation growing up in a Valkorath free of kings and thrones."
   ],
   "art": "art/fredric-064.jpg",
   "source_page": 64
