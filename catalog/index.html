@@ -1,0 +1,593 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Valkorath — Character Catalog</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=Spectral+SC:wght@500&display=swap');
+
+  :root {
+    --bg: #0c0a10;
+    --bg-panel: #15121a;
+    --bg-card: #1b1722;
+    --hairline: #2c2733;
+    --gold: #d8b369;
+    --gold-dim: #8a7245;
+    --shadow-violet: #7a4fb5;
+    --shadow-violet-dim: #4a3568;
+    --ink: #e9e2d4;
+    --ink-dim: #a89e8e;
+    --ink-faint: #6e6557;
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    font-family: 'Spectral', serif;
+    background: radial-gradient(ellipse 120% 80% at 50% -10%, #1c1624 0%, var(--bg) 55%);
+    color: var(--ink);
+    min-height: 100%;
+  }
+
+  /* ---- Header ---- */
+  .vk-header {
+    padding: 56px 24px 36px;
+    text-align: center;
+    position: relative;
+    border-bottom: 1px solid var(--hairline);
+  }
+  .vk-header::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 50%;
+    transform: translateX(-50%);
+    width: 1px; height: 28px;
+    background: linear-gradient(to bottom, transparent, var(--gold-dim));
+  }
+  .vk-eyebrow {
+    font-family: 'Spectral SC', serif;
+    letter-spacing: 0.35em;
+    font-size: 11px;
+    color: var(--shadow-violet);
+    text-transform: uppercase;
+    margin-bottom: 14px;
+  }
+  .vk-title {
+    font-family: 'Cinzel', serif;
+    font-size: clamp(40px, 7vw, 68px);
+    font-weight: 900;
+    letter-spacing: 0.08em;
+    background: linear-gradient(180deg, #f3e3b8 0%, var(--gold) 45%, #9d7e3e 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    margin: 0;
+    line-height: 1;
+    text-shadow: 0 0 50px rgba(216,179,105,0.15);
+  }
+  .vk-subtitle {
+    font-style: italic;
+    color: var(--ink-dim);
+    font-size: 15px;
+    margin-top: 10px;
+    letter-spacing: 0.02em;
+  }
+  .vk-divider {
+    display: flex; align-items: center; gap: 14px;
+    max-width: 320px; margin: 22px auto 0;
+  }
+  .vk-divider span { flex: 1; height: 1px; background: linear-gradient(to right, transparent, var(--hairline)); }
+  .vk-divider span.r { background: linear-gradient(to left, transparent, var(--hairline)); }
+  .vk-divider svg { width: 14px; height: 14px; color: var(--gold-dim); flex-shrink: 0; }
+
+  /* ---- Controls ---- */
+  .vk-controls {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 28px 24px 8px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+  }
+  .vk-search {
+    flex: 1 1 220px;
+    max-width: 320px;
+    background: var(--bg-panel);
+    border: 1px solid var(--hairline);
+    border-radius: 3px;
+    padding: 9px 14px;
+    color: var(--ink);
+    font-family: 'Spectral', serif;
+    font-size: 14px;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+  .vk-search::placeholder { color: var(--ink-faint); font-style: italic; }
+  .vk-search:focus { border-color: var(--gold-dim); }
+
+  .vk-select {
+    background: var(--bg-panel);
+    border: 1px solid var(--hairline);
+    border-radius: 3px;
+    padding: 9px 12px;
+    color: var(--ink-dim);
+    font-family: 'Spectral SC', serif;
+    font-size: 11.5px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    outline: none;
+    cursor: pointer;
+  }
+  .vk-select:focus { border-color: var(--gold-dim); }
+
+  .vk-chip {
+    font-family: 'Spectral SC', serif;
+    font-size: 11.5px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    padding: 8px 16px;
+    border-radius: 3px;
+    border: 1px solid var(--hairline);
+    background: transparent;
+    color: var(--ink-dim);
+    cursor: pointer;
+    transition: all 0.18s ease;
+  }
+  .vk-chip:hover { border-color: var(--gold-dim); color: var(--ink); }
+  .vk-chip[data-active="true"] {
+    background: linear-gradient(180deg, rgba(216,179,105,0.18), rgba(216,179,105,0.05));
+    border-color: var(--gold);
+    color: var(--gold);
+  }
+
+  .vk-count {
+    text-align: center;
+    font-size: 12px;
+    color: var(--ink-faint);
+    letter-spacing: 0.08em;
+    font-family: 'Spectral SC', serif;
+    padding: 14px 0 6px;
+  }
+
+  /* ---- Grid ---- */
+  .vk-grid {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 10px 24px 80px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 16px;
+  }
+
+  .vk-card {
+    background: var(--bg-card);
+    border: 1px solid var(--hairline);
+    border-radius: 4px;
+    overflow: hidden;
+    cursor: pointer;
+    position: relative;
+    transition: transform 0.22s ease, border-color 0.22s ease, box-shadow 0.22s ease;
+  }
+  .vk-card:hover {
+    transform: translateY(-4px);
+    border-color: var(--card-accent, var(--gold-dim));
+    box-shadow: 0 12px 32px -12px rgba(0,0,0,0.6), 0 0 0 1px var(--card-accent, var(--gold-dim));
+  }
+  .vk-card-art {
+    width: 100%;
+    aspect-ratio: 3 / 4;
+    object-fit: cover;
+    display: block;
+    background: #100d15;
+    filter: saturate(0.92);
+  }
+  .vk-card-fade {
+    position: absolute; left: 0; right: 0; bottom: 0; height: 65%;
+    background: linear-gradient(to top, var(--bg-card) 6%, rgba(27,23,34,0.55) 45%, transparent 100%);
+    pointer-events: none;
+  }
+  .vk-card-body {
+    position: absolute; left: 0; right: 0; bottom: 0;
+    padding: 12px 12px 13px;
+  }
+  .vk-card-faction {
+    font-family: 'Spectral SC', serif;
+    font-size: 9px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--card-accent, var(--gold));
+    margin-bottom: 4px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .vk-card-name {
+    font-family: 'Cinzel', serif;
+    font-weight: 700;
+    font-size: 16px;
+    color: var(--ink);
+    letter-spacing: 0.02em;
+    line-height: 1.1;
+  }
+  .vk-card-epithet {
+    font-style: italic;
+    font-size: 11px;
+    color: var(--ink-dim);
+    margin-top: 2px;
+  }
+  .vk-status-dot {
+    position: absolute; top: 10px; right: 10px;
+    width: 8px; height: 8px; border-radius: 50%;
+    background: var(--status-color, #6e6557);
+    box-shadow: 0 0 8px var(--status-color, transparent);
+  }
+
+  .vk-empty {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--ink-faint);
+    font-style: italic;
+  }
+
+  .vk-loading {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--ink-faint);
+    font-style: italic;
+  }
+
+  /* ---- Modal ---- */
+  .vk-overlay {
+    position: fixed; inset: 0;
+    background: rgba(6,5,8,0.82);
+    backdrop-filter: blur(3px);
+    z-index: 50;
+    display: flex; align-items: flex-start; justify-content: center;
+    padding: 5vh 16px;
+    overflow-y: auto;
+    animation: vk-fade 0.18s ease;
+  }
+  @keyframes vk-fade { from { opacity: 0; } to { opacity: 1; } }
+
+  .vk-modal {
+    background: var(--bg-panel);
+    border: 1px solid var(--hairline);
+    border-radius: 6px;
+    max-width: 760px;
+    width: 100%;
+    overflow: hidden;
+    animation: vk-rise 0.25s cubic-bezier(.2,.8,.2,1);
+  }
+  @keyframes vk-rise { from { transform: translateY(16px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+
+  .vk-modal-top {
+    display: grid;
+    grid-template-columns: 240px 1fr;
+  }
+  @media (max-width: 580px) {
+    .vk-modal-top { grid-template-columns: 1fr; }
+  }
+  .vk-modal-art {
+    width: 100%; height: 100%;
+    object-fit: cover;
+    display: block;
+    min-height: 240px;
+    background: #100d15;
+  }
+  .vk-modal-info { padding: 28px 28px 22px; position: relative; }
+  .vk-modal-close {
+    position: absolute; top: 16px; right: 16px;
+    width: 30px; height: 30px;
+    border-radius: 50%;
+    border: 1px solid var(--hairline);
+    background: rgba(0,0,0,0.3);
+    color: var(--ink-dim);
+    cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    transition: all 0.15s;
+  }
+  .vk-modal-close:hover { color: var(--ink); border-color: var(--gold-dim); }
+
+  .vk-modal-faction {
+    font-family: 'Spectral SC', serif;
+    font-size: 10.5px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--card-accent, var(--gold));
+    margin-bottom: 8px;
+  }
+  .vk-modal-name {
+    font-family: 'Cinzel', serif;
+    font-weight: 900;
+    font-size: 30px;
+    color: var(--ink);
+    line-height: 1.05;
+  }
+  .vk-modal-epithet {
+    font-style: italic;
+    color: var(--ink-dim);
+    font-size: 15px;
+    margin-top: 4px;
+  }
+  .vk-modal-tags {
+    display: flex; gap: 8px; flex-wrap: wrap;
+    margin-top: 14px;
+  }
+  .vk-tag {
+    font-size: 10.5px;
+    letter-spacing: 0.06em;
+    padding: 4px 10px;
+    border-radius: 3px;
+    border: 1px solid var(--hairline);
+    color: var(--ink-dim);
+    text-transform: uppercase;
+    font-family: 'Spectral SC', serif;
+  }
+
+  .vk-modal-bio {
+    padding: 0 28px 30px;
+    font-size: 14.5px;
+    line-height: 1.7;
+    color: var(--ink-dim);
+  }
+  .vk-modal-bio p { margin: 0 0 14px; }
+  .vk-modal-bio p:last-child { margin-bottom: 0; }
+
+  .vk-modal-bio::first-letter {
+    font-family: 'Cinzel', serif;
+    font-size: 38px;
+    font-weight: 700;
+    color: var(--gold);
+    float: left;
+    line-height: 0.8;
+    padding: 6px 8px 0 0;
+  }
+
+  .vk-modal-source {
+    padding: 0 28px 26px;
+    font-size: 11px;
+    color: var(--ink-faint);
+    font-style: italic;
+  }
+
+  .vk-footer {
+    text-align: center;
+    padding: 30px 24px 50px;
+    color: var(--ink-faint);
+    font-size: 12px;
+    font-style: italic;
+    border-top: 1px solid var(--hairline);
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+</style>
+</head>
+<body>
+
+  <div class="vk-header">
+    <div class="vk-eyebrow">Chronicles of Light &amp; Shadow</div>
+    <h1 class="vk-title">VALKORATH</h1>
+    <div class="vk-subtitle">A Character Catalog</div>
+    <div class="vk-divider">
+      <span></span>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M12 2 L14 10 L22 12 L14 14 L12 22 L10 14 L2 12 L10 10 Z"/></svg>
+      <span class="r"></span>
+    </div>
+  </div>
+
+  <div class="vk-controls" id="vk-controls"></div>
+  <div class="vk-count" id="vk-count"></div>
+  <div class="vk-grid" id="vk-grid">
+    <div class="vk-loading">Loading the chronicles…</div>
+  </div>
+
+  <div class="vk-footer">Valkorath character catalog &middot; reads live from <code>characters/catalog.json</code> &middot; run a local server to view (see README)</div>
+
+<script>
+(function() {
+  const FACTION_COLORS = {
+    "Last Bastion": "#d8b369",
+    "Hidden Holy Order": "#9b8bd4",
+    "Order of the Iron Oath": "#c98a4b",
+    "Drexl's Forces": "#9b3b46",
+    "Valkorath Crown": "#d8b369",
+    "Garrux's Empire": "#a8455a",
+    "Kyokazura": "#5fa3a8",
+    "Velkynai": "#7a4fb5",
+    "Shattered Vale": "#7fae6b",
+    "Eastern Marshlands": "#7fae6b",
+    "Unaligned": "#6e6557",
+  };
+
+  const STATUS_COLORS = {
+    "Active": "#7fae6b",
+    "Fallen": "#9b3b46",
+    "Corrupted": "#7a4fb5",
+  };
+
+  const grid = document.getElementById('vk-grid');
+  const controls = document.getElementById('vk-controls');
+  const countEl = document.getElementById('vk-count');
+
+  let DATA = [];
+  let state = { search: '', faction: 'All', status: 'All' };
+
+  fetch('../characters/catalog.json')
+    .then(r => {
+      if (!r.ok) throw new Error('fetch failed');
+      return r.json();
+    })
+    .then(data => {
+      DATA = data;
+      renderControls();
+      renderGrid();
+    })
+    .catch(err => {
+      grid.innerHTML = `<div class="vk-empty">Couldn't load characters/catalog.json.<br><br>
+        If you opened this file directly (file://), browsers block local fetch requests.<br>
+        Run a local server instead — see the README — e.g.<br><code>python3 -m http.server</code> from the repo root, then open <code>/catalog/</code>.</div>`;
+    });
+
+  function renderControls() {
+    controls.innerHTML = '';
+
+    const search = document.createElement('input');
+    search.className = 'vk-search';
+    search.placeholder = 'Search by name, title, or trait…';
+    search.value = state.search;
+    search.addEventListener('input', e => { state.search = e.target.value; renderGrid(); });
+    controls.appendChild(search);
+
+    const statusSel = document.createElement('select');
+    statusSel.className = 'vk-select';
+    ['All', 'Active', 'Fallen', 'Corrupted'].forEach(s => {
+      const opt = document.createElement('option');
+      opt.value = s; opt.textContent = s === 'All' ? 'All Statuses' : s;
+      statusSel.appendChild(opt);
+    });
+    statusSel.addEventListener('change', e => { state.status = e.target.value; renderGrid(); });
+    controls.appendChild(statusSel);
+
+    const factionWrap = document.createElement('div');
+    factionWrap.style.display = 'flex';
+    factionWrap.style.flexWrap = 'wrap';
+    factionWrap.style.gap = '8px';
+    factionWrap.style.justifyContent = 'center';
+    factionWrap.style.width = '100%';
+    factionWrap.style.marginTop = '6px';
+
+    const factions = ['All', ...Array.from(new Set(DATA.map(d => d.faction))).sort()];
+    factions.forEach(f => {
+      const chip = document.createElement('button');
+      chip.className = 'vk-chip';
+      chip.textContent = f;
+      chip.dataset.active = state.faction === f;
+      chip.addEventListener('click', () => {
+        state.faction = f;
+        Array.from(factionWrap.querySelectorAll('.vk-chip')).forEach(c => c.dataset.active = (c.textContent === f));
+        renderGrid();
+      });
+      factionWrap.appendChild(chip);
+    });
+    controls.appendChild(factionWrap);
+  }
+
+  function matches(c) {
+    const q = state.search.trim().toLowerCase();
+    if (state.faction !== 'All' && c.faction !== state.faction) return false;
+    if (state.status !== 'All' && c.status !== state.status) return false;
+    if (!q) return true;
+    const hay = (c.name + ' ' + c.epithet + ' ' + c.tags.join(' ') + ' ' + c.bio.join(' ')).toLowerCase();
+    return hay.includes(q);
+  }
+
+  function renderGrid() {
+    grid.innerHTML = '';
+    const filtered = DATA.filter(matches);
+    countEl.textContent = filtered.length + (filtered.length === 1 ? ' character found' : ' characters found') + ` (of ${DATA.length})`;
+
+    if (filtered.length === 0) {
+      const empty = document.createElement('div');
+      empty.className = 'vk-empty';
+      empty.textContent = 'No one in the realm matches that search.';
+      grid.appendChild(empty);
+      return;
+    }
+
+    filtered.forEach(c => {
+      const card = document.createElement('div');
+      card.className = 'vk-card';
+      card.style.setProperty('--card-accent', FACTION_COLORS[c.faction] || '#d8b369');
+
+      const img = document.createElement('img');
+      img.className = 'vk-card-art';
+      img.src = '../characters/' + c.art;
+      img.alt = c.name;
+      img.loading = 'lazy';
+      card.appendChild(img);
+
+      const fade = document.createElement('div');
+      fade.className = 'vk-card-fade';
+      card.appendChild(fade);
+
+      const dot = document.createElement('div');
+      dot.className = 'vk-status-dot';
+      dot.style.setProperty('--status-color', STATUS_COLORS[c.status] || '#6e6557');
+      dot.title = c.status;
+      card.appendChild(dot);
+
+      const body = document.createElement('div');
+      body.className = 'vk-card-body';
+      body.innerHTML = `
+        <div class="vk-card-faction">${c.faction}</div>
+        <div class="vk-card-name">${c.name}</div>
+        <div class="vk-card-epithet">${c.epithet}</div>
+      `;
+      card.appendChild(body);
+
+      card.addEventListener('click', () => openModal(c));
+      grid.appendChild(card);
+    });
+  }
+
+  function openModal(c) {
+    const overlay = document.createElement('div');
+    overlay.className = 'vk-overlay';
+    overlay.addEventListener('click', e => { if (e.target === overlay) close(); });
+
+    const modal = document.createElement('div');
+    modal.className = 'vk-modal';
+
+    const top = document.createElement('div');
+    top.className = 'vk-modal-top';
+
+    const img = document.createElement('img');
+    img.className = 'vk-modal-art';
+    img.src = '../characters/' + c.art;
+    img.alt = c.name;
+    top.appendChild(img);
+
+    const info = document.createElement('div');
+    info.className = 'vk-modal-info';
+    info.style.setProperty('--card-accent', FACTION_COLORS[c.faction] || '#d8b369');
+    info.innerHTML = `
+      <button class="vk-modal-close" aria-label="Close">✕</button>
+      <div class="vk-modal-faction">${c.faction}</div>
+      <div class="vk-modal-name">${c.name}</div>
+      <div class="vk-modal-epithet">${c.epithet}</div>
+      <div class="vk-modal-tags">
+        ${c.tags.map(t => `<span class="vk-tag">${t}</span>`).join('')}
+        <span class="vk-tag">${c.status}</span>
+      </div>
+    `;
+    top.appendChild(info);
+    modal.appendChild(top);
+
+    const bio = document.createElement('div');
+    bio.className = 'vk-modal-bio';
+    bio.innerHTML = c.bio.map(p => `<p>${p}</p>`).join('');
+    modal.appendChild(bio);
+
+    const source = document.createElement('div');
+    source.className = 'vk-modal-source';
+    source.textContent = `characters/data/${c.slug}.json · visual dictionary page ${c.source_page}`;
+    modal.appendChild(source);
+
+    overlay.appendChild(modal);
+    document.body.appendChild(overlay);
+
+    function close() { overlay.remove(); document.removeEventListener('keydown', onKey); }
+    function onKey(e) { if (e.key === 'Escape') close(); }
+    document.addEventListener('keydown', onKey);
+    info.querySelector('.vk-modal-close').addEventListener('click', close);
+  }
+})();
+</script>
+</body>
+</html>
